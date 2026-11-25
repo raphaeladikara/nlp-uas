@@ -1,0 +1,41 @@
+model,input,augmentasi,data tambahan,macro-F1 tanpa,macro-F1 dengan,Δ macro-F1,fold membaik,Δ F1 positif,Δ F1 netral
+TF-IDF + LogReg,teks saja,jalur B,42,0.526,0.551,0.025,5/5,0.063,-0.003
+TF-IDF + LogReg,teks saja,parafrase,137,0.526,0.517,-0.009,2/5,-0.026,0.002
+TF-IDF + LogReg,teks saja,jalur B + parafrase,260,0.526,0.534,0.008,3/5,0.015,0.005
+TF-IDF + LogReg,teks saja,jalur B + terarah,74,0.526,0.561,0.035,4/5,0.087,-0.002
+TF-IDF + LogReg,teks + judul,jalur B,42,0.584,0.589,0.004,3/5,-0.036,0.023
+TF-IDF + LogReg,teks + judul,parafrase,137,0.584,0.576,-0.009,2/5,-0.029,0.006
+TF-IDF + LogReg,teks + judul,jalur B + parafrase,260,0.584,0.584,0.0,3/5,-0.034,0.018
+TF-IDF + LogReg,teks + judul,jalur B + terarah,74,0.584,0.603,0.019,3/5,0.011,0.025
+TF-IDF + LinearSVM,teks saja,jalur B + parafrase,260,0.506,0.537,0.031,4/5,0.108,-0.012
+TF-IDF + LinearSVM,teks + judul,jalur B + parafrase,260,0.551,0.587,0.036,4/5,0.093,0.015
+IndoBERT fine-tune,teks saja,jalur B + parafrase,249,0.559,0.566,0.007,3/5,0.029,-0.006
+IndoBERT fine-tune,teks + judul,jalur B,42,0.607,0.614,0.008,3/5,0.032,-0.005
+IndoBERT fine-tune,teks + judul,parafrase,126,0.607,0.603,-0.003,2/5,0.001,-0.01
+IndoBERT fine-tune,teks + judul,jalur B + parafrase,249,0.607,0.606,-0.001,3/5,0.001,-0.006
+IndoBERT fine-tune,teks + judul,jalur B + terarah,74,0.607,0.616,0.009,3/5,0.06,-0.022
+IndoBERTweet fine-tune,teks saja,jalur B + parafrase,249,0.578,0.596,0.019,4/5,0.035,0.001
+IndoBERTweet fine-tune,teks + judul,jalur B,42,0.584,0.597,0.013,2/5,0.04,0.009
+IndoBERTweet fine-tune,teks + judul,parafrase,126,0.584,0.583,-0.001,2/5,-0.008,0.008
+IndoBERTweet fine-tune,teks + judul,jalur B + parafrase,249,0.584,0.595,0.011,3/5,-0.002,0.025
+IndoBERTweet fine-tune,teks + judul,jalur B + terarah,74,0.584,0.609,0.025,3/5,0.068,-0.002
+XLM-RoBERTa fine-tune,teks saja,jalur B + parafrase,249,0.479,0.529,0.05,5/5,0.132,0.0
+XLM-RoBERTa fine-tune,teks + judul,jalur B,42,0.539,0.563,0.024,4/5,0.056,-0.013
+XLM-RoBERTa fine-tune,teks + judul,parafrase,126,0.539,0.552,0.013,4/5,0.02,0.01
+XLM-RoBERTa fine-tune,teks + judul,jalur B + parafrase,249,0.539,0.58,0.041,4/5,0.054,0.026
+IndoBERT embedding + LogReg,teks saja,jalur B,42,0.521,0.523,0.002,2/5,0.005,-0.004
+IndoBERT embedding + LogReg,teks saja,parafrase,137,0.521,0.513,-0.008,2/5,-0.02,0.003
+IndoBERT embedding + LogReg,teks saja,jalur B + parafrase,260,0.521,0.512,-0.009,1/5,-0.02,-0.004
+IndoBERT embedding + LogReg,teks saja,jalur B + terarah,74,0.521,0.507,-0.014,2/5,-0.029,-0.005
+IndoBERT embedding + LogReg,teks + judul,jalur B,42,0.585,0.586,0.001,3/5,0.006,-0.001
+IndoBERT embedding + LogReg,teks + judul,parafrase,137,0.585,0.569,-0.016,1/5,-0.033,0.001
+IndoBERT embedding + LogReg,teks + judul,jalur B + parafrase,260,0.585,0.57,-0.014,1/5,-0.036,-0.002
+IndoBERT embedding + LogReg,teks + judul,jalur B + terarah,74,0.585,0.57,-0.014,1/5,-0.029,-0.006
+BiLSTM + attention,teks saja,jalur B,42,0.485,0.514,0.03,4/5,0.085,0.008
+BiLSTM + attention,teks saja,parafrase,126,0.485,0.458,-0.026,0/5,-0.032,-0.059
+BiLSTM + attention,teks saja,jalur B + parafrase,249,0.485,0.501,0.016,4/5,0.053,-0.011
+BiLSTM + attention,teks saja,jalur B + terarah,74,0.485,0.498,0.013,3/5,0.033,0.005
+BiLSTM + attention,teks + judul,jalur B,42,0.507,0.512,0.004,3/5,-0.003,0.029
+BiLSTM + attention,teks + judul,parafrase,126,0.507,0.499,-0.008,2/5,-0.049,0.039
+BiLSTM + attention,teks + judul,jalur B + parafrase,249,0.507,0.498,-0.01,2/5,-0.058,0.027
+BiLSTM + attention,teks + judul,jalur B + terarah,74,0.507,0.505,-0.002,2/5,-0.016,0.032

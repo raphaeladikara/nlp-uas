@@ -1,0 +1,7 @@
+label,pred,n
+negatif,netral,341
+negatif,positif,52
+netral,negatif,331
+netral,positif,8
+positif,negatif,48
+positif,netral,6

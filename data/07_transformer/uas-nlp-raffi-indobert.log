@@ -1,0 +1,72 @@
+[{"stream_name":"stderr","time":8.969231998,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.969282754,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.969288379,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.969291881,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":9.590915442,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":9.590942681,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":9.59094736,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":9.590951255,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":43.671751063,"data":"data dari: /kaggle/input/uas-nlp-raffi-v2 | device: cuda Tesla T4\n"}
+,{"stream_name":"stdout","time":44.429794998,"data":"indobert indobenchmark/indobert-base-p1\n"}
+,{"stream_name":"stdout","time":44.42982732,"data":"data utama: (3329, 18) {'negatif': 2206, 'netral': 1039, 'positif': 84}\n"}
+,{"stream_name":"stdout","time":44.429834501,"data":"augmentasi: {'bt_utama': 172, 'bt_jalur_b': 81, 'jalur_b': 42, 'terarah': 32}\n"}
+,{"stream_name":"stderr","time":44.694087869,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":44.694112371,"data":"\n"}
+,{"stream_name":"stderr","time":44.694117649,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":45.370584297,"data":"do_lower_case di tokenizer: True\n"}
+,{"stream_name":"stdout","time":45.370615101,"data":"'BOIKOT RANS'   -\u003e ['bo', '##ikot', 'rans']\n"}
+,{"stream_name":"stdout","time":45.370619229,"data":"'boikot rans'   -\u003e ['bo', '##ikot', 'rans']\n"}
+,{"stream_name":"stdout","time":45.370622236,"data":"contoh emoji : Ngumpulin jamet2 darimana ini wajah gembira berurai air mata\n"}
+,{"stream_name":"stdout","time":147.06102241,"data":"indobert|teks saja|tanpa augmentasi | fold 0: macro-F1 0.560, F1 positif 0.250, +0 augmentasi, epoch 5, 101 detik\n"}
+,{"stream_name":"stdout","time":241.035857843,"data":"indobert|teks saja|tanpa augmentasi | fold 1: macro-F1 0.567, F1 positif 0.222, +0 augmentasi, epoch 5, 94 detik\n"}
+,{"stream_name":"stdout","time":334.325871419,"data":"indobert|teks saja|tanpa augmentasi | fold 2: macro-F1 0.557, F1 positif 0.296, +0 augmentasi, epoch 3, 93 detik\n"}
+,{"stream_name":"stdout","time":427.372727505,"data":"indobert|teks saja|tanpa augmentasi | fold 3: macro-F1 0.561, F1 positif 0.261, +0 augmentasi, epoch 5, 93 detik\n"}
+,{"stream_name":"stdout","time":520.80240841,"data":"indobert|teks saja|tanpa augmentasi | fold 4: macro-F1 0.551, F1 positif 0.296, +0 augmentasi, epoch 4, 93 detik\n"}
+,{"stream_name":"stdout","time":620.946003791,"data":"indobert|teks saja|jalur B + parafrase | fold 0: macro-F1 0.552, F1 positif 0.214, +247 augmentasi, epoch 4, 100 detik\n"}
+,{"stream_name":"stdout","time":723.416251081,"data":"indobert|teks saja|jalur B + parafrase | fold 1: macro-F1 0.581, F1 positif 0.258, +254 augmentasi, epoch 5, 102 detik\n"}
+,{"stream_name":"stdout","time":825.504121162,"data":"indobert|teks saja|jalur B + parafrase | fold 2: macro-F1 0.593, F1 positif 0.414, +259 augmentasi, epoch 5, 102 detik\n"}
+,{"stream_name":"stdout","time":925.701988402,"data":"indobert|teks saja|jalur B + parafrase | fold 3: macro-F1 0.536, F1 positif 0.250, +249 augmentasi, epoch 2, 100 detik\n"}
+,{"stream_name":"stdout","time":1026.26797165,"data":"indobert|teks saja|jalur B + parafrase | fold 4: macro-F1 0.566, F1 positif 0.333, +240 augmentasi, epoch 3, 101 detik\n"}
+,{"stream_name":"stdout","time":1147.03103933,"data":"indobert|teks + judul|tanpa augmentasi | fold 0: macro-F1 0.612, F1 positif 0.261, +0 augmentasi, epoch 5, 120 detik\n"}
+,{"stream_name":"stdout","time":1271.897113605,"data":"indobert|teks + judul|tanpa augmentasi | fold 1: macro-F1 0.619, F1 positif 0.267, +0 augmentasi, epoch 5, 125 detik\n"}
+,{"stream_name":"stdout","time":1395.280760387,"data":"indobert|teks + judul|tanpa augmentasi | fold 2: macro-F1 0.592, F1 positif 0.261, +0 augmentasi, epoch 4, 123 detik\n"}
+,{"stream_name":"stdout","time":1516.860058862,"data":"indobert|teks + judul|tanpa augmentasi | fold 3: macro-F1 0.624, F1 positif 0.400, +0 augmentasi, epoch 2, 122 detik\n"}
+,{"stream_name":"stdout","time":1639.456908108,"data":"indobert|teks + judul|tanpa augmentasi | fold 4: macro-F1 0.586, F1 positif 0.276, +0 augmentasi, epoch 4, 123 detik\n"}
+,{"stream_name":"stdout","time":1761.638400185,"data":"indobert|teks + judul|jalur B | fold 0: macro-F1 0.639, F1 positif 0.385, +42 augmentasi, epoch 2, 122 detik\n"}
+,{"stream_name":"stdout","time":1887.337162618,"data":"indobert|teks + judul|jalur B | fold 1: macro-F1 0.616, F1 positif 0.267, +42 augmentasi, epoch 5, 126 detik\n"}
+,{"stream_name":"stdout","time":2012.755253255,"data":"indobert|teks + judul|jalur B | fold 2: macro-F1 0.569, F1 positif 0.214, +42 augmentasi, epoch 4, 125 detik\n"}
+,{"stream_name":"stdout","time":2135.924129042,"data":"indobert|teks + judul|jalur B | fold 3: macro-F1 0.647, F1 positif 0.480, +42 augmentasi, epoch 3, 123 detik\n"}
+,{"stream_name":"stdout","time":2259.316623038,"data":"indobert|teks + judul|jalur B | fold 4: macro-F1 0.601, F1 positif 0.278, +42 augmentasi, epoch 5, 123 detik\n"}
+,{"stream_name":"stdout","time":2384.914422703,"data":"indobert|teks + judul|parafrase | fold 0: macro-F1 0.595, F1 positif 0.250, +124 augmentasi, epoch 5, 125 detik\n"}
+,{"stream_name":"stdout","time":2513.875432906,"data":"indobert|teks + judul|parafrase | fold 1: macro-F1 0.602, F1 positif 0.240, +131 augmentasi, epoch 3, 129 detik\n"}
+,{"stream_name":"stdout","time":2642.499633579,"data":"indobert|teks + judul|parafrase | fold 2: macro-F1 0.609, F1 positif 0.348, +136 augmentasi, epoch 5, 129 detik\n"}
+,{"stream_name":"stdout","time":2768.806531613,"data":"indobert|teks + judul|parafrase | fold 3: macro-F1 0.614, F1 positif 0.345, +126 augmentasi, epoch 4, 126 detik\n"}
+,{"stream_name":"stdout","time":2895.804470874,"data":"indobert|teks + judul|parafrase | fold 4: macro-F1 0.598, F1 positif 0.286, +117 augmentasi, epoch 5, 127 detik\n"}
+,{"stream_name":"stdout","time":3025.808226937,"data":"indobert|teks + judul|jalur B + parafrase | fold 0: macro-F1 0.593, F1 positif 0.222, +247 augmentasi, epoch 3, 130 detik\n"}
+,{"stream_name":"stdout","time":3160.985344829,"data":"indobert|teks + judul|jalur B + parafrase | fold 1: macro-F1 0.626, F1 positif 0.294, +254 augmentasi, epoch 4, 135 detik\n"}
+,{"stream_name":"stdout","time":3294.478524896,"data":"indobert|teks + judul|jalur B + parafrase | fold 2: macro-F1 0.613, F1 positif 0.345, +259 augmentasi, epoch 5, 133 detik\n"}
+,{"stream_name":"stdout","time":3426.576336199,"data":"indobert|teks + judul|jalur B + parafrase | fold 3: macro-F1 0.582, F1 positif 0.294, +249 augmentasi, epoch 3, 132 detik\n"}
+,{"stream_name":"stdout","time":3559.428167203,"data":"indobert|teks + judul|jalur B + parafrase | fold 4: macro-F1 0.614, F1 positif 0.312, +240 augmentasi, epoch 4, 133 detik\n"}
+,{"stream_name":"stdout","time":3682.933234002,"data":"indobert|teks + judul|jalur B + terarah | fold 0: macro-F1 0.614, F1 positif 0.390, +74 augmentasi, epoch 2, 123 detik\n"}
+,{"stream_name":"stdout","time":3809.407665045,"data":"indobert|teks + judul|jalur B + terarah | fold 1: macro-F1 0.590, F1 positif 0.258, +74 augmentasi, epoch 2, 126 detik\n"}
+,{"stream_name":"stdout","time":3935.960446846,"data":"indobert|teks + judul|jalur B + terarah | fold 2: macro-F1 0.606, F1 positif 0.323, +74 augmentasi, epoch 3, 127 detik\n"}
+,{"stream_name":"stdout","time":4060.302174171,"data":"indobert|teks + judul|jalur B + terarah | fold 3: macro-F1 0.682, F1 positif 0.519, +74 augmentasi, epoch 5, 124 detik\n"}
+,{"stream_name":"stdout","time":4186.290054102,"data":"indobert|teks + judul|jalur B + terarah | fold 4: macro-F1 0.585, F1 positif 0.273, +74 augmentasi, epoch 5, 126 detik\n"}
+,{"stream_name":"stdout","time":4186.378262231,"data":"                                  macro_f1     sd  f1_negatif  f1_netral  f1_positif  n_aug\n"}
+,{"stream_name":"stdout","time":4186.37828634,"data":"input        augmentasi                                                                    \n"}
+,{"stream_name":"stdout","time":4186.378291597,"data":"teks saja    tanpa augmentasi        0.559  0.006       0.795      0.617       0.265    0.0\n"}
+,{"stream_name":"stdout","time":4186.378296106,"data":"             jalur B + parafrase     0.566  0.023       0.792      0.611       0.294  249.8\n"}
+,{"stream_name":"stdout","time":4186.378302365,"data":"teks + judul tanpa augmentasi        0.607  0.017       0.834      0.693       0.293    0.0\n"}
+,{"stream_name":"stdout","time":4186.378308611,"data":"             jalur B                 0.614  0.031       0.831      0.688       0.325   42.0\n"}
+,{"stream_name":"stdout","time":4186.378313258,"data":"             parafrase               0.603  0.008       0.834      0.683       0.294  126.8\n"}
+,{"stream_name":"stdout","time":4186.378318327,"data":"             jalur B + parafrase     0.606  0.018       0.837      0.687       0.294  249.8\n"}
+,{"stream_name":"stdout","time":4186.378322878,"data":"             jalur B + terarah       0.616  0.039       0.823      0.671       0.352   74.0\n"}
+,{"stream_name":"stderr","time":4191.983803925,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":4191.983837198,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":4192.143255422,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":4192.143297915,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":4192.903333535,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":4193.046275361,"data":"[NbConvertApp] Writing 531473 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":4195.547670081,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":4196.150444615,"data":"[NbConvertApp] Writing 745695 bytes to __results__.html\n"}
+]

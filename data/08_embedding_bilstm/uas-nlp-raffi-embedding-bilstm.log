@@ -1,0 +1,72 @@
+[{"stream_name":"stderr","time":10.976612789,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":10.976657761,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":10.976662297,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":10.976665636,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":11.700431879,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":11.700483379,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":11.700488813,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":11.700493217,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":57.516213546,"data":"device: cuda | data utama: 3329 | augmentasi: {'bt_utama': 172, 'bt_jalur_b': 81, 'jalur_b': 42, 'terarah': 32}\n"}
+,{"stream_name":"stderr","time":57.954372672,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":57.954413589,"data":"\n"}
+,{"stream_name":"stderr","time":57.954417537,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":75.189917536,"data":"embedding: (3656, 768) (3656, 768) 8 detik\n"}
+,{"stream_name":"stdout","time":102.574293631,"data":"embedding+LogReg | teks saja    | tanpa augmentasi     | macro-F1 0.521 ± 0.039 | F1 positif 0.239\n"}
+,{"stream_name":"stdout","time":131.65617306,"data":"embedding+LogReg | teks saja    | jalur B              | macro-F1 0.523 ± 0.024 | F1 positif 0.245\n"}
+,{"stream_name":"stdout","time":149.994640941,"data":"embedding+LogReg | teks saja    | parafrase            | macro-F1 0.513 ± 0.027 | F1 positif 0.219\n"}
+,{"stream_name":"stdout","time":172.419016077,"data":"embedding+LogReg | teks saja    | jalur B + parafrase  | macro-F1 0.512 ± 0.028 | F1 positif 0.219\n"}
+,{"stream_name":"stdout","time":195.513122316,"data":"embedding+LogReg | teks saja    | jalur B + terarah    | macro-F1 0.507 ± 0.019 | F1 positif 0.211\n"}
+,{"stream_name":"stdout","time":262.667975572,"data":"embedding+LogReg | teks + judul | tanpa augmentasi     | macro-F1 0.585 ± 0.017 | F1 positif 0.304\n"}
+,{"stream_name":"stdout","time":332.460790737,"data":"embedding+LogReg | teks + judul | jalur B              | macro-F1 0.586 ± 0.022 | F1 positif 0.309\n"}
+,{"stream_name":"stdout","time":388.720715484,"data":"embedding+LogReg | teks + judul | parafrase            | macro-F1 0.569 ± 0.028 | F1 positif 0.271\n"}
+,{"stream_name":"stdout","time":444.346728204,"data":"embedding+LogReg | teks + judul | jalur B + parafrase  | macro-F1 0.570 ± 0.038 | F1 positif 0.268\n"}
+,{"stream_name":"stdout","time":518.180244727,"data":"embedding+LogReg | teks + judul | jalur B + terarah    | macro-F1 0.570 ± 0.031 | F1 positif 0.275\n"}
+,{"stream_name":"stdout","time":568.257439241,"data":"BiLSTM+attention | teks saja    | tanpa augmentasi     | macro-F1 0.485 ± 0.028 | F1 positif 0.210 | 48 detik\n"}
+,{"stream_name":"stdout","time":612.302294385,"data":"BiLSTM+attention | teks saja    | jalur B              | macro-F1 0.514 ± 0.041 | F1 positif 0.295 | 44 detik\n"}
+,{"stream_name":"stdout","time":658.716011133,"data":"BiLSTM+attention | teks saja    | parafrase            | macro-F1 0.458 ± 0.031 | F1 positif 0.178 | 46 detik\n"}
+,{"stream_name":"stdout","time":707.789307255,"data":"BiLSTM+attention | teks saja    | jalur B + parafrase  | macro-F1 0.501 ± 0.027 | F1 positif 0.263 | 49 detik\n"}
+,{"stream_name":"stdout","time":754.884874479,"data":"BiLSTM+attention | teks saja    | jalur B + terarah    | macro-F1 0.498 ± 0.010 | F1 positif 0.243 | 47 detik\n"}
+,{"stream_name":"stdout","time":818.105186535,"data":"BiLSTM+attention | teks + judul | tanpa augmentasi     | macro-F1 0.507 ± 0.065 | F1 positif 0.241 | 62 detik\n"}
+,{"stream_name":"stdout","time":881.058401589,"data":"BiLSTM+attention | teks + judul | jalur B              | macro-F1 0.512 ± 0.051 | F1 positif 0.238 | 63 detik\n"}
+,{"stream_name":"stdout","time":945.967980957,"data":"BiLSTM+attention | teks + judul | parafrase            | macro-F1 0.499 ± 0.028 | F1 positif 0.192 | 65 detik\n"}
+,{"stream_name":"stdout","time":1013.505539379,"data":"BiLSTM+attention | teks + judul | jalur B + parafrase  | macro-F1 0.498 ± 0.024 | F1 positif 0.183 | 68 detik\n"}
+,{"stream_name":"stdout","time":1077.148273943,"data":"BiLSTM+attention | teks + judul | jalur B + terarah    | macro-F1 0.505 ± 0.029 | F1 positif 0.225 | 64 detik\n"}
+,{"stream_name":"stdout","time":1078.130732312,"data":"'Ini sama halnya kalo kabupaten HUT dan panggil artis ibukota dibayar dengan apbn'    -\u003e ['panggil', 'artis', 'ibukota']\n"}
+,{"stream_name":"stdout","time":1078.130769432,"data":"'saya 1000% yakin bahwa Rafi ahmad didzolimi dan aa rafi hanya tamu undangan... i'    -\u003e ['[SEP]', '!', '!']\n"}
+,{"stream_name":"stdout","time":1078.130776547,"data":"\"semangat aa' Rafi manusia tiada yang sempurna pasti banyak kehilapan dan kesalah\"    -\u003e ['##ilap', 'keh', 'tiada']\n"}
+,{"stream_name":"stdout","time":1078.130781982,"data":"'semangat Rafi..tuhan maha tau..jngn patah semangat..kasian karyawan mu mrk butuh'    -\u003e ['kasian', 'karyawan', '[SEP]']\n"}
+,{"stream_name":"stdout","time":1078.130786933,"data":"'knp kok byk yg benci sm raffi ,setahu aku raffi dr kecil cari uang didunia enter'    -\u003e ['benci', 'raffi', '[SEP]']\n"}
+,{"stream_name":"stdout","time":1078.130791603,"data":"'rafi uda kaya raya. jgn di sangkut pautkan dengan politik.sabarr yaa aa.rafi waj'    -\u003e ['[SEP]', '##utkan', 'sangk']\n"}
+,{"stream_name":"stdout","time":1078.13079645,"data":"'semakin tinggi pohon semakin besar anginnya'                                         -\u003e ['[SEP]', 'angin', '##nya']\n"}
+,{"stream_name":"stdout","time":1078.130801327,"data":"'saya tidak percaya berita hoax kaya gini wajah menjulurkan lidah dan mengedipkan'    -\u003e ['tepuk', 'cerah', 'tangan']\n"}
+,{"stream_name":"stdout","time":1078.213662317,"data":"                                                              macro_f1     sd  f1_negatif  f1_netral  f1_positif\n"}
+,{"stream_name":"stdout","time":1078.213692912,"data":"model                       input        augmentasi                                                             \n"}
+,{"stream_name":"stdout","time":1078.213700262,"data":"IndoBERT embedding + LogReg teks saja    tanpa augmentasi        0.521  0.039       0.743      0.581       0.239\n"}
+,{"stream_name":"stdout","time":1078.213705435,"data":"                                         jalur B                 0.523  0.024       0.749      0.576       0.245\n"}
+,{"stream_name":"stdout","time":1078.213710599,"data":"                                         parafrase               0.513  0.027       0.735      0.584       0.219\n"}
+,{"stream_name":"stdout","time":1078.213722039,"data":"                                         jalur B + parafrase     0.512  0.028       0.741      0.577       0.219\n"}
+,{"stream_name":"stdout","time":1078.213726501,"data":"                                         jalur B + terarah       0.507  0.019       0.735      0.576       0.211\n"}
+,{"stream_name":"stdout","time":1078.213739376,"data":"                            teks + judul tanpa augmentasi        0.585  0.017       0.794      0.656       0.304\n"}
+,{"stream_name":"stdout","time":1078.213742188,"data":"                                         jalur B                 0.586  0.022       0.794      0.655       0.309\n"}
+,{"stream_name":"stdout","time":1078.213744877,"data":"                                         parafrase               0.569  0.028       0.779      0.657       0.271\n"}
+,{"stream_name":"stdout","time":1078.213747568,"data":"                                         jalur B + parafrase     0.570  0.038       0.789      0.653       0.268\n"}
+,{"stream_name":"stdout","time":1078.213750149,"data":"                                         jalur B + terarah       0.570  0.031       0.787      0.649       0.275\n"}
+,{"stream_name":"stdout","time":1078.213752784,"data":"BiLSTM + attention          teks saja    tanpa augmentasi        0.485  0.028       0.715      0.529       0.210\n"}
+,{"stream_name":"stdout","time":1078.213755834,"data":"                                         jalur B                 0.514  0.041       0.710      0.537       0.295\n"}
+,{"stream_name":"stdout","time":1078.213758511,"data":"                                         parafrase               0.458  0.031       0.727      0.470       0.178\n"}
+,{"stream_name":"stdout","time":1078.213761511,"data":"                                         jalur B + parafrase     0.501  0.027       0.721      0.518       0.263\n"}
+,{"stream_name":"stdout","time":1078.213783005,"data":"                                         jalur B + terarah       0.498  0.010       0.718      0.533       0.243\n"}
+,{"stream_name":"stdout","time":1078.213787736,"data":"                            teks + judul tanpa augmentasi        0.507  0.065       0.749      0.532       0.241\n"}
+,{"stream_name":"stdout","time":1078.213793573,"data":"                                         jalur B                 0.512  0.051       0.736      0.561       0.238\n"}
+,{"stream_name":"stdout","time":1078.213798294,"data":"                                         parafrase               0.499  0.028       0.735      0.571       0.192\n"}
+,{"stream_name":"stdout","time":1078.213802788,"data":"                                         jalur B + parafrase     0.498  0.024       0.751      0.559       0.183\n"}
+,{"stream_name":"stdout","time":1078.213807134,"data":"                                         jalur B + terarah       0.505  0.029       0.727      0.564       0.225\n"}
+,{"stream_name":"stderr","time":1083.545011876,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1083.545047505,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1083.761073752,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1083.761101995,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1084.663343175,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":1084.761616638,"data":"[NbConvertApp] Writing 148601 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":1087.265192696,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1087.886922567,"data":"[NbConvertApp] Writing 452919 bytes to __results__.html\n"}
+]
