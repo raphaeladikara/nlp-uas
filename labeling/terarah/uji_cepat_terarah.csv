@@ -1,0 +1,5 @@
+varian,macro_f1,f1_negatif,f1_netral,f1_positif,n_pos_latih_tambahan
+tanpa augmentasi,0.59,0.833,0.666,0.273,0
+jalur B,0.579,0.832,0.667,0.239,42
+jalur B + terarah (bulat),0.606,0.833,0.665,0.32,66
+jalur B + terarah (bulat + mayoritas),0.604,0.832,0.664,0.316,73

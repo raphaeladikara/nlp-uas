@@ -1,0 +1,216 @@
+# Batch 02 (201 teks)
+
+Labeli setiap teks sesuai labeling/codebook.md. Konteks di atas tiap kelompok berlaku untuk semua teks di bawahnya.
+
+## Sumber instagram DfFQ5bgmU7A
+Konteks: Caption unggahan @raffinagita1717: 🧑🏻‍🩰cute
+
+- IG_18051810005817050 | Laa ilaaha illaa anta subhaanaka innii kuntu minazh zhaalimiin
+- IG_17975241855150149 | Bener si windah bakal post anak 😂
+- IG_18200386987380723 | FI CUCIAN BANYAK, HARUS SEGERA KE LAUNDRY
+- IG_18021542702939103 | Ecieeeee MAHASEWA SAHABAT DAHSYAT jadi pe demoo ni yeeeeyyy 😂
+- IG_17867590011675336 | Tebakan windah benar
+- IG_18119688766997289 | Pengalihan isu😂
+- IG_17881893882545286 | Penonton pesbuker suruh jadi mahasewa 😂
+- IG_18113639066599336 | ANAK SEKECIL ITU JADI TAMENG BAPAKNYA SETIAP ABIS KONTRA, BERDOSA SEKALI ORANG TUA YG MEMPERALAT ANAK
+- IG_18110194181224757 | Manfaatin anak angkat buat cari iba wkwkwkk dazal trrsenyum lebar
+- IG_18082067747376685 | WKWWKKWW BENERAN POST ANAKK KOCAK DAH
+- IG_18068113424628020 | Bangga kasih makan anak dari hasil cucian? Btw bener prediksi si winda 😂
+- IG_18154376749552050 | Langsung post anak anak tuh, wkwkwkwkwk,
+- IG_18072859124750047 | Kekayaan dan jabatan anda di dunia hanya sementara, di akhirat lu ga minta syafaat dr Wowo, sadar woi jangan buta hati nurani lu krna jabatan dan harta, naudzubillah min dzalik!!
+- IG_18106219085626328 | SAHABAT DAHSYAT MAHASEWA
+- IG_18414264880084591 | Gemesss ❤️❤️❤️❤️
+- IG_18102809435058948 | Duta Mahasiswa palsu😂😂😂
+- IG_18087687248316552 | Tukang Cuci 💩💩💩💩💩💩💩
+- IG_18130628860864481 | anak jangan dijadiin tameng bro
+- IG_18159668485509832 | Penonton dahsyat dijadiin mahasiswa😂😂😂 pas di tanya dari kmpus mna malah jawab kampus sini trus jawab psi Luh partai apa kampus😂😂😂😂
+- IG_18126637729970997 | pengalihan isu
+- IG_18015625535967930 | Bisa-bisanya Lily dijadiin tameng
+- IG_18086716769709480 | TUKANG LAUNDRY 😂😂😂
+- IG_18646004722021192 | udeh ketebak fii
+- IG_18079484441416767 | Eh la kok benar wkwk
+- IG_17910328761575796 | Nangis para pahlawan yg berjuang untuk mendapatkan kemerdekaan Indonesia melihat postingan tgl 29 yg berbalut merah putih penuh dg kebohongan
+- IG_18093259664242080 | Kasian
+- IG_18102547199061918 | Hadeh
+- IG_18652099168054379 | Kasian anak kecil yang ga tau apa-apa jadi korban gara-gara ulah ke GOBLOKAN orang tua nya🤦
+- IG_17939674770122251 | skema nya udah kebaca
+- IG_18568984696078398 | Bang nih bener apa kata lu kalau ada yg salah langsung up fto keluarga wkwkwkk @user
+- IG_18482010496115339 | ksian amat tuh ank jd tameng ank kndung😂
+- IG_18130164661861788 | Gimana @user terkait yg mengatakan mahasiswa pedahal mahasewa dengan almamater pedahal hoax
+- IG_18106661153314795 | Prediksi Pimpinan bocil kematian 💯%
+- IG_17973781386179101 | Langsung post anak Loh ya 😹
+- IG_17909745558568945 | Kata.a di byar itu mahasewa nya, ehh nama.a juga mahasewa pasti di bayar..
+- IG_18643159459056280 | Ya Allah ni sekeluarga ya bener2
+- IG_18088968125305943 | Mahasewa
+- IG_18116479718142313 | Pembayar mahasewa
+- IG_18210851860317068 | Mana nih buzzer2 nya ? Gak ada yg nyebokin kah ?😂
+- IG_17939670393123136 | hmmm.....illlfilll bnget. crita yg dibangun bgus dr dulu mulai hancur setelah loe masuk pmerintahan.ini yg udah kutebak lama. sayang....seribu sayang
+- IG_18646697644049979 | Gilaaakkk!
+- IG_18566155024073637 | Sehat ya nak, meskipun bapak angkat mu itu sudah membohongi 1 Indonesia aje dulu jangan dunia😂
+- IG_17974206327160260 | hdh siapa lagi
+- IG_17915137209493924 | ini poto anak 3 itu
+- IG_18125445893512310 | Tameng bocil. Ini strategi hamaz njir
+- IG_18450622666120790 | loh loh loh
+- IG_17881678947543596 | Di isi komenan Rakyat tanpa bayaran 😂
+- IG_17977846626131682 | Sandiwara
+- IG_18377851285243180 | Anak selalu di jadiin tameng😂 makin banyak dia angkat anak makin banyak tamengnya😂😂 kocak.
+- IG_18174932047455929 | Yel yel nya para Dahsyat gini , ye ye la la la ye ye la la la , kucek2 jemur2 eeeee aaaaa ,😂
+- IG_18115368548026223 | Polanya emg selalu seperti ini 😂
+- IG_17899835433608546 | wkwkw lucu lagi, tp kali ini bukan lucu ankny😂
+- IG_18469755526184080 | Biar apa???
+- IG_17926733376201050 | IDOT HAHAHAHAHAHAHA
+- IG_18111459220929123 | Kasihan anak sekecil ini jadi tameng
+- IG_18067407968795584 | Knpa yg d post anak angkatnya Mulu ya?
+- IG_18078758144505972 | ADA YANG INGAT KATA KATA ALMARHUM OLGA SAPUTRA . DIA SUKA BOHONGIN CEWE. sampai situ kita bisa paham
+- IG_17955547164340364 | Ramalan windah bener terjadi
+- IG_18115497437591829 | Calon mahasewa kah ini??? 😂😂😂
+- IG_18141352183626497 | trik yg JITUU 😂😂😂😂 DAH SAMPE KHATQM YAKK NETIZEN😂
+- IG_18107202197265144 | Anak org ini coba post anak sendiri
+- IG_18348967183285206 | Parah
+- IG_17976345147157921 | Senjatanya😂
+- IG_17891162283468960 | 😂bener kan pasti klw lg rame pasti post anak untuk mereda netizen
+- IG_18100773353409646 | MAHASEWA lagi ballet diposting juga dong
+- IG_18171682462478336 | Loudryan antri bang
+- IG_18121806217990841 | @user please bikin tombol dislike dong... Masa cuma ada ❤️ doang... Pngen tau aja, seberapa bnyk persentasi orng yg gk suka tanpa harus scroll comments yg beribu2 ini.
+- IG_17999783379034500 | By design
+- IG_17991198696062428 | Astagfirullah para netizen mulutnya😂
+- IG_18115306679128288 | Ada yang gk asli kah
+- IG_18120221539769082 | Seperti sdh di prediksi kwkwkw
+- IG_18119606410969905 | Sudah kuduga😂
+- IG_17872675644648444 | Kasihan anak angkatnya jadi tameng
+
+## Sumber instagram DfFUyMSo5Qe
+Konteks: Caption unggahan @raffinagita1717: Latihan ballet ❤️❤️
+
+- IG_18094398464673166 | CIEEEE MAHASEWAAAAA DIKERAHKAN NI YEEE SUPAYA TERLIHAT CINTA PADA NEGERI 😂😂😂
+- IG_17994482967053308 | Langsung update anak kang laundry😂
+- IG_17872964616645639 | Bikin acara di HI sama parcok, yg hadir orang bayaran semua ....🤣
+- IG_18103755089156132 | Mahasewa 😂
+- IG_18181833910431626 | Sari sari
+- IG_18067892774785136 | mahasewa
+- IG_18128688524477310 | Info jadi mahasewa dong fi, mahasewa lu udah di parani ngakunya dibayar ama lu fi😂
+- IG_18017809997746874 | dateng Ke HI cuma Buat mecah belah bangsa lu,MAHASEWA LU BAYAR 50RB , Dikira Rakyat diem aja kali, noh dah klarifikasi mahasewa nya
+- IG_17926859895436447 | penonton dahsyat dijadiin mahasiswa😂
+- IG_18079516340750522 | Mainnya udah kejauhan.. kamu tau g dahsyatnya doa orang terdzolimi
+- IG_18207555544331051 | PENGALIHAN POSTING ANAK BIAR G DIHUJAT
+- IG_18219488041360483 | NOH ANAK2 DI KALIMANTAN NGISEP ASEP
+- IG_18055410755812581 | Sewa ART orang buat pura2 jadi mahasiswa 😂😂😂😂
+- IG_17919131037528965 | tobat pi, anak dijadiin tameng mulu
+- IG_18135176866739894 | Ga habis PIKRI..jd kepikiran uang yg dipakai sewa, itu uang rakyat atau pribadi,atau APBN yg dipangkas? 🤭
+- IG_18093610952283291 | Udah kejauhan mainnya Fi 😢
+- IG_18427949497157441 | MAHASEWA😂😂😂😂😂😂😂
+- IG_18168954217420063 | Kebiasaan 😂 klo abis bkin huru hara update nya klo gk anak bini
+- IG_17957248077277693 | Mahasewa nya mana nih 😂😂😂😂
+- IG_18081758843443003 | Langsung post anak...biar gak ada yang komen negatif...persis sama @user polanya...
+- IG_18144575380607271 | JANGAN GUNAKAN ANAK untuk menjadi air yang membersihkan kesalahanmu bang @user Be gentle. Kalau memang memilih ada di pihak Pemerintah bela dengan kepala tegak, bersuara lantang, tanpa takut. Tapi saya yakin, seorang ayah yang punya hati nurani ga mungkin mendukung pejabat dan instansi yang akan menghancurkan masa depan dan lingkungan anaknya kelak. Karena dia akan menyiapkan "rumah" yakni negeri terbaik untuk anaknya tinggal.
+- IG_18109425239252878 | penyewaaa
+- IG_17886244242512680 | Mahasewa yg kmrn di bayar fiii noh udh keciduk.. jgn pura2 g tau.. istighfar.. klian berkedok baik di dunia, di akhirat ga bisa pura2..
+- IG_17978825133150198 | Biar keliatan BAGUS BAGUS BAGUS
+- IG_17915462235543041 | Mahasewa😢
+- IG_18088546949704775 | Apakah ini bakal jadi anak sewaan juga 😂
+- IG_17986369563094846 | Karyawan laundry bukannya disuruh jaga laundryan malah disuruh demo parah.
+- IG_17979562911132916 | Kocak si
+- IG_18114847919332550 | K0nt01
+- IG_18098193548420654 | Ngapain dtg bareng MAHASEWA, Salah hari @user Mustinya tgl 28 Okt 👎🏻 Kedatanganmu justru memberi support pada sisi yg salah. Utusan khusus Presiden itu gunanya apa??
+- IG_17864961048692277 | "Setelah ini terbitlah klarifikasi bahwasanya Dia tidak mengetahui hal tsb dan meminta maaf"
+- IG_17994788400020200 | mahasewa nya tua tua 😂
+- IG_18074531372742816 | BLUNDERRR BLUNDERRRR😂
+- IG_18156614470565102 | Minimal MALU sihhh 😂😂😂
+- IG_17946095181364247 | MAHASEWA 👏👏👏
+- IG_18399843724166091 | Tukang laundry pemerintah langsung update anak cari belas kasihan. 😂
+- IG_17980442426918857 | Parah
+- IG_18016136819986813 | Wkwkwkwk
+- IG_18129283144891655 | Ntar kalo anaknya sudah besar bisa juga diberdayakan jadi mahasewa @user
+- IG_17986142601093098 | Uang udah banyak ko masih mau aja diperbudak aparat gua yg miskin aja gamau🤣
+- IG_18101728610388777 | Mau saran boleh yaa...baru pulang dari umroh kan, apalagi sudah beberapa kali umroh, seharusnya hatinya sudah bersih...sudah harus tau mana yang baik dan yg akan dibawa utk akhirat mana yang tidak...kehidupan di dunia hanya sementara saja.
+- IG_18250829812310549 | Wr @user masih 100% 🔥🔥
+- IG_17946485310365210 | MAHASEWAA👏👏👏
+- IG_17975628021156258 | Ini orang kalau ada masalah atau bikin sesuatu yg kontra pasti setelah itu posting tentang anak😂😂, udah gw tandain loh fi @user
+- IG_17875656372638749 | Anak kok dijadikan tameng😢
+- IG_18400125133203312 | Mahasewa😂
+- IG_17911933836306444 | Sayang anak sayang anak
+- IG_18124523837476576 | Kali ini kecewa beratt kok tega kok jahatt kaliii kau ni rafiiiiiii
+- IG_17935534995410398 | Report kali
+- IG_18119686684997717 | ko anak angkat yang di post mas😂
+- IG_18117326981009764 | utusan khusus presiden bidang generasi muda mahasewa 🔥🙌
+- IG_18120572093068089 | Penontonnya mpo eli yah?
+- IG_18140109286642677 | Kang londry🙌🔥
+- IG_18485870491119355 | Hidup mahasewa 😂😂
+- IG_18131982742836244 | Cuiihhhh
+- IG_17983924421907750 | Owg ini to sutradaranya 😂😂😂 dikira rakyat Goblok ta ????
+- IG_17872894125648060 | Kasian banget kamu jadi tameng nak, yg kandung diumpetin
+- IG_18095143325171079 | Jangan terlalu anuuu banget fii rafii,dunia sifatnya sementara hadeehhhh
+- IG_18117715892108987 | Kasian si lili cma di jadiin tameng biar ga di hujat detergen😢
+- IG_18129112996855359 | kasian anak di jadikan tameng wkwkw
+- IG_18109602020637403 | Yang dijadikan tameng anak yg ini
+- IG_18114730937138379 | a apa tujuannya lili hadir didunia buat dijadiin tumbal gini di feed mu? Ya allah Lili jauh dari ain ya nak, hidup mu dijamin tp ttp dijadiin tumbal gini🥹 coba 2 anak king nya ga akan mau dia post di feed buat terima cacian neti😂😂😂😂🔥🔥🔥🔥
+- IG_18449563483127137 | Kang laundry😂
+- IG_18177430549454394 | Lili yang katanya lucu😂
+- IG_18130682062748701 | Kalo g agama ya anak fii buat tameng, kita dah G respek g mempan 😂
+- IG_17980119066122083 | titip loundry
+- IG_18343557298279397 | Yg diposting anak angkatnya. Anak kandung nya disimpan biar ga dihujat netizen
+- IG_17963226180239571 | Gpp,bukan anak k*ndung
+- IG_17922435396446906 | Allah tidak pernah tidur
+- IG_18104752346457218 | Munafiqun
+- IG_17964980556250500 | Sudah cuci belum fii😂
+- IG_18182330956432005 | Netizen emang maha benar👍🏻. Pola postingannya nyata yaa. Salah-klarifikasi-family-sumbangan sanasini-ibadah-ketutup semua kesalahannya-repeat🔄. 😢
+- IG_18008542605006744 | Pada lucu komen nya wkwkw, anaknya suka² dia lah dia yg punya akun juga.
+- IG_18340837759257680 | Belum waktu nya nnti juga sii ranaima malikaa itu akan terkena.. bang bang Maen mu kejauhan bang..
+- IG_18117297590018353 | masyaAllah ...lily pinter sekali , pinter lagi ❤️
+- IG_18119328311083513 | Kok belom klarifikasi ya padahal semua menunggu kok sampai bisa gitu
+- IG_18059659556569726 | Kasian ini si lili cuman di jadiin tameng,,wkwkwkkwkwk si lili juga kasian di kasih makan dari pajak rakyat uang negara😢
+
+## Sumber instagram DfG3p2Ckteg
+Konteks: Caption unggahan @idnvoice: Deklarasi Sumpah Pemuda di Bundaran HI yang turut dihadiri Raffi Ahmad pada Kamis (29/10/2026) menjadi perbincangan setelah video salah satu pesertanya viral di media sosial. Peserta tersebut mengaku bukan mahasiswa Universitas Dian Nusantara (Undira), meski saat acara mengenakan jas almamater kampus tersebut. Dalam video klarifikasinya, ia mengaku hadir berdasarkan und
+
+- IG_17939686620389733 | Atur aja, bosh...
+- IG_17917207128530972 | MEMALUKAN
+- IG_18103463735317260 | @user @user @user @user siapa lg tlg bantu tag, gengnya suporter rezim nih. Ayo buka mata... panggung dahsyat jd pindah ke bundaran HI 🔥
+- IG_18109087094610333 | Pemuda yang pantas untuk disumpahi.
+- IG_18060095666555584 | KEBANYAKAN MAIN DRAMA TU SI RAFI DIKIRA RAKYAT NI GOBLOK SEMUA
+- IG_18125669396293458 | MAMPUS LU DIKULITI NETIZEN 😂
+- IG_18427095196155011 | Ini teman lu bro @user @user
+- IG_18151085872521340 | BOIKOT AJA RAFI AHMAD SAMA WILLIE 🔥🔥🔥
+- IG_18032521232913877 | Penonton bayaran fesbukers sama dahsyat 😂
+- IG_18111835823232113 | Fi fi knp lu jadi peliharaan rezim sih ?
+- IG_18137388265641596 | Kena pasal pembohongan publik dong @user @user ?
+- IG_18014554388763087 | Bikin malu @user @user 😂😂
+- IG_18130905374491991 | Ndasmuuuu .... @user
+- IG_18101271962378553 | Jijik bgt gw sama si raffi
+- IG_18437731666148094 | LAWAN HOAX PAKE HOAX 😂
+- IG_17873333568643150 | Si money laundry 💸 @user
+- IG_18121141238063941 | @user cari duit begini nih, yang halal bund
+- IG_18016517366971731 | Klo terjadi kerusuhan massa spt 98 asset2 RA pasti jd target massa nich...
+- IG_18110045588223817 | Kalo mau bayar dibrifing dulu lah giblokk😂
+- IG_17897750979416232 | Mahasiswa nya mirip Gibran semua
+- IG_18648820651010542 | MEH NAON KIKITUAN TEH @user KOPLOK
+- IG_18129150388878572 | Malu
+- IG_18184467700425609 | RafiiAnjenggg
+- IG_17926685571205848 | MAHASEWA
+- IG_17941571730386086 | Cape anjir
+- IG_18169542613483605 | Sampe gitunya si rafi bersihin pantat pemerintah 😂
+- IG_18096257504444974 | @user nyet!
+- IG_18105403856277489 | Ajak gen muda lawan hoaks.. lu aja tukang hoaks 😂
+- IG_18332161507263120 | Kopeeeet
+- IG_18089516288316564 | @user noodinoo
+- IG_18499564624106471 | Udah jd antek oligarki
+- IG_17896476366470303 | Lawan hoaks 😂
+- IG_18125433469867281 | sumpah dia kenapa ya tebel muka banget😢😢
+- IG_18117259097332852 | Tadi gua baca di postingan yang lain, salah satu mahasewa. Dia ga kuliah, dia kerja di Glodok 😂
+- IG_17978922399131285 | idih 🤮
+- IG_18082013618430822 | @user CUCIANNYA MASIH BASAH 😂😂😂😂😂😂
+- IG_17953540026335462 | Hoaks? Maaf Apakah ini mahasiswa asli? Jelas hoaks Mahasewa. Jujur Lawan Hoaks dan Jaga Persatuan Bangsa?. Gak usah banyak omongan. Lakukan tindakan yang serius dan Integritas tinggi.
+- IG_18126136613513130 | Jangan nonton Rans entertainment...kelar dia
+- IG_17895466950614932 | Kebanyakan harta sampe hilang akal sehat dan hati nurani @user 🤢
+- IG_18341716123272258 | Yahhhhh... Yahhh... ahhh... Elu mahh fii... Nyamain ama penonton Bayaran diamahh @user
+- IG_18114426980155563 | Biar Allah yg membalas, karna keburukan pasti terbongkar dgn sendirinya @user
+- IG_18105063026372864 | Untung tidak pernah follow
+- IG_18136507669768473 | Aktingnya masih bau naskah sinetron 😂😂😂😂
+- IG_18111223253579288 | Ya elahh, kmrin pndukungnya ada yg post, katanya mahasiswa di tanya ikut demo gk tau apa-apa, trnyata golongan sonoh juga🤣🤣🤣
+- IG_18000373602042820 | @user waktu dan tempat dipersilahkan @user
+- IG_17934881979414591 | Satu kampus sama @user @user @user @user @
+- IG_18084321584719934 | Unfollow wilie boti dan rafii
+- IG_18117081743012042 | Lo jadi media gausa posting kek gitu anjr
+- IG_18137797759640146 | Sudah banyak yg klarifikasi tapi blom satupun ketemu siapa yg membiayai😂😂😂😂😂
+- IG_17917010364543724 | Guoblokkkkkkk 🫵🏻🫵🏻🫵🏻😴
+- IG_17956094034037396 | Sumpah Pemuda itu ikrar persatuan yang lahir dari idealisme, bukan mobilisasi bayaran. Kasus mahasewa kemarin sangat disayangkan. Padahal di UU No. 40/2009 tentang Kepemudaan Pasal 6 dan Pasal 17 jelas pemuda itu harus punya sifat kesukarelaan, idealis, dan berperan sebagai kekuatan moral serta kontrol sosial. Kalau deklarasi atas nama Sumpah Pemuda tapi dibayar, itu mencederai nilai sejarah dan marwah mahasiswa sendiri....Semoga kedepannya kampus² lebih mengawasi mahasiswanya dan kegiatan kepemudaan kembali pada kajian, bukan transaksi. (@user )🙏

@@ -1,0 +1,221 @@
+# Batch 05 (206 teks)
+
+Labeli setiap teks sesuai labeling/codebook.md. Konteks di atas tiap kelompok berlaku untuk semua teks di bawahnya.
+
+## Sumber instagram DfLj9BfyRsI
+Konteks: Caption unggahan @hanifmuh_: rame di Threads, musisi sama UMKM satu per satu mundur dari RANS Carnival di Maguwoharjo, Sleman. Pemicunya, Raffi Ahmad hadir di deklarasi Sumpah Pemuda di Bundaran HI sehari setelah demo mahasiswa, dan salah satu pesertanya ngaku bukan mahasiswa dan dibayar. Netizen nuding Raffi buzzer rezim, Raffi bilang dia cuma diundang dan udah minta maaf. Tapi yang bikin gue res
+
+- IG_17965857558215354 | UMKM yang umumin mundur dari RANS Carnival. Yang di Jogja, bantu larisin ya. Warga bantu warga 🤝 1. Jeruk Lokal Maguwoharjo (@user) 2. Cuanki Bandung CuanKing (@user) 3. Roti Gembong Gedhe 4. Pisang Madu Nyonya (@user) 5. Donutsbun (@user) 6. Kalapaa.id 7. Jimny Coffee 8. Mochi Oleebe Ada yang kelewat? Tulis di bawah, biar ikut kebagian rejeki.
+- IG_18092741030231206 | Keyakinan tentang rejekinya luar biasa
+- IG_18127005781924562 | Bukan mahasiswa tapi mahasewa masbro.
+- IG_17865521283695973 | Jogyakarta ❤️ Istimewa.
+- IG_18093889271676476 | Salud buat Nitezen Yogya. Boikot acr tp bantu UMKM nya.
+- IG_18148041166500035 | Terima kasih wargi jogja..
+- IG_18201469648377157 | Sori ga maen thread. Asing rasanya, udah ada IG, IG nya maksa ada thread. Skip thread lah.
+- IG_18047228237815784 | Jogjakarta keren ❤️
+- IG_18104562350639520 | The power of netizen
+- IG_17972869611182249 | Jogja memang ISTIMEWA 👍🏿👍🏿👍🏿👍🏿
+- IG_18090668774299405 | Warga Yogya keren lah 👏👏👏👏👏
+- IG_17990093268111027 | Respect warga jogja, mari warga lain boikot rans group, dan saling support umkm
+- IG_18038423060896850 | Ih KERENNN BGT INI RAKYAAATT INDONESIAAAA 😍😍😍 LOVEEE YOU SEKEBONNN❤️❤️❤️❤️❤️
+- IG_18441016708181984 | Jogja masyarakatnya kritis dan salingbantu antarwarga.
+- IG_18101014088645843 | Wah kereeeeen lgsg cari umkm nya warga jogja 🙏
+- IG_18148920859604393 | MAAF, JOGJA TIDAK BISA DIBELI. Jangan "SUAP" kami 🔥
+- IG_18114996757845099 | Yogyakarta keren 😍❤️❤️
+- IG_17940814896386294 | Jogja layak dapat👏👏👏
+- IG_18178302121444320 | Respect Jogja 😍🙌🔥 gak heran deh pemimpin Jogja nya aja kerreen gak heran klo warga nya mencontoh ❤️
+- IG_18121054837758633 | ISTIMEWA🔥🔥
+- IG_17973255564179640 | Sangat respect dg kekompakan warga Yogya ❤️
+- IG_18020919890734760 | Saatnya warga bersatu padu menjatuhkan rezim ...
+- IG_18214214545364461 | Warga jogja🔥🔥🔥🔥🔥👏👏👏👏👏
+- IG_18118606832002158 | Jogja kerennn🔥🔥🔥🔥
+- IG_18102326555387270 | Respect warga Yogya dan UMKM nya👏🙌🔥
+- IG_18074347709739609 | Mudah2an semua kota bisa kompak kya Jogja❤️❤️
+- IG_17963641503227308 | Jogja mantaaappppp..... Thnx to all of you
+- IG_18234344020324011 | Trenyuh aku dadi wong jowo ,,,seberapapun hebat dan terkenalnya kalian tp kalo hrg diri dikorbankan kamu bukan siapa siapa raffi
+- IG_18017568251963492 | Respect... Jogja kereeen ❤️❤️❤️
+- IG_18602505394071254 | Warga bantu warga.. Pemerintah dn buzerrr klo urusan gini gk bkal bntu
+- IG_18115760335845012 | Bukti bahwa kekuatan masyarakat akar rumput nggak perlu diragukan, pejabat tanpa rakyat bukanlah apa-apa
+- IG_17907744576597618 | Harus respect ke masyarakat Jogja
+- IG_18163095751503505 | Kompak warga jogja
+- IG_17867573373676601 | Pantas mendapat gelar DIY... Saling support, gak ada yg dirugikan kalopun ada setidaknya terpenuhi toleransi sesama rakyat...keren keren keren Lebih keren dr raffi ahmad ....
+- IG_18139291747652955 | Ini alasan kenapa Jogja itu istimewa.. 🔥🔥🔥
+- IG_18136138075740986 | I ❤️ Yogya
+- IG_18107675510208589 | Dih aneh 😮
+- IG_18648286528028219 | definisi rejeki tidak akan salah alamat, teruslah berbuat baik maka rejeki akan mendatangi mu.
+- IG_18216401161365482 | Terima kasih sudah sama2 rakyat INDINESIA. Mudah2 an afa tezeki yg lain di buka Allah SWT. Aamiiinnn 🤲🤲🤲
+- IG_18123998194820696 | Nice jogja😍
+- IG_18194596969402138 | Salut banget....
+- IG_17906649381353292 | Keren, keren dukung warga jogja
+- IG_18096498719205712 | Respect🔥🔥
+- IG_17963833566252006 | Jogja pancen istimewa 🔥👍
+- IG_17903703675379060 | Kereeeen🔥
+- IG_18449472796193365 | Salut utk jogja respect🔥🔥saling dukung antar warga kalian HEBAT JOGJA
+- IG_18104067869550592 | The real jogja istimewa❤️
+- IG_18157577470522465 | Terus viralkan & budayakan boikotnya ketiap penjuru
+- IG_17992941335859625 | Salut aku, 👏ini bru rakyat bntu rakyat wlpun skrg keadaannya tdk menentu tp kta ttap brsatu
+- IG_17902080924608390 | Keren Orang2 Yogya 👍👍👍♥️
+- IG_18102243185176665 | Kereennn... Org jokjaa... ❤️❤️
+- IG_18348314254258112 | YaAllah terharu bgt😭😭. Semoga semua UMKM YG MUNDUR REZEKINYA TERGANTIKAN YG LEBIH2 LAGI YA, aamiin
+- IG_18047130995627650 | Pemerintah berencana memperluas kebijakan perpajakan digital yang akan mulai diterapkan pada 9 November 2026. Pengumuman ini disampaikan oleh Utusan Khusus Presiden Bidang Iklim dan Energi, Hashim Djojohadikusumo. Pihak yang setuju untuk mempersulit kehidupan rakyat juga harus diberi pelajaran yang keras oleh masyarakat Daerah Istimewa Yogyakarta.
+- IG_18079474475426137 | Ini baru WARGA bantu WARGA 👏
+- IG_18045491303645112 | Jogja emang👍👍👍,
+- IG_17910636336565225 | Jogja memang istimewa... black list RANS carnival
+- IG_18119620979054240 | Ayo kapan kota lain ikut jejak terhormat rakyat Jogyakarta....ingat jgn pernah jual harga dirimu terlalu murah ...cukup percaya hanya kepada Allah SWT.... rakyat jogjakarta keren habissss👍👍👍🥰
+- IG_17951596050347763 | Mereka adalah orang-orang yang punya harga diri....
+- IG_17930849775423943 | Warga Jogja Ramai Bantu UMKM... Penulis: Iwa Ikhwanudin @user 🔥🔥
+- IG_18106483595255678 | Rafi Ahmad KACANG LUPA KULIT.
+- IG_18077327663468954 | Bagus👍makin kompak umkm👍
+- IG_18144522241627664 | Boikot si ... Loundry Raffi bocah itu...!!!!!
+- IG_18207997246374608 | Wwwwuuiiiisshhhh ngeri banget niihhh warga.....salam hormat boosss
+- IG_18147513625587137 | Hallooo Buzzer apa kabar??? Boikot sudah action nih jangan coba² ama Netizen yaw‼️ Alhamdulillah bangkit bangsa ku Boikot semua yg pro Rezim Solo‼️🔥🔥🔥
+- IG_18062888558549350 | Bgs,,setuju warga yogya 👍👍👍🔥🔥🔥
+
+## Sumber instagram DfLut1Ejv8W
+Konteks: Caption unggahan @julia_4j: Gurita bisnis Raffi Ahmad sudah ditulis dengan sangat detail oleh @projectm_org pada tahun 2024. Jadi ingat lagi isi buku berjudul Habitudes (slide terakhir) yang pernah kubaca di tahun 2006, salah satu sub judulnya adalah THE ICEBERG 10% vs. 90% 10% yang terlihat: Gelar, jabatan, kekuasaan, prestasi, dan reputasi. 90% yang tersembunyi: Karakter, integritas, kejujuran, 
+
+- IG_18413423164089769 | Dia jadi bidak catur
+- IG_18111345998264383 | 35 pg dlm 4 tahun.. Deras kali cuciannya
+- IG_18132786478689018 | Ngurus 1 pt aja puyeng apalagi smpe 35 😂
+- IG_17915672202498401 | Saat ini, Buzer rezim lgy sibuk bantuin nyebokin nama dia. KLO sampe dia ga dipercaya lagi sama masyarakat. Laundryannya ga Jalan. Namanya juga rezim, dia butuh orang yg bisa nyuci pikiran rakyat. Kek si RA ini🙌
+- IG_18201287338382844 | Gak takut ya pertanggung jawabannya di akherat kelak...Miris
+- IG_18115221827164147 | Merk mesin cucinya lumayan byk juga 😂😂😂
+- IG_17952053889292253 | Bayar pajaknya jujur gak tuh.. giliran rakyat kecil pembalut aja mau dipajakin
+- IG_18450934369133138 | Nama laundry nya macam2 dan lucu2
+- IG_17949459651074562 | G masuk Akal sih , coba orang Biasa tidack akan bisa 😂
+- IG_17886982716504018 | @user cek dong
+- IG_18066537947621806 | Gni fansnya msh pda tutup mata🤣🤣,malah nyalahin teman artisnya yg ikut negor rafi dan bininya si gusi,ktnya Raffi akan tau siapa sbnrnya sahabat😂😂,kocak Fansnya Raffi duta Mahasewa dan duta cucian ini😂😂😂,justru sahabat yg baik itu hrs bnr2 bs menegor sklipun caranya buat skit hati,,bukan malam didiammin dan lama klmaan terbawa arus sma spt rafi😂😂
+- IG_18001065476820402 | tukang cuci yang dilindungi negara, laki bini haus harta
+- IG_18038395949852310 | Herannya usaha banyak yg gulung tikar, tapi cuan nambah deras. Kalau pengusaha lain, dah gulung tiker bangkrut bener. Tapi kalau si ini, ga pernah ada istilah bangkrut meaki usahanya banyak yg gulung tikar. Pengusaha lain juga ngga ada yg buat pt segambreng dalam tempo segitu.
+- IG_18080553635406044 | Makanya kalian jangan terlalu percaya dgn kebaikannya, krn itu bisa jadi utk menutupi kebusukannya
+- IG_18114063629124319 | Yg di bilang panji di panggung itu beneran kali ya
+- IG_18096990395679245 | jujur janggal 😮
+- IG_18128191777919985 | Bikin perusahaan kok kayak usaha 'laundry'.., tolong usut pejabat2 komisaris2 masing2 PT. nya. Kalo ada nama2 purnawirawan berarti memang indikasi kuat usaha laundry
+- IG_18119439557089861 | Semua itu bermula ketika dia tertangkap dan dipenjara karena kasus narkoba 😢😢😢😢
+- IG_18062156132646885 | Cek dia juga apakah dia bayar pajak sesuai dengan pendapatannya? Atau jangan2 dia bebas pajak karena dia si buzz
+- IG_18095996867175001 | Cuma mau ngingetin aja, kerja yang jujur cari harta juga, karena kalo meninggal gak ada satupun yang dibawa, umur manusia nyari yang sampe 60 aja udah jarang sekarang
+- IG_18091983638238897 | Sultan loundry👏👏👏
+- IG_17966837334230131 | Mangkanya kalo udh di framing gni psti postingannya lsg di mekkah😂
+- IG_18129035599856422 | Besok di akhirat gantian cuci nya pake air mendidih , lahar membara
+- IG_17965561629232350 | @user nah kan kena
+- IG_17982197397136346 | Jadi selama ini kita biayain keluarga Andara? Yang barang-barang branded itu? Waahh ternyata kita kaya banget ya, bisa biayain hidup mereka 😍
+- IG_18142912900723356 | PT money loundry nya belum ada ternyta 👏
+- IG_18339375910277975 | Keluarga Andara makan Anggaran Uang Rakyat...
+- IG_18132327487798192 | Pantas makmur kali yaa seluruh keluarganya 🤣🤣🤣💩💩💩💩
+- IG_18135612637707696 | PT. Rans Laundry Money gk masuk nih?
+- IG_17898567915417034 | Gokil aa @user
+- IG_18127918399904351 | YANG SEMANGAT KERJANYA YA WAHAI RAKYAT INDONESIA, INGAT!!! MASIH ADA KELUARGA RAFFI AHMAD YG PERLU KALIAN BIAYAIN 🔥🔥🔥🔥🔥
+- IG_17990721014875271 | Banyak amat PT nya 👏👏👏, mesinnya banyak 😂😂
+- IG_18049095482820387 | laki bini serupa makanya jodoh, mrk hasil didikan yg serupa pula. pesan utk laki2: tolong jadi suami dan ayah yg bertanggung jawab, kehadiran kalian sebagai imam itu sangat penting!
+- IG_18009426108005804 | Boikotttt 🔥
+- IG_18018592115955384 | Inti a mereka mencuci bersih semua uang NEGARA yg mereka kangkangin 🥶🥵sebenarnya mereka lebih miskin,,,CUMA mereka berada dlm / dkt dlm pemerintahan😮
+- IG_18131761633912015 | @user tugas anda👍
+- IG_17964745461246273 | Itu milik kita bersama... Km mw jd ceo yg mana?
+- IG_18440693074198634 | Tempat bersih2 nya rans ya
+- IG_18441825919176495 | King of money laundry 👏👏👏
+- IG_18015421163764629 | Cuci cuci cuci
+- IG_18005484791808926 | @user ini lho mom, km harus lihat ... Minta kebenaran kan? Ini bener ga mom? 🤮
+- IG_18116941274025934 | Cucian banyak yaah
+- IG_18132055195696109 | Kok masih ada yang ngefans..
+- IG_18381708343208067 | Raffi be like : Sebelum ketahuan, mau main CEO an dulu ah. Terkutuk lah semua usaha, perusahaan, kekayaan, uang, dan keluarga mu @user . Amin
+- IG_18142755199616856 | Memperkaya diri sendiri dan keluarganya dasar penjilat @user ga laku d dunia entertain keknya
+- IG_18140148535634024 | Mama @user mama @user tolong dong ingetin @user 🥹 Stop cuci uangnya! Mending fokus karya sendiri aja ...
+- IG_17912883417573426 | Janggal bangettt
+- IG_18375630553211828 | Gilaaa, banyak banget cucian kotor nya. Pantesan cepat kaya, tempat laundry nya larissss manissss . Mantap kang laundry 👏👏👏
+- IG_18098753933131282 | Seterang benderang ini masih pada bilang iri hati?
+- IG_17866386177694272 | Yuks yg mau cuci cuci bisa investasi
+- IG_17968918143208167 | Manusia punya jatah u jatuh dari Tuhan... Hukum alam berbicara
+- IG_17922373779453159 | Apa semua perusahaannya pajaknya tertib?
+- IG_18118389986089640 | The Real Laundry Man
+- IG_17925130947221147 | POKOK Ynag berbau RANS mari kita jauhi sama2 , biar tau efek nya 🔥🔥🔥
+- IG_17944104879347545 | Pantesan juragan 99 ngucapin semangat, ternyata ooh ternyata..😂😂
+- IG_18395226424228524 | Kata kuncinya apa guys?? L*U*DRY😂
+- IG_18636602038057310 | Gk takut dosa apa ya.....
+- IG_18081689141722903 | Rakus
+- IG_18133784989764401 | Klo cuma hasil dr YouTube mustahil dia bisa bikin perusahaan sebanyak itu..
+- IG_18358955608170046 | Edyannnnn kaya sekali anda
+- IG_18348651238286635 | Banyak banget ini cucianya 😂
+- IG_18647942041033367 | Money laundry 🔥
+- IG_18148424470568900 | Dan dari semua perusahaan itu gada yg sukses tanpa dorongan dari ordal haha
+- IG_18119509048804382 | Hancur kau 😂
+- IG_18131157304639869 | Apakah ini strategi presiden prabowo melantik dia jdi utusan presiden untuk bongkar money laundry 🙄
+- IG_18154989916552259 | Ngeri bgt cuci2 uangnya😭
+- IG_18134845630802549 | Bajingan juga tu anak!!!
+
+## Sumber instagram DfNX0YRk4xr
+Konteks: Caption unggahan @raffinagita1717: Ya Allah, aku titipkan suamiku dalam penjagaan-Mu. Lelaki yang mungkin terlihat kuat di hadapan dunia, tetapi hanya Engkau yang tahu seberapa berat beban yang sedang dipikul hatinya. Jika dunia sedang tidak berpihak kepadanya, peluklah hatinya dengan ketenangan-Mu. Jika namanya disakiti oleh fitnah dan prasangka, jagalah kehormatannya dan tunjukkan kebenaran deng
+
+- IG_18648416458010755 | Jadi artis aja, ngga usah nimbrung pemerintah.
+- IG_18097424045669316 | udah paling bener jadi artis aja a , ga usah nimbrung pemerintah
+- IG_18150061390580265 | LEBAY BANGAT 😂😂😂 TERUSIN LAWAKNYA
+- IG_18169178509419742 | hadeh giliran gini ingat tuhan, mending jd artis aja udh menghibur
+- IG_17965854081199356 | Sekarang post gini, besok besok jg foto bareng pejabat lg dijadiin figur senyum terutama sama bun bun
+- IG_18112834352140559 | mau muntah boleh ?
+- IG_18120501041070807 | dari Rafi aku belajar.nama nya temen tuh saling mengingatkan dalam lingkup privasi. bilamana menurut temen nya Rafi salah ingat kan lah minimal chat pribadi bukan menjelekan apalagi area publik 📌
+- IG_18132757108606970 | setiap ketimpa masalah pasti posting foto keluarga wkwowkowkwo
+- IG_18129057787850446 | tengah malem banget nih, belum kering cucian nya
+- IG_17995927163846820 | Laundry
+- IG_18129305605852626 | Duh mesin laundry nya mulai rusak
+- IG_18127780484299516 | Katakan prettt😂😂
+- IG_18238435891319931 | berdoa tuh di atas sajadah, bukan diatas Iphone 🥲
+- IG_17953984845277328 | Kenapa playing victim bgt yak, merasa paling disakiti ewh
+- IG_18146450314596624 | Masihhh lopyuuu sama klen❤️😍
+- IG_17895553494434114 | orang2 pada ngidolain kluarga ini, tpi knpa gw mah B aja 😂
+- IG_17956338066037100 | kalau emang ente difitnah juga dalam keadaan kaya raya mbak..
+- IG_17909823546333116 | Aamiin Ya Mujibassailin.. Aamiin Yaa Rabbal Aalamiin .. istajib Du’ana Yallah 🤲🏻 🩵😇
+- IG_18107536121205613 | Mulai deh jual kesedihan wkwkwk
+- IG_18137213557658961 | Kalian ko ga bahas 20 para tersangka karhutla lagi??? Ga bahas api yang udah padam ?? Kalo yang fakta2 kok diem 🤐 tapi kalo urusan menghujat paling depan
+- IG_18157950364523871 | Aamiin YRA 🤲🏻semangat & sehat selalu😇😇
+- IG_17867635164679272 | Sehat sehat AA
+- IG_18109010042162867 | Gak ikutan fomo hujat,ak liat dari smua kebaikan yg @user bagi kpda orang" yg rasa membutuhkan bantuan tanpa fikir panjang dia bantu yg mana rekan" artisnya lain y diam,tetep semangat @user Allah SWT Slu melindungi diri smua kebaikan yg beliau berikan.❤️
+- IG_18155595964527366 | Aamin yra ❤️❤️🤗🤗
+- IG_18130570291884767 | ❤️❤️❤️❤️❤️Amiin Ya Allah 🤲🏻
+- IG_18076427837759347 | Aamiin Allahumma aamiin 💗
+- IG_17909728065334070 | Kalo yang satu nya di hujat, masih tenang tenang aja tu😂😂 .. .sukses selalu buat keluarga kalian..
+- IG_18139579210710247 | Info laundry dong
+- IG_18144912988720793 | Ribet..... udh bgs jd artis udh kaya raya. Malah RAKUS sama hasil pejabat🤦‍♀️●
+- IG_18123315902515636 | Cuuhh
+- IG_17915042505516691 | TERUSINNNNNNNNNNNN SAPUINNNNN TERUSSSSSS😂
+- IG_18105232208457054 | Pret
+- IG_18390895141238985 | Aamiin🤲🤲🤲
+- IG_18643915210012473 | Sehat selalu AA ❤️
+- IG_17995700262021341 | @user 😂😂😂 Uda aa jangan pencitraanya
+- IG_17914505751516968 | Doa mah dalam hati aja😂😂
+- IG_18129718486856922 | Kenapa berdoa di medsos ? Tuhan punya instagram kah ? 🤣
+- IG_18135590521741760 | Amin y rob🤲🏻🥰
+- IG_18388171036239991 | Yang hujat belum tentu sumbangan , donasi,sedekahnya sebermanfaat dia 😇
+- IG_18119788906973693 | Boleh doanya diganti “Ya Allah.. Cukupkanlah rejeki suamiku dengan rejeki yang halal dan berkah.. Tunjukkanlah kami jalan yang lurus” 😇🙏🏼
+- IG_18452597119193014 | Keluarga lebay.. sudah bosan liat vt2 ny
+- IG_17997314298062167 | Always believe lu org baek fi 💪💪❤️❤️
+- IG_18094798598271041 | Cuihhhhhhh
+- IG_17865374739693517 | Mulai Lagi bersih bersih nama kayaknya nih org😏
+- IG_18253486675309508 | Sehat2 selalu orang baik❤️❤️
+- IG_18009933111417370 | Amiin ya rabb 🤲🏻❤️
+- IG_18170419900478591 | Berdoa itu setiap saat , sebaiknya sholat taubat doakan suamimu ga perlu di publish di sosmed, dan jgn serakah jabatan kalau ga mengantongi ijazah, tahu malulah.
+- IG_18136631716674946 | yaa Allah kasian bnget Rafi. gra" msuk d pmerintahan jdi rusak reputasi dn branding nya 🥹🥹 yg perlu d ingat perlakuan yg baik akan mnemukan jaln kembali baik .
+- IG_17895292425614476 | Gk posting anak lagi ❓
+- IG_17998974950833617 | Cair caiirrr😂🔥
+- IG_18116188892165941 | udah dikabulkan doanya kak “tunjukkanlah atas kuasa Mu” sudah ditunjukkan Allah yah kebenarnya 😇😇 (14M)
+- IG_17877439044637029 | Emng bener yaa... ANDARA itu singkatan Anggaran Dari NEgara 😮😢
+- IG_18150720535603204 | Udah capek capek bayar pajak, eh buat trip ke natuna. Suek
+- IG_17913019116664300 | 14.677.000.000.m loh
+- IG_18133217467755373 | 14,7M
+- IG_18133803217771227 | Enak ya bayarannya kenceng 👏👏😂
+- IG_17930262072423803 | Doa nya tembus langit, sampai bener-bener di tunjukan kebenarannya (14M)🙂
+- IG_18081380831395385 | UDH DI LIATIN KE BENERAN YA SAMA ALLAH. LANGSUNG LOH DOA MU TERJAWAB BU GIGI.
+- IG_18042610523837923 | Serakah ga mikir rakyat
+- IG_17899332276612625 | Terlepas dari fitnah atau bukan,angka 14,7 M itu jumlah yg sangat2 besar dan itu uang pajak yg setiap rakyat bayar,dari uang segitu banyak nya rakyat tidak mendapatkan manfaat apapun
+- IG_17936717367145529 | Doanya sudah dikabulkannya mba gigi 🙌 sudah ketahuan 14 M
+- IG_18236327281322855 | Mba gigi..berdoa itu pas abis sholat bukan d medsos.. krn yg tau doa kita itu cukup kita dan Allah SWT
+- IG_18397442359160386 | Gak usah dipikirkan , tetap berpikir positif tetap semangat 🔥❤️ kami selalu mendoakan selalu diberikan kenerkahan keselamatan dan kebahagian murah reski dan selalu menjadi hati yang baik.
+- IG_18099226826653539 | Hebat sekali ya, ternyata kemewahan itu bukan hasil keringat sendiri, melainkan uang rakyat Rp14 MILIAR😭😭😭
+- IG_17871372042661472 | Berdo’a nya di atas sajadah jangan di depan kamera😭😭
+- IG_18118924751046780 | Knp ga ada vlog/vt jalan2 makan2 di luar negri lg??? Kehedonan.. tunjukin mobil2 barang2 mewah lg???
+- IG_18147151300595500 | berliannya gede amat, ada duit suami gue tuh disitu🤮
+- IG_18011254610781357 | Berliannya ga nguatin
+- IG_18120121381800604 | @user si teteh ketawa dipojokan pasti nih...karna karma sedang memutar keadaan...🤣
+- IG_18080661923753150 | Berdoa di Sosmed tujuannya apa?
+- IG_17888055945502425 | Bahagiamu ada sebagian pajak yang aku bayarkan lewat negara.
+- IG_17990314766881824 | Terlalu berani RA... tmn2nya dah saling mengingatkan.. tp ya begitulah manusia serakah... skrng ya hadapi aja smua prosesnya ya...
+- IG_18655700803054323 | Ya Allah engkau kabulkan doanya, dan tunjukan semua kebenaran dari keburukan yg selama ini tersembunyi, agar rakyat tau semuanya apapun tindakan untuk menzalimi uang pajak turunkanlah azab yg pedih di dunia akhirat, karma menanti sekeluarga🙏🏻
+- IG_17917986249538752 | Assalamualaikum Wr Wb, MasyaAllah Tabbarrakallah...mohon izin untuk menyampaikan Syiar Pemakaman Muslim No 1 di Indonesia, Anda ingin Informasi dan konsultasi gratis atau bisa Survey ke lokasi, bisa hubungi kami agent resmi Al Azhar Memorial Garden via DM atau lihat di Bio, terima kasih, Wassalamu'alaikum Wr Wb.

@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Review Label</title>
+<style>
+  :root {
+    --bg: #f6f5f2; --card: #ffffff; --ink: #1d1d1b; --muted: #6b6a66; --line: #e3e1dc;
+    --neg: #c2413b; --net: #6b6a66; --pos: #2f7d4f; --rel: #8a6d1f; --accent: #2b5fab;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #161615; --card: #1f1f1e; --ink: #ecebe7; --muted: #a09e98; --line: #33322f;
+            --neg: #e0645d; --net: #a09e98; --pos: #5cb67f; --rel: #d1ae4f; --accent: #6c9be0; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  header { position: sticky; top: 0; background: var(--bg); border-bottom: 1px solid var(--line); padding: 12px 16px; z-index: 2; }
+  .bar { max-width: 860px; margin: 0 auto; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+  h1 { font-size: 16px; margin: 0; font-weight: 650; }
+  .prog { flex: 1; min-width: 160px; height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+  .prog i { display: block; height: 100%; background: var(--accent); width: 0; transition: width .2s; }
+  .count { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 13px; }
+  select, button { font: inherit; }
+  .btn { border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 8px; padding: 6px 12px; cursor: pointer; }
+  .btn:hover { border-color: var(--muted); }
+  main { max-width: 860px; margin: 0 auto; padding: 20px 16px 80px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 20px; }
+  .meta { display: flex; gap: 8px; flex-wrap: wrap; font-size: 12px; color: var(--muted); margin-bottom: 12px; }
+  .tag { border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; }
+  .konteks { font-size: 13px; color: var(--muted); background: var(--bg); border-radius: 8px; padding: 10px 12px; margin-bottom: 14px; max-height: 140px; overflow: auto; }
+  .teks { font-size: 19px; line-height: 1.45; margin: 4px 0 18px; white-space: pre-wrap; word-break: break-word; }
+  .votes { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 18px; font-size: 13px; }
+  .vote { border-radius: 6px; padding: 3px 8px; background: var(--bg); }
+  .negatif { color: var(--neg); } .netral { color: var(--net); } .positif { color: var(--pos); } .tidak_relevan { color: var(--rel); }
+  .grup { margin-top: 6px; }
+  .grup p { margin: 0 0 6px; font-size: 13px; color: var(--muted); }
+  .pilih { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+  .pilih button { border: 1.5px solid var(--line); background: var(--card); color: var(--ink); border-radius: 10px; padding: 12px 6px; cursor: pointer; font-weight: 600; }
+  .pilih button kbd { display: block; font-size: 11px; color: var(--muted); font-weight: 400; font-family: inherit; }
+  .pilih button.on.negatif { border-color: var(--neg); background: color-mix(in srgb, var(--neg) 12%, var(--card)); }
+  .pilih button.on.netral { border-color: var(--net); background: color-mix(in srgb, var(--net) 14%, var(--card)); }
+  .pilih button.on.positif { border-color: var(--pos); background: color-mix(in srgb, var(--pos) 12%, var(--card)); }
+  .pilih button.on.tidak_relevan { border-color: var(--rel); background: color-mix(in srgb, var(--rel) 14%, var(--card)); }
+  .buz { margin-top: 18px; padding-top: 14px; border-top: 1px dashed var(--line); }
+  .buz .pilih { grid-template-columns: repeat(2, 1fr); }
+  .buz button.on { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 12%, var(--card)); }
+  .nav { display: flex; justify-content: space-between; margin-top: 16px; gap: 8px; }
+  .help { font-size: 12px; color: var(--muted); margin-top: 14px; }
+  .panduan { margin-bottom: 14px; padding: 14px 20px; font-size: 14px; }
+  .panduan summary { cursor: pointer; }
+  .panduan ul { padding-left: 18px; margin: 8px 0; }
+  .panduan li { margin-bottom: 4px; }
+  a { color: var(--accent); }
+  @media (max-width: 560px) { .pilih { grid-template-columns: repeat(2, 1fr); } .teks { font-size: 17px; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1 id="judul">Review label sentimen Raffi Ahmad</h1>
+    <div class="prog"><i id="prog"></i></div>
+    <span class="count" id="count"></span>
+    <select id="filter" class="btn" aria-label="Filter kartu">
+      <option value="semua">Semua kartu</option>
+      <option value="belum">Belum direview</option>
+      <option value="label">Perlu review label</option>
+      <option value="buzzer">Perlu review buzzer</option>
+    </select>
+    <button class="btn" id="export">Ekspor CSV</button>
+  </div>
+</header>
+<main>
+  <details class="card panduan" id="panduan">
+    <summary><b>Panduan singkat (baca dulu sebelum mulai)</b></summary>
+    <p>Yang dinilai adalah <b>sikap penulis terhadap Raffi Ahmad</b>: dirinya, jabatannya sebagai utusan khusus,
+      RANS/bisnisnya, klarifikasinya, atau keluarganya. Baca juga kotak konteks (caption atau judul video) di atas teks.</p>
+    <ul>
+      <li><b class="negatif">negatif</b>: mengkritik, menyindir, mengejek, menuduh, mengajak boikot, kecewa. Pujian yang
+        maksudnya menyindir ("Menyala APBN ku", "mantap sultan") tetap negatif.</li>
+      <li><b class="positif">positif</b>: membela, memaklumi, percaya klarifikasinya, kasihan, mendukung, memuji, doa untuk Raffi.</li>
+      <li><b class="netral">netral</b>: berita tanpa sikap, pertanyaan, menunggu fakta, atau hanya mengejek pihak lain
+        (mahasiswa bayaran, polisi, pemerintah) <b>tanpa</b> menyinggung Raffi.</li>
+      <li><b class="tidak_relevan">tidak relevan</b>: tidak membahas Raffi atau kasusnya, hanya tag teman, bahasa asing, spam.</li>
+      <li>Kritik ke polisi <b>dan</b> Raffi sekaligus: negatif. Sikap campur yang seimbang: netral.</li>
+      <li><b>Buzzer</b> = terdengar seperti pesan pesanan: template generik, hashtag kampanye seragam, pembelaan yang
+        terlalu rapi dan tidak menanggapi isi unggahan. Komentar kasar atau pendek dari orang biasa bukan buzzer.</li>
+    </ul>
+    <p>Suara 3 model AI hanya bantuan. Kalau menurutmu mereka salah, pilih jawabanmu sendiri.</p>
+  </details>
+  <div class="card" id="card"></div>
+  <div class="nav">
+    <button class="btn" id="prev">&larr; Sebelumnya</button>
+    <button class="btn" id="next">Berikutnya &rarr;</button>
+  </div>
+  <p class="help">Tombol keyboard: <b>1</b> negatif, <b>2</b> netral, <b>3</b> positif, <b>4</b> tidak relevan,
+    <b>B</b> buzzer, <b>N</b> bukan buzzer, <b>&larr;/&rarr;</b> pindah kartu. Setelah memilih label, kartu otomatis
+    pindah. Progres tersimpan otomatis di browser ini, jadi aman kalau halaman ditutup, asal dibuka lagi dari
+    berkas yang sama dan browser yang sama. Setelah semua kartu selesai, klik <b>Ekspor CSV</b> lalu kirim berkas
+    <code id="namafile">hasil_review.csv</code> ke koordinator.</p>
+</main>
+<script src="review_data.js"></script>
+<script>
+  const DATA = window.REVIEW_DATA || [];
+  const REVIEWER = window.REVIEWER || "";
+  const KEY = "review_raffi_v1" + (REVIEWER ? "_" + REVIEWER : "");
+  const NAMAFILE = REVIEWER ? `hasil_review_${REVIEWER}.csv` : "hasil_review.csv";
+  document.getElementById("namafile").textContent = NAMAFILE;
+  if (REVIEWER) {
+    document.getElementById("judul").textContent = `Review label: ${REVIEWER}`;
+    document.title = `Review ${REVIEWER}`;
+  }
+  const LABELS = [["negatif", "1"], ["netral", "2"], ["positif", "3"], ["tidak_relevan", "4"]];
+  let saved = {};
+  try { saved = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch (e) { saved = {}; }
+  const simpan = () => { try { localStorage.setItem(KEY, JSON.stringify(saved)); } catch (e) {} };
+  let i = 0;
+
+  const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const selesai = d => (!d.review_label || saved[d.id]?.label) && (!d.review_buzzer || saved[d.id]?.buzzer !== undefined);
+  function daftar() {
+    const f = document.getElementById("filter").value;
+    return DATA.filter(d => f === "semua" || (f === "belum" && !selesai(d)) || (f === "label" && d.review_label) || (f === "buzzer" && d.review_buzzer));
+  }
+
+  function render() {
+    const L = daftar();
+    const done = DATA.filter(selesai).length;
+    document.getElementById("prog").style.width = (DATA.length ? 100 * done / DATA.length : 0) + "%";
+    document.getElementById("count").textContent = `${done} / ${DATA.length} selesai`;
+    const card = document.getElementById("card");
+    if (!L.length) { card.innerHTML = "<p>Tidak ada kartu untuk filter ini.</p>"; return; }
+    i = Math.max(0, Math.min(i, L.length - 1));
+    const d = L[i], s = saved[d.id] || {};
+    const votes = Object.entries(d.votes).map(([m, v]) => `<span class="vote"><b>${m}</b>: <span class="${v}">${esc(v || "-")}</span></span>`).join("");
+    let html = `<div class="meta"><span class="tag">${i + 1} / ${L.length}</span><span class="tag">${esc(d.platform)}</span>
+      <span class="tag">${esc(d.kelompok)}</span><span class="tag">${esc(d.id)}</span>
+      ${d.url ? `<a href="${esc(d.url)}" target="_blank" rel="noopener">buka sumber</a>` : ""}</div>
+      ${d.konteks ? `<div class="konteks">${esc(d.konteks)}</div>` : ""}
+      <div class="teks">${esc(d.text)}</div>
+      <div class="votes">${votes}</div>
+      ${d.catatan ? `<div class="help" style="margin:-8px 0 14px">${esc(d.catatan)}</div>` : ""}`;
+    if (d.review_label) {
+      html += `<div class="grup"><p>Label sentimen terhadap Raffi${d.label ? ` (mayoritas: <span class="${d.label}">${d.label}</span>)` : ""}</p><div class="pilih">` +
+        LABELS.map(([l, k]) => `<button data-l="${l}" class="${l} ${s.label === l ? "on" : ""}">${l.replace("_", " ")}<kbd>${k}</kbd></button>`).join("") + `</div></div>`;
+    }
+    if (d.review_buzzer) {
+      html += `<div class="buz"><p class="help" style="margin:0 0 6px">Skor buzzer ${esc(d.skor_buzzer)} (${esc(d.alasan_skor || "tanpa sinyal akun")}), dinilai buzzer oleh ${d.buzzer_votes} annotator. Apakah ini akun buzzer?</p>
+        <div class="pilih"><button data-b="1" class="${s.buzzer === 1 ? "on" : ""}">Buzzer<kbd>B</kbd></button>
+        <button data-b="0" class="${s.buzzer === 0 ? "on" : ""}">Bukan buzzer<kbd>N</kbd></button></div></div>`;
+    }
+    card.innerHTML = html;
+    card.querySelectorAll("[data-l]").forEach(b => b.onclick = () => setLabel(d, b.dataset.l));
+    card.querySelectorAll("[data-b]").forEach(b => b.onclick = () => setBuzzer(d, +b.dataset.b));
+  }
+
+  function maju(d) { if (selesai(d)) { i++; } render(); }
+  function setLabel(d, l) { saved[d.id] = { ...(saved[d.id] || {}), label: l }; simpan(); maju(d); }
+  function setBuzzer(d, b) { saved[d.id] = { ...(saved[d.id] || {}), buzzer: b }; simpan(); maju(d); }
+
+  document.addEventListener("keydown", e => {
+    if (e.target.tagName === "SELECT") return;
+    const L = daftar(); const d = L[i]; if (!d) return;
+    const l = LABELS.find(([, k]) => k === e.key);
+    if (l && d.review_label) setLabel(d, l[0]);
+    else if (e.key.toLowerCase() === "b" && d.review_buzzer) setBuzzer(d, 1);
+    else if (e.key.toLowerCase() === "n" && d.review_buzzer) setBuzzer(d, 0);
+    else if (e.key === "ArrowRight") { i++; render(); }
+    else if (e.key === "ArrowLeft") { i--; render(); }
+  });
+  document.getElementById("next").onclick = () => { i++; render(); };
+  document.getElementById("prev").onclick = () => { i--; render(); };
+  document.getElementById("filter").onchange = () => { i = 0; render(); };
+  document.getElementById("export").onclick = () => {
+    const belum = DATA.filter(d => !selesai(d)).length;
+    if (belum && !confirm(`Masih ada ${belum} kartu yang belum selesai. Tetap ekspor sekarang?`)) return;
+    const rows = [["id", "label_review", "buzzer_review", "reviewer"]];
+    DATA.forEach(d => { const s = saved[d.id]; if (s) rows.push([d.id, s.label || "", s.buzzer ?? "", REVIEWER]); });
+    const blob = new Blob(["﻿" + rows.map(r => r.join(",")).join("\n")], { type: "text/csv" });
+    const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = NAMAFILE; a.click();
+  };
+  render();
+</script>
+</body>
+</html>

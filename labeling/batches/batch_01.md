@@ -1,0 +1,206 @@
+# Batch 01 (187 teks)
+
+Labeli setiap teks sesuai labeling/codebook.md. Konteks di atas tiap kelompok berlaku untuk semua teks di bawahnya.
+
+## Sumber instagram DeyEwT9mdzY
+Konteks: Caption unggahan @raffinagita1717: Menghadiri Sidang Kabinet Paripurna dua tahun pemerintahan Presiden Republik Indonesia, Bapak @presidenrepublikindonesia @prabowo, dan Wakil Presiden Republik Indonesia, Bapak @gibran_rakabuming, bersama seluruh jajaran Kabinet Merah Putih 🇮🇩 Dalam kesempatan tersebut, Presiden mengingatkan bahwa pengabdian dalam pemerintahan merupakan amanah yang menuntut pengor
+
+- IG_18078364235444269 | Kerjanya Nyata, Hasilnya Maya.
+- IG_18119564083953358 | 5thn dlm penyesalan...😢
+- IG_18097633124123469 | Maaf ini kegiatan sangat tidak mutu
+- IG_18637523977036076 | Pa itu harga bahan sembako mulai pada naik di pasar²
+- IG_17944798608090458 | Lengserkan
+- IG_18106134635461467 | Kerja nyata! Nyatanya dimana si ? Letak nyatanya dimana ?
+- IG_17866637574680045 | Mana ada kerja nyata njiir. Kerja korupsi kah
+- IG_18131858188886329 | Sidang kabinetnya aja udh ngabisin anggaran padahal blm ada kerjanya
+- IG_18107275979118550 | Aa rapat terus tapi hasilnya 0!
+- IG_18475361503143095 | Yaa ampun ! Muakk bgtt am pemerintahan skrg
+- IG_18174230431454675 | Rapat terus..kaya ad aj yg dibahas
+- IG_18641172034013155 | Coba sekali2 ketua RT se endonesia diundang...biar tahu kekurangan yang ada dilapisan masyarakat paling bawah
+- IG_17915217036520967 | Tinggal menunggu Kejatuhan saja sebagai bentuk teguran Tuhan🥀
+- IG_18024629903712889 | boneka si wowo
+- IG_18088690448304372 | Bisa gak sih dipercepat aja. 2 THN gak ada perubahan 😢cukup 1 perode aja
+- IG_18132984328744679 | kerjaan pemerintahan sekrng memiskinkan rakyatnya jirr, apa yg bisa d banggain dr 2thn trahir weeeeei bbm naik, hraga bahan pokok naik, hutan dibakar, apa2 dipajakin
+- IG_17912159409308021 | Sehat selalu @user successs
+- IG_18180670750445967 | Bnyk yg menghujat tp insyaAllah banyak juga yg masih dukung @user Allah ngasih ujian buat naek level selanjutnya ngasih tau mana teman yg baik buat diseleksi.. Semoga sllu diberikan kesabaran nnti Allah yg memberikan jawabannya...
+- IG_18210934024321552 | Captionnya sih panjang, kerjanya tau deh ..
+- IG_18140705689633715 | Semangat Terus a🔥🔥🔥
+- IG_18110228615362355 | Bentar2 rapat🤪
+- IG_18116113808164873 | PANTES AJA DIJULUKI SULTAN ANDARA (ANGGARAN DARI NEGARA)
+
+## Sumber instagram DfENUbEhbvb
+Konteks: Caption unggahan @liputanwargajakarta: Sebanyak 100 mahasiswa mengikuti Deklarasi Sumpah Pemuda Mahasiswa Indonesia 2026 di kawasan Bundaran Hotel Indonesia (HI), Jakarta Pusat, Kamis (29/10/2026). Kegiatan tersebut menjadi momentum untuk memperkuat persatuan dan kebersamaan di tengah keberagaman masyarakat Indonesia. Mengusung tema “Patriotik, Gigih, Berempati: Pemuda untuk Indonesia”, acara ini 
+
+- IG_18114187196463210 | Cair berapa gan?
+- IG_18208329715324497 | Ko kemarin aspirasi sekalian mengingati sumpah pemuda 28 oktober malah dihadang2x dan sekarang malah yang odong2x di tampilin 😅😅😅
+- IG_18135529873739145 | @user @user @user @user @user @user Coba di cek itu.alamatnya BSI itu ?bener gak dr kampus kalian🤭,kalau bener sih parah.bikin malu,😅
+- IG_18133239532781220 | Ngumpulin jamet2 darimana ini😂
+- IG_18120750529971838 | Nah ini baru mahasiswa bayaran 😂
+- IG_18122993474076104 | Tampang-tampang NASAKOM 😂😂😂😂😂
+- IG_18089634575286819 | Muka nya kok keliatan "PINTER"
+- IG_18194883496392330 | Si mahasiswa tuh
+- IG_18122707400517930 | KAMI ADALAH PUTERA DAN PUTERI BAYARAN....!!!!😂😂😂😂😂😂😂👏👏👏👏
+- IG_18217689979361646 | Anggarannya berapa acara ini?
+- IG_18002909663808177 | Mahasewa
+- IG_17918648346463102 | Yang kemarin Mahasiswa dihadang kalo yang ini Mahasewa di fasilitasi 🥴
+- IG_18042184160894697 | kocaak ini jadi kayak EVENT tandingan ahahaha sakit jiwa Pemerintah aslik 😂😂😂🔥🔥
+- IG_18239460424319289 | Kok bisa pas banget 100 jumlah mahasiswanya, mahasiswa apa mahasewa ini 😂
+- IG_18055344209608728 | .. THE REAL MAHASEWA
+- IG_18453971758121503 | Mahasiswa ❌ Mahasewa ✅
+- IG_17956396971333948 | sesuai budget 😂
+- IG_18117821744005965 | @user klarif dong almet sitaan dari kapan tuh?
+- IG_18122453767942445 | Efek ketakutan krn mau dilengserkan😂
+- IG_18255454129308766 | @user bismillah dapet mahasiswa baru, yang gak ikut abang2 yang itu!!!
+- IG_18196373239394403 | kok kampus TERKENAL dan KREDIBEL
+- IG_18114074999602827 | Plenger 😂
+- IG_18145314607592700 | Dagelan apa lagi ini?😂😂😂😂
+- IG_18114471994875657 | ngakak bgt udah ada acara tandingannya aja🤣
+- IG_18014744930967634 | Mahasiswa bayaran
+- IG_18125684873478758 | Bayaran 100 ribu ih
+- IG_18119069840006733 | Dikira kita bego, Jaket Almamaternya BSI lagi, keren, Kampusnya Obama
+- IG_18113563103333949 | Hewan peliharaan siapa?
+- IG_17991058719097072 | @user BSI coyy
+- IG_18108914120169677 | Hahahaha, dibayar ya?
+- IG_18129217798850419 | BSI warnanya kok biru bgt? 😂
+- IG_18065926904535259 | kocakkkk
+- IG_18387440551238545 | Jaket kuning, rambut coklat pilokan, badan cungkring 😂
+- IG_17910952488591165 | 😢😢😢😢 berapa bayaranya jadi kayak gini ?
+- IG_17983030109921059 | Cair cair cair😍😂
+- IG_18132684511748345 | Lumayan cair, kampus dimna lupa 😂 @user
+- IG_18387396229235583 | Sariiiiiiiii lu dicariin ada yg mau ambil laundry
+- IG_18487633999117474 | Satu dari 19 juta lapangan kerja.
+- IG_17886981912652728 | Terimakasih untuk semua netizen & Sobat BSI yang menaruh perhatian pada kasus ini, silahkan sebagai insan yang cerdas dan paham literasi Sobat bisa melihat perbedaan dari (1) warna biru pada almamater yang berbeda dari jaket almamater UBSI, (2) logo kampus yang berbeda dari logo jaket almamater UBSI. Harap untuk tidak terkecoh ataupun terprovokasi pihak pihak yang tidak bertanggung jawab.
+- IG_18112585748174241 | Bukan wajah2 mahasiswa 😂
+- IG_18220788898354636 | wow, coba besok presentasi di depan saya ya. mau saya uji baca artikel jurnal ilmiah.
+- IG_17880735156555934 | 😂😂😂😂😂😂😂😂😂😂😂 mahasiswi nya Udha kayak ibu ibu jualan seblak.. mahasiswa nya udh mirip aku aki LANSIA 😂
+- IG_18133334245754526 | Gak ada tampang² mahasiswanya😂😂
+- IG_18108877658166394 | mandi
+- IG_18109040828195626 | Mahasewa oh mahasewa... raimu aneh-aneh semua😢
+- IG_17996690787013188 | Beubeungeutanage ripuh
+- IG_17975216919160983 | Demi uang yg ga seberapa rela buang rasa malu😂
+- IG_18051969461810924 | Vicky prasetyo : Sumpah pemuda itu 28 oktober, kalau 29 oktober itu ulang Tahun Sari😂
+- IG_18098801477123357 | EKSENN CUT CUT KURANG RAPIH😂
+- IG_18021460214734922 | utk acara seperti ini pun,sanggup bayaran!!!!
+- IG_18033392495854771 | Pak polisi kok ga ditangkap mahasiswa gadungan nya🔥🔥🔥
+- IG_18137966005660628 | Sinetron......
+- IG_18024901385718305 | Muka mahasewa nya... kek banyak bet masalah idup 😂😂😂😂
+- IG_18044499425837496 | Lucu BNR te yng @user
+- IG_17964008246999110 | @user ente di palebah mana? Ning teu asup kanu kamera?
+- IG_18104683979319407 | Minimal mandi
+
+## Sumber instagram DfEbNa5Pllh
+Konteks: Caption unggahan @kompascom: Polda Metro Jaya menggelar acara bertajuk “Deklarasi Sumpah Pemuda Mahasiswa Indonesia 2026” di kawasan Bundaran Hotel Indonesia (HI), Jakarta Pusat, Kamis (29/10/2026) pagi. Acara deklarasi kebangsaan ini dihadiri oleh aparat TNI-Polri, sejumlah mahasiswa, serta beberapa selebritis, termasuk Utusan Khusus Presiden Raffi Ahmad. 🎥 KOMPAS.com/Ridho Danu Prasetyo Produser
+
+- IG_18150855607524760 | “Dari kampus mana bang?” “Kampus….” “Hah PSI….”
+- IG_18131886964776965 | Baru Ditanyain asal kampus udah linglung 😂
+- IG_18096627557149799 | Kenapa yang ikut demo kemarin dengan bangga menyebutkan kampusnya? Sementara yang ini plonga-plongo doang? Kenapa??? 😭
+- IG_18113285402193915 | Masa info sepenting nama kampus gak di brief dulu sih 😭😭😭😭
+- IG_18145751101596897 | Kok bisa gatau nama kampus sendiri yaaaa 😍😍😍
+- IG_18637949035017302 | Kampus PSI 😂
+- IG_17901659043607997 | #disumpahinpemuda
+- IG_17930230824180140 | Sy nanya, @user dkk ga malu kah berada dijajaran ini?
+- IG_17977220229149305 | Pola-pola Kegiatan/aksi tandingan dari zaman ORBA dipake mulu di rezim sekrng ini, akhirnya bocor kan. Parah sih ini parah , dagelan 😂😂😂.
+- IG_18024813302933771 | Pemerintah dagelan 😏 Dibayar buat hal “aneh” dan pake uang kita2 juga nih orang
+- IG_17921606868241942 | astagaa uang bisa merubah segalanya 😂
+- IG_18071717405770789 | NANAONAN SIH MANG..... ‼️‼️
+- IG_17908667274569435 | udah ditonton? @user @user
+- IG_17906392596356310 | kampus PSI ini besss @user 😂😂😂😂
+- IG_18200767378379381 | Kampus PSI dimana sih? Serius nanya
+- IG_18130915840699795 | Mahasiswa ❎ Mahasewa ✅
+- IG_18122802547927853 | S.Teler bgt ini 😌
+- IG_18118178701820958 | yang lupa nama kampus lah, yg lupa ijazah lah
+- IG_18021020150953579 | WKWKWKKW dasar manusia2 sampah
+- IG_18183105628430149 | Dagelaaaaaaannnnnnnnnnnnn
+- IG_18081829154377653 | nggimicknya nggimick banget 😭😭😭
+- IG_18118359965053501 | Mahasewa ini mahh😂😂
+- IG_17987889602886905 | Jawabnya aja g lancar, ya tipulah pasti itu ? Coba tanya sm penyidik kl kt ditanya jawabnya terbata2 artinya TIPU
+- IG_18098553557452088 | Aduhhh kocak bgttt 😍
+- IG_17925549030444641 | Serba setinga indonesiaku
+- IG_18109760660621704 | ffffffaaahhhhh
+- IG_17912936868501979 | kok MUDAAA??? WKWKWK
+- IG_17914366890551084 | Dihadiri rafi ahmad🗿
+- IG_17978052450140918 | Malu maluin @user @user
+- IG_18644676892039576 | kirain ini konten lucu lucuan. ternyata yg post akun kompas toohh🫣🫣🤣🤣🤣
+- IG_17954525784275020 | maksudnyeee? 😭🤣
+- IG_18195927238401888 | Morientes pun kebingungan
+- IG_18220435858346889 | Sahabat dahsyat ini mah
+- IG_18152637538554527 | Kocak 😂
+- IG_17950644351343669 | Dapat berapa bungkus bg nasi nya? 😂
+- IG_17879437428633236 | Potongan mahasiswa apa ini
+- IG_18153283210556477 | malu bgt gua nontonnya
+- IG_18092142791689581 | Mahasiswa dri mana pke jersey Valencia itu mau demo apa nonton La liga😂😂😂
+- IG_18117879713076132 | Mahasiswa 😂😂😂 bentukan mahabarata ...
+- IG_18125374168904270 | Anak kecil 6 tahun aja ditanya "sekolah dimana nak"? Lancar dia jawabnya 🙂
+- IG_18143158585717869 | Jadi mahasiswa sehari. Maklum kalau gak inget nama kampusnya 🤣🤣🤣🤣 Lupa belum dibriefing apa gimana yak 🤣🤣🤣🤣🤣
+- IG_18102166112454828 | PSI = Pakultas Siapakah Itu?
+- IG_18132755503790512 | RUSAAAK
+- IG_18022090931731487 | astagaaahhh 😂😂😂 kacang cingcau alias kacaauuuuuuu
+- IG_17970398924963419 | anjritt
+- IG_18122178931743372 | Kampusnya psi (pusat seks internasional)
+- IG_18092395688210476 | Kunaon sihh orang-orang ini teh 😭😭😂😭😂😭😂😭😂😭 *mo nangis tapi heran
+- IG_17924122401444343 | Ada ya kampus namanya PSI ?
+- IG_17977711692187507 | Yang jadi anak nya Pak Pol ini, malu ngga ya. Anak nya Pak Pol ini, kenal sama mahasiswa2 ini ngga yaa? Hahaha malu Pak maluuuuu
+- IG_18124186183912706 | Geli
+- IG_18003980061006854 | Le mineral yaa.. oke ditandain
+- IG_18154214833538876 | Miris
+- IG_18100343930399465 | VIBES NYA KAYA PENONTON DAHSYATTTTT
+- IG_18138027424637944 | Parah ini kabid humas...usut tuntas, kapolri baru bebenah anak buahnya kyk gini @user
+- IG_18112359095614282 | Gokil!! Gak pernah terlintas dipikiran gue bakal ada episode sampe bayar mahasiswa boongan gini… amazing bgtttt muakkkkkk 😭😡✋🏻
+- IG_18103060238647730 | Itu yang cwe bukan anak kampus njir mukanya kek art anjir wkwkwkkw tua bngt
+- IG_18147810982603075 | Wihh dapat nasi box... Mahasewa bayaran😂😂😂
+- IG_18105772550527397 | Sebagai alumni BSI tasikmalaya sangat merasa ternodai nih..seenaknya mengatas namakan BSI..warna jaket almamater+Logo nya pun berbeda 😂 @user @user @user @user @user @user @user
+- IG_18122883200317183 | Lagi2 aparat buat hoax , mahasiswa hoax . Kalian dr kepala dr kaki dibiayai negara dr uang rakyat. Tp inikah balasanya ??? dan kalian yg ngerti hukum, penegak hukum tp yg kalian lakukan tdk mencerminkan hukum. Ini hrs ditindak dan dihukum dg tegas !!!
+- IG_18029177621873331 | @user ternyata km😂
+- IG_18143392531617371 | Anj2
+- IG_18121541161972127 | RANS ternyata organisasi bayaran untuk demo.😂
+
+## Sumber instagram DfFFMvtPAY0
+Konteks: Caption unggahan @kontrapolitik: Demo mahasiswa ditindak atas nama “sterilisasi”, tapi esoknya Bundaran HI malah dibiarkan macet demi panggung Raffi Ahmad & Willie Salim. Menurut lo, ini murni selebrasi atau taktik pengalihan isu? #KontraPolitik
+
+- IG_18032790509683542 | Itu bukan mahasiswa kali..tukang yel yel dhasyat nya Raffi 😂
+- IG_17889883599476804 | Ketika aparat sudah bermain2 dengan rakyat, jangan harap negara ini sehat. Tunggu aja hancurnya NKRI.
+- IG_18127749182488722 | @user 😂😂😂😂 boikot
+- IG_18389664808225013 | BOIKOT @user @user
+- IG_17872673619647994 | Semakin muakkk @user @user
+- IG_18118668827091181 | Jijik banget
+- IG_18135383275740409 | @user pantesan ga jdi dteng ke youth summit di TIM, tau nya doi bikin panggung di bunderan HI, harus nya ente dukung mahasiswa fi
+- IG_18018980198960529 | mahasiswa PSI
+- IG_18012418754993987 | wkwkwk sampah emang orang2 ini
+- IG_18148038292562464 | @user 😂😮, kacau!!!
+- IG_18121029509055960 | POLISI LAGI POLISI LAGI😂
+- IG_18074705210725151 | Wajib boikot untuk @user , untuk @user biar dia tobat dulu
+- IG_18197001238392944 | udah ada klarifikasi dari mahasewa nya di akun bem univ Dian Nusantara 😂 @user @user tobat kata gue😂
+- IG_18120111088972946 | Wkwkwkwk...🤣🤣🤣😂😂😂 Shooting drama kali...bikin ketawa saja.... Selucu ini drama nya..😂😂
+- IG_18100731308386081 | Wkwkw mahasiswa yang klarifikasi mahasewa ya ini?😂
+- IG_17991759239871767 | Boikotttttt @user @user
+- IG_18145576948592314 | Mari kita doakan agar Allah menurunkan azabnya dalam kesempatan pertama kepada yg berbuat kerusakan dan memberikan kita rakyat yg terdzalimi kemulian dan kemudahan. Ya Allah turunkanlah azab yg pedih kepada @user @user dan kelompoknya dalam kesempatan pertama agar kami tahu bahwa engkau melarang kerusakan di muka bumi. Berikanlah kami kemuliaan dan kemudahan di dalam himpitan penguasa yg berbuat tirani. Aamiin YRA.
+- IG_18049930088817813 | Polisi Tdk bersama rakyat . Tspi bersama penguass
+- IG_17914195845520097 | Salah tulis, polisi bersama pejabat
+- IG_18120387475985001 | Mereka pikir kita mudah ditipu, no no yaaaa 😂
+- IG_17912805000559001 | muakkk banget 😵‍💫
+- IG_17884926423690678 | Coba ya sekali2 demo tetapi tema dan konsep demo nya itu pura2 memuji, memuja, pro pemerintah, bikin se pro mungkin sampai dipertemukan dengan pemerintah, lalu langsung kasih paham ke pemerintah 🗿
+- IG_18358058434223010 | Terang2an bgt ya Perbedanya. Gk tau mo ngomong apa dri indonesia ini😢
+- IG_18167029705492423 | Gak punya malu itu semuanya 😂
+- IG_18338575237258248 | Udah seterang benderaang iniii
+- IG_17873096157644538 | Keren banget negara ini
+- IG_18191192020405165 | Bendino di bujuki pemerintah tok cokk..... Ancen pemerintah kontoollll!!!
+- IG_18189282268375186 | Pasti ini mereka lakuin cuma buat laporan ke presiden "demo sangat tertib pak" lalu besok nya dia pidato "saya dapat laporan. . ." akwoakwok
+- IG_17952629922313063 | Tatkala para pemimpin kehilangan empati dan akal sehat ... tanda2 ...
+- IG_17930197008424503 | WOOP nyelenehh mereka. Dipikirnya negara hak mereka. Tidak pernah sefrustasi ini ngeliat negara sendiri, ntah mau berekspresi seperti apa lagi. Semoga Allah segera membalas setiap perbuatan yang telah mereka lakukan pada negara INDONESIA AAMIIN🤲 Bersenang-senanglah kalian selama diberi waktu oleh Allah. Hanya balasan dari Allah yang saya tunggu-tunggu, ingin melihat sehebat & sebisa apa kalian menghadapinya. Sekompak apa kalian saling tolong menolong, atau malah saling melupakan & menyalahkan satu sama lain.
+- IG_18108616964523555 | Preett laah
+- IG_18108093197629465 | Isin rafiii.. ceuk urang mah isin sumpah
+- IG_18135665947671144 | Mahasewa
+- IG_18104949782011964 | Maaafkan aku unfolll
+- IG_18125618059909984 | Ga ada yg bisa di percaya 🙏🏼
+- IG_18449282197124903 | Kacaw
+- IG_17926650135206049 | JUJUR ZANGGAL😫😭
+- IG_18096596258431286 | BOIKOT🔥🔥
+- IG_17921477280242036 | K ntl memang @user
+- IG_18016421423967434 | dikira kita bodoh kali yak?
+- IG_17872938177645876 | negoro gendeng nglawak
+- IG_17956883700274043 | Baahh,,,buhan na neh fans skali na @user @user samaa skali na pndukung wowo
+- IG_18143776660525959 | indonesia menuju kegelapan
+- IG_18118515973983072 | 🇮🇩 BUKTIKAN BAHWA MASYARAKAT INDONESIA ADALAH MASYARAKAT YANG CERDAS! Kepada seluruh masyarakat Indonesia, mari kita tunjukkan bahwa kita adalah masyarakat yang kritis, cerdas, dan tidak mudah diam ketika melihat sesuatu yang bertentangan dengan kepentingan rakyat. Jika kita tidak setuju dengan sikap Raffi Ahmad dan pihak-pihak lain yang menurut kita lebih membela kepentingan oligarki daripada kepentingan masyarakat, kita memiliki hak untuk menyampaikan kritik, berhenti mengikuti akun mereka (unfollow), serta melaporkan konten yang benar-benar melanggar aturan platform. Kekuatan rakyat bukan terletak pada cacian atau kekerasan, melainkan pada suara yang bersatu, sikap kritis, dan tindakan yang bertanggung jawab. Kita ingin para figur publik memahami bahwa popularitas bukanlah alasan untuk mengabaikan suara masyarakat. Siapa pun yang memiliki pengaruh besar seharusnya menggunakan pengaruhnya untuk memperjuangkan keadilan, kesejahteraan, dan kepentingan rakyat. Jangan sampai suara rakyat hanya didengar ketika dibutuhkan, tetapi diabaikan ketika rakyat memperjuangkan kebenaran. 🇮🇩 Rakyat bukan penonton di negeri sendiri. Rakyat adalah bagian penting dari masa depan Indonesia! Mari bersikap kritis, gunakan hak kita secara bijaksana, dan buktikan bahwa masyarakat Indonesia mampu memperjuangkan demokrasi melalui cara-cara yang damai dan bertanggung jawab. SUARA RAKYAT ADALAH KEKUATAN DEMOKRASI!
+- IG_18135998656674886 | Kami muak dengan pejabat negri ini..🔥🔥
+- IG_18023673569927453 | #boikotrans
+- IG_18358764127222541 | 🔥🔥Fokus usut kasus Mahasewa sumpah Pemuda tgl 29 oktb'26 (Polda & Raffi) 🔥🔥#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp #fypシ❤️💞❤️ #fypシ゚viralシfypシ゚ #fypシ゚viralシfypシ゚viralシalシ #fypシ゚viralシfypシ゚viralシalシ #fypシ゚ #fypvideo❤️ #fypシ゚viral #fypシ゚viralシ #fypage✨ #indonesia #love #fashion #happy #picoftheday #cute #beautiful

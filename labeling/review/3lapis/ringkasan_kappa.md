@@ -1,0 +1,32 @@
+# Ringkasan review 3 lapis
+
+- kartu: 881 (utama 775, jalur B 106)
+- dinilai lengkap 3 orang: 881, hanya 2 orang: 0, kosong: 0
+- keputusan label: mayoritas 852, diskusi 29
+
+**Fleiss' kappa = 0.286** (cukup (fair), skala Landis & Koch) di 881 kartu yang lengkap dinilai 3 orang, 4 kategori (negatif, netral, positif, tidak_relevan). Kesepakatan teramati P_o = 0.569, kesepakatan kebetulan P_e = 0.396.
+Krippendorff's alpha (nominal) di 881 kartu yang dinilai minimal 2 orang = 0.286.
+
+## Kappa per kelompok
+
+| kelompok                                        |   kartu |   kappa | tafsir            |   p_o |   p_e | sepakat_bulat   | minimal_2_sama   |
+|:------------------------------------------------|--------:|--------:|:------------------|------:|------:|:----------------|:-----------------|
+| semua kartu, 4 kategori                         |     881 |   0.286 | cukup (fair)      | 0.569 | 0.396 | 37%             | 97%              |
+| kelompok jalur_b                                |     106 |   0.484 | sedang (moderate) | 0.689 | 0.397 | 55%             | 97%              |
+| kelompok utama                                  |     775 |   0.257 | cukup (fair)      | 0.553 | 0.398 | 35%             | 97%              |
+| platform instagram                              |     334 |   0.332 | cukup (fair)      | 0.591 | 0.388 | 40%             | 97%              |
+| platform tiktok                                 |     101 |   0.199 | sedikit           | 0.521 | 0.402 | 30%             | 97%              |
+| platform x                                      |     262 |   0.32  | cukup (fair)      | 0.603 | 0.416 | 42%             | 97%              |
+| platform youtube                                |     184 |   0.193 | sedikit           | 0.507 | 0.389 | 28%             | 96%              |
+| 3 kelas sentimen (ketiga orang menilai relevan) |     725 |   0.291 | cukup (fair)      | 0.621 | 0.465 | 44%             | 99%              |
+
+## Kappa per kategori (kartu lengkap)
+
+| kategori      |   kappa |   dipilih (%) |
+|:--------------|--------:|--------------:|
+| negatif       |   0.3   |          39.5 |
+| netral        |   0.219 |          48   |
+| positif       |   0.581 |           3.4 |
+| tidak_relevan |   0.331 |           9.1 |
+
+Catatan: kartu ini adalah teks yang TIDAK disepakati bulat oleh 3 LLM, jadi memang teks paling ambigu. Kappa di sini lebih rendah daripada kalau seluruh dataset dinilai ulang.

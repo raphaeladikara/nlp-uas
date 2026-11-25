@@ -1,0 +1,204 @@
+# Batch 07 (185 teks)
+
+Labeli setiap teks sesuai labeling/codebook.md. Konteks di atas tiap kelompok berlaku untuk semua teks di bawahnya.
+
+## Sumber instagram DfhkXTJCYL0
+Konteks: Caption unggahan @kabinetrakyatri: EKSPRESI SAYANG RAKYAT KE AA RAFFI AHMAD Social experiment di video ini akan menunjukkan reaksi rakyat ke Utusan Khusus Presiden Bidang Pembinaan Generasi Muda dan Pekerja Seni Raffi Ahmad. Full videonye bisa cek di YT kite: kabinet rakyat Kalo lu bakal nyampein apa nih ke Aa Raffi? Tulis di komentak yakk! #socialexperiment #raffiahmad #kritik #publik #cfd
+
+- IG_18114058765888210 | Ngga ada pesan² , cuma pada pengen ngeplak 🤣
+- IG_18046045805831948 | @user punnnggg liat bapakmu punnnggg
+- IG_17935242612418982 | Saya salah satu orang yg gak mau kasian sama si rafi dan kel nya.... Krn mereka lebih kaya.. Jadi buat apa kasian... Orang diikasih duit sm rafi 100 ribu.. Langsung muja2... Lah cucian uang dia melebihi dr 100 ribu........
+- IG_18161305369508751 | Paling bentar lagi istrinya posting foto keluarganya terus berdoa kpd Allah dengan kata kata yg panjang lagi, mau membuat seolah2 suaminya suci kembali 🤭🙌
+- IG_18122852156072548 | Jejak digital ini akn tetap tersimpan yg akn di liat oleh ano cucu nya😁🤣😜 malu ga sih??? @user @user
+- IG_18109061897193462 | Bangun nama bagus2 dari muda padahal,, Kata gue mending dapet cap playboy ampe mati fi @user dari pada beginih.. mending urusin RANS THE WORLD AJEEHHH dari pada ikut2’an Rezim🫣
+- IG_18152616226550062 | @user so many people hate you, 'kang laundry🤑🤪
+- IG_17957479167269134 | Ayoo semuanya jgn ketipu vidio² buzzer menggiring opini kasihan sama keluarga andara,dan kerajaan solo,vidio slowmo sedih mereka senang² kita diinjak²🔥🔥
+- IG_18075526451742880 | @user sparring boxing nyok
+- IG_17911152273575250 | Gmna perasaan mu @user Diginiin 😂
+- IG_18018977669748079 | Hahaha @user
+- IG_18413863945092548 | Eyaaakkk dapet giliran juga ini sultan
+- IG_18135678932485326 | Minimal punya malu @user @user
+- IG_17912359797580930 | WKWKWKWKWK SERUU BGT PELARI KALCER ENIIH🤣👏🏻
+- IG_18114324136879307 | Kasian raffi.. dimanfaatin pemerintah kepopulerannya.. dan beliau mungkin terlena dan lupa bahwa byk rakyat awalnya sangat respect dan berharap banyak untuk fans yg mengidolakannya dulu
+- IG_18029281178703757 | Coba cek IG istri ama mamanya, posting doa apa lagi?
+- IG_18349155040265116 | Kalau di Jepang Orang Masih Punya Malu, Langsung Bunuh Diri @user
+- IG_18447385288135176 | Semangat raffi..Allah akan meninggikan derajadmu
+- IG_17968802586228306 | Ternyata benar .."semua ada masa nya"
+- IG_18099746603647297 | Andaikan dia ekspose kerja pemerintah tanpa dibayar, gw salut... Ternyata ekspose kerja pemerintah, dibayar milyaran... Di tengah efisiensi.... Alamak... PNS nya aja pd tiarap
+- IG_17986001741902001 | Terlihat rakyat sangat mencintai beliau ❤️ sampai di ungkapkan dengan tampolan sayang 😂😂😂
+- IG_17957692827324968 | Foto anak jadi andalan, itu anak apa tumbal 😢
+- IG_18022838915939434 | #boikotraffiachmad
+- IG_18075380180591205 | Klo gue disitu , gue pke kaki sih
+- IG_18035461085675695 | 😢 kasian... Aa @user kan orang baik. ORANG BAIK, KENTUT!!! Rasakanlah amarah Warga, dasar orang culas 😂😂😂😂
+- IG_18099408023452683 | Gayakkin kalo cuma 14 miliyar ahh… kayaknya lebih 🙃 pemerintah kita kan hobi hambur2 duit rakyat
+- IG_18142229884618100 | Dari rafi kita belajar...banyak uang tidak serta merta membuat orang puas...bisa jadi sèrakah
+- IG_18029003717911460 | Emak nya makin pucet deh 😂
+- IG_18117729185031224 | @user min liat min
+- IG_17920880181463295 | @user liat coba itu😂
+- IG_18121543217070899 | Jadi pengen ikutan
+- IG_18113702618595501 | rakyat kerja banting tulang demi memenuhi kebutuhan hidup kena potongan pajak ,dan pajak nya d pake buat beginian😮😮😮
+- IG_18075263159764539 | Dengan mudahnya Allah membolak balikkan kehidupan manusia, dari yang terhormat jadi terhina.
+- IG_17982591084134324 | Virtual slaps 👋 👋 👋 @user
+- IG_18475098451143658 | Asyiik kayaknya.. Jadi Pengen ikutan nabok @user juga..😂😂😂
+- IG_18148324774601770 | @user malu
+- IG_17908465455342456 | Salam 14 miliar 🙏
+- IG_18251154922312152 | @user ternyata yah..
+- IG_18121821935318201 | Cuihhhhh
+- IG_18157418143580611 | 😁kasian sih tapiiiiiii
+- IG_18127074979909930 | Mo ikutan nggeplak 😭
+- IG_18118671997816909 | di tunggu postingan lily nya ya @user rafatar & cipung tenang ya udah ada Lily yang jadi bemper kalian.
+- IG_17907375699350881 | Makan tu duit haram! Kita semua kagak ridho! @user
+- IG_18093588494222340 | semoga suul khotimah aa @user
+- IG_18046949363641864 | Mereka malas ngomong, maunya gebukin aja
+- IG_18077457428743744 | @user hahahahaha malu gak Lo ?? Malu harusnya
+- IG_18391053829225069 | Salah satu artis yang selalu di doakan yang buruk buruk oleh rakyat
+- IG_18604144963066086 | bener2 jadi artis sosoan jadi pejabat lu mah @user
+- IG_18109530239364842 | Brp kali plak plok ituuh 😂
+- IG_18027686033927518 | Haaakkkk💦
+- IG_18131761849850806 | Koq g ada yg teriakin Botuna c
+- IG_18035001125893833 | @user WKWKWKW LIAAAT TUH MUKAAA LU BANYAK YG NABOOOOOK RAFIIIIIIII 🤣🤣🤣🤣🤣
+- IG_17907273438600438 | KALO AKU DISITU SEKALIAN BAWA BENSIN LALU BAKAR AJA SIH 😂😂
+- IG_18016225046989569 | Kalo gw disitu udah gw patahin itu kepala RA .. gw gunting / potong kalo perlu , ngoahahahaaa #RaffiANJG #BoycottRaffiAhmad
+- IG_18659407270007428 | apa kah salah satu demo paling mempan adalah tidak membayar segala pajak? jadi tidak perlu turun ke jalan tidak perlu berhadapan dgn anjing2 coklat dan sejenisnya🔥🔥
+- IG_18129400748295941 | Mintaa maaf lu pas ketauan anyinggg.... dulu" nggk ketauan lu makan abis duit rakyat.. sempak lu.
+- IG_18128406335311356 | @user Dasar Binatang Kau.
+- IG_18179512903464408 | Dunia nikmat yah krn serba berkecukupan @user , liat noh rakyat Indonesia gimana ke lo haha
+- IG_17994356610119294 | KENCINGIN Boleh ga cuy ?? 🫢😮‍💨 Udah kebelet bgt abis marathon bbrpa km 🙏🏻😭
+- IG_18122933795281790 | Laundry 😂
+- IG_18129382546803160 | @user wkwkwk
+
+## Sumber instagram DfhwiKUhk9Y
+Konteks: Caption unggahan @soeara.indonesia: Indonesia Corruption Watch (ICW) menyoroti pengadaan jasa influencer oleh Kemendikbudristek dan Kementerian Kelautan dan Perikanan (KKP) yang melibatkan PT Rans Animasi Indonesia dengan total kontrak Rp14,69 miliar sepanjang 2024–2026. #SoearaIndonesia #PengadaanPemerintah
+
+- IG_17915132100506783 | Oalahh pantes desta kemaren sebegitunya
+- IG_18183021484441281 | Mimpi kita jalan-jalan di wakilkan sama raffi n geng 😂
+- IG_18108698261215617 | Oh, jadi mereka berempat dibayar oleh Negara utk….. ah sudahlah, boikot lagi aja mereka semua.
+- IG_18435294463180826 | Kalau tujuannya buat video seperti ini memperkenalkan program pemerintah, sekalian wisata di kampung tersebut kenapa nggak dari pihak menteri pariwisata atau dari menteri perikanannya sendiri yang buat, malah minta influencer buang buang anggaran, biar ada kerjaan juga tuh menteri pariwisata 😮‍💨
+- IG_18056534204805846 | Gurih ya nyet makan duit rakyat 🤣🤣
+- IG_18114698960162207 | Jirrr...rakyat kerja pagi ketemu pagi bayar pajak buat lu pada jalan2...😢
+- IG_18118385678085905 | Asik banget, jalan - jalan pakai duit rakyat. Beuuuhhhhh.
+- IG_18081541901403074 | KPK seret RANS donk😮
+- IG_18408037279201412 | Kenapa duitnya ga di kasih nelayan 😭😭😭😭
+- IG_18093348851236308 | OO PANTES GA ADA DANA BUAT NAIKKIN GAJI GURU
+- IG_18138143128640383 | Ada yg incognito ke kampung nelayan itu lagi? Apakah benar mrk sdh seperti itu? Atau cuma setting an buat bikin video yg biaya nya M itu?🔥
+- IG_18115244906266901 | PAJAK KITA DIBUAT MODEL BEGINIAN
+- IG_18073109855495883 | Anj
+- IG_18025634831944060 | ternyata yg "kaya" malah lebih kekurangan drpd diri ini 😭😭🙏 begini doang, sampe dikasih 3.6 M wow wow, keliatan butuh duitnya ya
+- IG_18122131703068624 | Wajah 3,6 M
+- IG_18120029077961350 | Sad bener
+- IG_18103263188640000 | TAEK sudahi aja pencitraanmu COOOKKK !!!
+- IG_17925727050225455 | pd sok keren bgt
+- IG_18648034345022815 | kemendikbudristek dr pd uang nya dipake beginian mending bayar utang Tukin tu sm dosen2 se indonesia 🔥
+- IG_18135262852681841 | ga modaaalll jalan2 dibiayai rakyat! dzaliimm!!!
+- IG_18185881168438990 | 3.6M udah dapet 1.200 paket buku halo balita, 3.6M udah dapet 1.800 paket buku Confidence in Science, 3.6M udah dapet 2000 paket buku Funtastic Learning. Ah sayangnya anti banget sama generasi cerdas, jadi uangnya ya jelas bukan untuk mencerdaskan kehidupan bangsa sih
+- IG_18349698145251866 | Kalo pemerintah kerjanya bener, jujur, amanah, gak perlu pake influencer! Mikir gak, sih?!
+- IG_18132067018834196 | Semoga tidak berkah yg kalian dapat. Aamiin
+- IG_18031394744920726 | Disgusting
+- IG_18125689409492977 | 3.6 milyar dibagi ke mikro influencer dapet banyak
+- IG_17968295738980383 | Malluuuuuuuuuu woiiii,, ga prnh ikhlas klo emng bnr,,
+- IG_18119560618800128 | Masih bagusan video pengabdian dosen pemula yg cuma dpt dana hibah 5jt-10jutaan aja itu udh termasuk ngasih konsumsi dsn uang transport ke peserta desanya
+- IG_18122802325979959 | Mau deal ratecard besar dengan rejeki yang halal yaa Allah
+- IG_18061028816589653 | kasus kmren yg videographer katanya video itu hrus 0 rupiahhh 🤠🤠
+- IG_18150622933565245 | Lebih bermanfaat 14M di alihkan buat naikin gaji guru sih😭
+- IG_18434903299150405 | Duit pajak kita
+- IG_18133568695795448 | busyettt
+- IG_18135189607738341 | Thayiiiii
+- IG_18078662237752840 | jingan ogh
+- IG_18097539698442753 | ayoook unfollow mereka semuaa
+- IG_17977329030151982 | apa dia juga terafiliasi sama judol 🙂 soalny sering ada iklan judol dia yg ngiklanin entah real atau Ai
+- IG_18119615579048286 | OOOOO JADI PAJAK GW DAN ORTU GW CUMA BAYAR BUAT DIA DOANG, YA ALLAH GUSTI, GK IKHLAS ASLI😭😭😭😭
+- IG_18189488926419737 | ini sih bojoku iso buat e pakai capcut tapi
+- IG_18348898846251723 | 3,6M klo dipake Sparkling entah dermaga apami dibuat😂
+- IG_18036027209854766 | Ngenes bgt😢
+- IG_18092782958695521 | NAIKIN GAJI GURU !
+- IG_18117943463014283 | Lebih baik pria solo, uang pajak kita di pakai infrastruktur di negara kita, ini wowo coba uang pajak di pake ginian gak jelas 😂
+- IG_17956874646039116 | Gw kira lo pada modal sendiri. Ga taunya... ilfeel bgt
+- IG_18132255553842457 | Bagi2 ke nelayannya aja duitnya satt
+- IG_18147962674664970 | Gaji potong pajak, ke salon dr atas sampe bawah potong pajak, buka usaha pajak, beli beli di Roxy kena pajak, ngopi kena pajak… jd kita Abdi Negara cabang swasta yaa😂
+- IG_18079852031735232 | Alamak najisnye
+- IG_18660447565056148 | 3.6 dibagi 3 lumayan 1 orang pegang 1.2 menyala duda ku 🔥
+- IG_18385850035235335 | Cari nafkah cari berkah 😂😂😂 ah sudahlah
+- IG_18120433876983278 | Hadeh
+- IG_18389360278229884 | Andai budget segitu buat beasiswa pendidikan bagi mereka yg berprestasi tapi kurang mampu, atau menaikkan kesejahteraan guru honorer dan tenaga medis 😢
+- IG_17946433797089046 | Yang ACC tu perlu dituntut
+- IG_18001293233821905 | Nelayan nya dapet apa?
+- IG_18149004541571375 | udah diginiin kok msh ad yg mau follow raffi😢 74jt gk berkurang sedikitpun prettt
+- IG_17913198549603928 | Anyway, berapa gaji guru honorer skrg guys?
+- IG_17880406788632777 | JEMBUOOOOOOOTTT
+- IG_17900113956405234 | MEREKA BENCANA YANG SESUNGGUHNYA🔥🔥🔥
+- IG_18165640537431816 | Kirain dana dari YouTube mereka sendiri,..eh busyet ternyata kalo emang bener berita yang lagi viral sekarang,.auduillah mindalik,.enggak berkah tuh duit..,hisab nya sampai ke ubun-ubun,.mereka lupa kalo manusia bakal mati atau udah keenakan yak
+- IG_18094195367227269 | Cair bagi 4😂
+- IG_18126282110292603 | TEGA YA... Semati apa HATI mereka... Saking kayanya, nir empaty
+- IG_18076008194743478 | Wallahu'alam bishawab😢
+- IG_18094272716241480 | koq ga bilang terima kasih ke kita, Netijen?
+- IG_18046231928827783 | Mewakili ralyat yg mana ????????
+- IG_18096692933176190 | KAMPREETTTTT
+- IG_17927655375441498 | Manfaat buat kampung nelayannya apa? Apa? Apa?
+- IG_18401173915205601 | kita orang miskin sebenernya lebih kaya dari mereka karena gak secara langsung kita yg bayarin mereka lewat uang pajak (gitu gak sih konsepnya) 🙄🙄
+- IG_17938725765404353 | Bpycot artis² penyepong rezim
+
+## Sumber instagram DfieSGRORAz
+Konteks: Caption unggahan @kasihtahuai: Rakyat disuruh hemat, pegawai sampai patungan galon. Tapi buat jasa influencer, kementerian sanggup keluar Rp14,7 miliar 🙂 Menurut temuan ICW, kontrak ini mengalir ke perusahaan milik Raffi Ahmad dari dua kementerian. Sampai video ini dibuat, belum ada penjelasan dari pihak terkait. Menurutmu, 14 miliar ini lebih pantas buat apa? Tulis di komentar 👇 Sumber: ICW (9 No
+
+- IG_18110774096349153 | Nyesek banget, capek2 bayar pajak eh buat seneng2 orang kaya,
+- IG_18121840036995002 | ICW harus usut sampai tuntas.
+- IG_18161086531514227 | Selidiki rafi....uang nya ke mana,itu kan uang kita😢😢
+- IG_18084931388378012 | Gimna rakyat gak ngeritik, cara kerja pemerintah aja kayak begini,. Nanti giliran kita bersuara dibilang benci pemerintah, dibilang kita memecah belah, adu domba gak dukung program pemerintah..
+- IG_18105215780042115 | Enak banget mereka ngabisin uang rakyat ya..
+- IG_17956852263323382 | Jadi dia dapet double income dong. Dari adsense pribadi kontennya, Ama dari negara. Memang bener bener yaa
+- IG_17917508166499875 | Boneka ini bakalan kena imbasnya suatu saat nanti.
+- IG_17913750669592482 | Ya Allah 14miliar, bayar iuaran bpjs sebulan 500rb lebih, sekali berobat, obatnya harga 8rb, 6rb, dan bahkan ada obat seharga 8rb yang gak do cover bpjs, bayangkan 8ribu rupiah aja gak di cover 😭😭😭😭😭
+- IG_18148665913594789 | @user busettt
+- IG_17967833544009849 | Ternyata beneran tukang laundry duit rakyat 🔥🔥🔥
+- IG_18110168270570700 | Stop bayar pajak
+- IG_18040110971847844 | Masih pada bangga bs deket ama kelg raffi & mama gigi?. 😂😂 #kabuuŕr
+- IG_18099897839682980 | Kek 🐶 @user
+- IG_18120645712788174 | Berawal dari demo 29.. berujung kebongkar semua.. wajar desta belain rafi.. trnyata salah satu nya..
+- IG_18084389336532346 | jadi demo ke andara aja gaes?
+- IG_18039575717853443 | Bikin story doang 500jt ajg 😂, sedangkan tenaga ahli mau nyairin 100 jt aja harus bikin laporan pendahuluan, laporan antara, laporan akhir,revisi 1234.., presentasi 1234..., transfer knowledge ke ASN baru cair ber bulan2 kemudian 😂😂😂😂
+- IG_18140490628637669 | Kasian mahasewa cuma dapet 50rb 😂
+- IG_18191118406412541 | Pantesan 👏👏👏
+- IG_18126007399983954 | go blok
+- IG_18120362948098015 | Nagita ; "tunjukan kebenaran dgn kuasaMu." . ALLAH ; ~.Dengan senang hati. . ICW ; DWARRRRRR MMK
+- IG_18078579785748195 | Anjg
+- IG_18653196847061568 | GA ADA OTAAAKK 🤯🤯🤯
+- IG_18139537678639638 | Bhappp wkwkkw
+- IG_17984628390131685 | 😢Miris
+- IG_18380847778237414 | TOBAT FI @user
+- IG_18232696084332859 | Waduuuu
+- IG_18133595437868113 | Yg kasih kontrak dpat komisi berapa 🤭
+- IG_17955363069316051 | uang rakyat. sekali lagi uang rakyat
+- IG_17954142372308070 | naudzubillah 😢 ngeri banget @user
+- IG_18236079127324985 | Serakah
+- IG_17871421656659035 | Aku dan temen2 guruku yang patungan buat lapangan dan beli cat biar sekolah makinber warna dan ramah anak, sedih denger ini 😭😭😭
+- IG_17979894318149503 | Stop bayar pajak
+- IG_18014942159994318 | MANTAPPPPPP 🔥🔥
+- IG_17946585999365830 | gaji guru honorer dan bangun sekolah rusak
+- IG_18222718360346631 | Sedih tiap kali ingat 14.7
+- IG_17993054139114938 | Klo kerja pemerintah bener knapa perlu influencer
+- IG_17978857512160122 | Giliran naikin gaji guru gak ada dananya 😂
+- IG_18080624948422707 | Ga ngertii lagiii🤧
+- IG_17990175221878451 | Sangar Indonesia RAYA ho gah🩲
+- IG_17900506515396099 | Buat semua semangat ya kerjanya ingat masih ada keluarga raffi ahmad yg harus kita hidupi😴
+- IG_18107778227457071 | Andara : Anggaran dari Negara 😂 sa ae lu aa, bentar lg upload foto anak nih
+- IG_18114318302146096 | Gigi rapih dan keluarga punya istana di NEREKA
+- IG_18119625430802923 | Shiiiyyyytttt
+- IG_18438380788179172 | Gileee umbah umbah alias laundryyy
+- IG_18018649820992097 | Lebih pantas membantu memadamkan karhutla dan bayar gaji guru 😢
+- IG_18111753941190425 | RAKYATMU IKILOOO YAAWOOOHH EMBOH WESSSSS
+- IG_18131829820699951 | Yg ngasih duit ke dia juga salahkan.
+- IG_18156073753539787 | Bayar mahal tapi tak ada manfaatnya sama sekali untuk rakyat 😢😢😢
+
+## Sumber instagram Dfjw6WiDruz
+Konteks: Caption unggahan @isseinugroho: Raffi Ahmad Cair 14 Miliar #fyp #fypage #fypviral #indonesia #reelfyp #reelsindonesia #viral
+
+- IG_18146592289596715 | Serius?? pajak kita semua outputnya gini? WKWKWKWK negara lawak
+- IG_18009806988004145 | Tinggal pake baju putih terus klarifikasi sambil muka melas, masalah selesai 😂. Btw semangat kerjanya kalian, biar raffi sekeluarga bisa makan enak 🔥
+- IG_18133707206503946 | mama amy: affi mah orang baek
+- IG_18117642644024930 | Secara ga langsung bayarin program liburan mereka + bayaran mereka 😂 @user, @user, @user, @user
+- IG_17975696856170231 | SEMANGAT KERJA WNI ADA RAFATAR YG HARUS KITA BIAYAIN
+- IG_18118228391143212 | Bayangkan seluruh warga Indonesia nolak bayar pajak
+- IG_18114648638125720 | balikin pajak rakyat🙌
+- IG_18572928334073875 | KPk berani gak...periksa jelas2 itu👏
+- IG_18118442591586581 | @user njiing anjjng😂 ngakak abisss
+- IG_17928570444431863 | semuaa temen rafi DUDA : Dapet Duit Dari Anggaran ✍️
