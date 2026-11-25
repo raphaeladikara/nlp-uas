@@ -20,9 +20,10 @@ IndoBERTweet fine-tune,teks + judul,parafrase,126,0.584,0.583,-0.001,2/5,-0.008,
 IndoBERTweet fine-tune,teks + judul,jalur B + parafrase,249,0.584,0.595,0.011,3/5,-0.002,0.025
 IndoBERTweet fine-tune,teks + judul,jalur B + terarah,74,0.584,0.609,0.025,3/5,0.068,-0.002
 XLM-RoBERTa fine-tune,teks saja,jalur B + parafrase,249,0.479,0.529,0.05,5/5,0.132,0.0
-XLM-RoBERTa fine-tune,teks + judul,jalur B,42,0.539,0.563,0.024,4/5,0.056,-0.013
-XLM-RoBERTa fine-tune,teks + judul,parafrase,126,0.539,0.552,0.013,4/5,0.02,0.01
-XLM-RoBERTa fine-tune,teks + judul,jalur B + parafrase,249,0.539,0.58,0.041,4/5,0.054,0.026
+XLM-RoBERTa fine-tune,teks + judul,jalur B,42,0.55,0.534,-0.015,2/5,-0.045,-0.022
+XLM-RoBERTa fine-tune,teks + judul,parafrase,126,0.55,0.568,0.018,4/5,0.032,0.0
+XLM-RoBERTa fine-tune,teks + judul,jalur B + parafrase,249,0.55,0.584,0.034,4/5,0.051,0.008
+XLM-RoBERTa fine-tune,teks + judul,jalur B + terarah,74,0.55,0.551,0.002,3/5,0.036,-0.017
 IndoBERT embedding + LogReg,teks saja,jalur B,42,0.521,0.523,0.002,2/5,0.005,-0.004
 IndoBERT embedding + LogReg,teks saja,parafrase,137,0.521,0.513,-0.008,2/5,-0.02,0.003
 IndoBERT embedding + LogReg,teks saja,jalur B + parafrase,260,0.521,0.512,-0.009,1/5,-0.02,-0.004

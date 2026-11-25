@@ -179,7 +179,7 @@ ABSTRAK = {
     "Results:": "Fine-tuning IndoBERT dengan input komentar dan judul serta augmentasi dari komentar positif asli "
     "mendapat macro-F1 tertinggi untuk model tunggal, yaitu 0,616 (F1 positif 0,352), sedangkan ensemble IndoBERT dan "
     "IndoBERTweet mencapai 0,628. Judul unggahan memberi kenaikan yang paling konsisten. Komentar positif asli "
-    "menaikkan skor di sembilan dari sembilan konfigurasi, sedangkan back-translation hanya membantu satu dari "
+    "menaikkan skor di delapan dari sembilan konfigurasi, sedangkan back-translation hanya membantu satu dari "
     "sembilan. Hanya 2,5% komentar yang membela Raffi, dan porsi komentar negatif naik dari 63,2% menjadi 69,3% "
     "setelah klarifikasinya.",
     "Conclusion:": "Konteks unggahan dan contoh positif asli lebih berpengaruh daripada pilihan model. Komentar "
@@ -296,12 +296,19 @@ s.tabel(
         ["Skor", "Teks mirip dengan teks akun lain", "+2", ""],
         ["Skor", "Following lebih dari 10 kali followers, username generik, akun kosong, akun X tanpa bio dengan "
          "followers di bawah 50, lebih dari 100 tweet per hari, 3 hashtag atau lebih", "Masing-masing +1", ""],
-        ["Keputusan", "Skor 0 sampai 1", "Lolos", "6.104"],
-        ["Keputusan", "Skor 2 sampai 3 (zona batas)", "Tetap dilabeli, diputuskan lewat penilaian isi", "580"],
+        ["Keputusan", "Kena minimal satu aturan keras (berapa pun skornya)", "Dikeluarkan", "26"],
         ["Keputusan", "Skor 4 atau lebih", "Dikeluarkan", "10"],
+        ["Keputusan", "Skor 2 sampai 3 (zona batas), tidak kena aturan keras",
+         "Tetap dilabeli, diputuskan lewat penilaian isi", "580"],
+        ["Keputusan", "Skor 0 sampai 1, tidak kena aturan keras", "Lolos", "6.093"],
+        ["", "**Total yang masuk gerbang 7", "", "**6.709"],
     ],
     [1300, 4400, 2300, 1000],
 )
+s.isi("Empat kelompok keputusan di Tabel 3 tidak saling tumpang tindih dan jumlahnya 6.709, sama dengan teks yang masuk "
+      "gerbang buzzer. Teks yang kena aturan keras langsung dikeluarkan berapa pun skornya, jadi tidak dihitung lagi di "
+      "baris skor. Dari 26 teks itu, 11 sebenarnya punya skor 0 sampai 1 dan 15 punya skor 2 sampai 3. Yang lolos ke "
+      "tahap berikutnya adalah 6.093 teks lolos ditambah 580 teks zona batas, yaitu 6.673 teks seperti di Tabel 2.")
 s.isi("Sinyal profil tidak dipakai untuk YouTube. Pada percobaan pertama, 78% komentar YouTube masuk zona batas "
       "hanya karena channel penonton memang kosong. Hal yang sama membuat bobot sinyal akun kosong kami turunkan "
       "menjadi 1 di platform lain. Sinyal yang lebih sulit dipalsukan, yaitu umur akun dan perilaku posting, tetap "
@@ -467,7 +474,7 @@ ganti_tabel(tabel6,
                 ["TF-IDF + LinearSVM", "0,551", "-", "-", "0,587", "-"],
                 ["IndoBERT fine-tune", "0,607", "0,614", "0,603", "0,606", "0,616"],
                 ["IndoBERTweet fine-tune", "0,584", "0,597", "0,583", "0,595", "0,609"],
-                ["XLM-RoBERTa fine-tune", "0,539", "0,563", "0,552", "0,580", "-"],
+                ["XLM-RoBERTa fine-tune", "0,550", "0,534", "0,568", "0,584", "0,551"],
                 ["IndoBERT embedding + LogReg", "0,585", "0,586", "0,569", "0,570", "0,570"],
                 ["BiLSTM + attention", "0,507", "0,512", "0,499", "0,498", "0,505"],
             ],
@@ -476,9 +483,10 @@ isi(cari("Komentar positif jalur B menaikkan skor"),
     "Tabel 6 membandingkan setiap varian augmentasi langsung dengan kondisi tanpa augmentasi. Model, input, dan "
     "pembagian fold-nya sama, jadi yang berbeda hanya data positif tambahan di fold latih. Tanda \"-\" berarti "
     "kombinasi itu tidak dijalankan karena keterbatasan kuota GPU. Kalau semua konfigurasi dihitung, termasuk input "
-    "teks saja, jalur B menaikkan macro-F1 di 9 dari 9 konfigurasi (rata-rata +0,012) dan F1 positif rata-rata "
-    "+0,028. Jalur B + terarah membantu di 5 dari 8 konfigurasi. Parafrase hanya membantu XLM-RoBERTa (1 dari 9) dan "
-    "justru menurunkan F1 positif rata-rata 0,020. Dari cek manual, sekitar 1 dari 6 parafrase maknanya rusak atau "
+    "teks saja, jalur B menaikkan macro-F1 di 8 dari 9 konfigurasi (rata-rata +0,008) dan F1 positif rata-rata "
+    "+0,016. Satu-satunya yang turun adalah XLM-RoBERTa (0,550 ke 0,534), dan model ini juga paling tidak stabil "
+    "antar fold, misalnya standar deviasi F1 positif jalur B mencapai 0,122. Jalur B + terarah membantu di 6 dari 9 "
+    "konfigurasi. Parafrase hanya membantu XLM-RoBERTa (1 dari 9) dan justru menurunkan F1 positif rata-rata 0,018. Dari cek manual, sekitar 1 dari 6 parafrase maknanya rusak atau "
     "berbalik, dan parafrase memakai judul yang sama dengan teks aslinya, jadi model bisa menghafal judul. Untuk "
     "model utama, IndoBERT fine-tune, macro-F1 naik dari 0,607 tanpa augmentasi menjadi 0,616 dengan jalur B + "
     "terarah, dan F1 positif naik dari 0,293 menjadi 0,352.")
@@ -496,6 +504,41 @@ isi(p, p.text.replace(
     "paling banyak satu teks augmentasi. Lima balasan X yang tweet induknya tidak ter-scrape ikut terbuang di gerbang "
     "relevansi, dan penandaan buzzer hanya menunjukkan indikasi, bukan bukti bahwa akunnya dibayar. Penilai manusia juga "
     "bisa melihat suara ketiga LLM saat menilai, jadi label manusia mungkin ikut terpengaruh label LLM."))
+
+# Angka XLM-R mengikuti run kedua (24 Nov) yang ada di data/07_transformer, karena run pertama tidak bisa diunduh lagi
+XLMR = [
+    ("jadi totalnya ada 56 konfigurasi dari sembilan model", "jadi totalnya ada 57 konfigurasi dari sembilan model"),
+    ("paling besar di IndoBERT embedding + LogReg (+0,064), XLM-RoBERTa (+0,060), dan TF-IDF + LogReg (+0,058)",
+     "paling besar di XLM-RoBERTa (+0,071), IndoBERT embedding + LogReg (+0,064), dan TF-IDF + LogReg (+0,058)"),
+    ("menurunkan macro-F1 dari 0,617 ke 0,602", "menurunkan macro-F1 dari 0,617 ke 0,612"),
+    ("skor konfigurasi yang sama bergeser dari 0,614 ke 0,597, sejalan dengan temuan Mosbach et al. (2021).",
+     "skor konfigurasi yang sama bergeser dari 0,614 ke 0,597, sejalan dengan temuan Mosbach et al. (2021). Hal yang "
+     "sama terjadi di XLM-RoBERTa. Kernelnya ikut selesai dijalankan ulang pada 24 November dan hasilnya menggantikan "
+     "run pertama, sehingga konfigurasi teks + judul jalur B bergeser dari 0,563 ke 0,534. Semua angka XLM-RoBERTa di "
+     "laporan ini memakai run kedua."),
+    (" XLM-RoBERTa tidak dilatih ulang dengan varian terarah karena paling lemah dan satu kernel butuh sekitar satu jam "
+     "GPU.", ""),
+]
+for lama_, baru in XLMR:
+    kena = [p for p in d.paragraphs if lama_ in p.text]
+    assert len(kena) == 1, lama_
+    isi(kena[0], kena[0].text.replace(lama_, baru))
+
+for t in d.tables:
+    for r in t.rows:
+        sel = [c.text.strip() for c in r.cells]
+        if len(sel) == 7 and sel[1] == "XLM-RoBERTa fine-tune":
+            for i, v in zip((3, 4, 5, 6), ("0,582", "0,592", "0,584 ± 0,017", "0,295")):
+                isi(r.cells[i].paragraphs[0], v)
+        if sel[0].startswith("Sampel positif dari akun Raffi"):
+            isi(r.cells[2].paragraphs[0], "Jalur B membantu 8/9, parafrase 1/9, terarah 6/9")
+tabel7 = [t for t in d.tables if t.rows[0].cells[2].text.strip() == "Macro-F1 jalur B"][0]
+acuan = [r for r in tabel7.rows if r.cells[0].text.strip() == "IndoBERTweet fine-tune"][0]
+baris = copy.deepcopy(acuan._tr)
+acuan._tr.addnext(baris)
+for tc, v in zip(baris.findall(qn("w:tc")),
+                 ["XLM-RoBERTa fine-tune", "teks + judul", "0,534", "0,551", "3/5", "0,198", "0,279"]):
+    isi(docx.text.paragraph.Paragraph(tc.find(qn("w:p")), None), v)
 
 # 11. Referensi: maksimal 5 referensi lama, 4 pengganti terbaru
 SITASI = [

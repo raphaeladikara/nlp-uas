@@ -53,7 +53,7 @@ dengan skrip di `scraping/`, dan semua tahap setelahnya (`02_csv` dst.) sudah ad
 | 16 Nov | Review 5 orang selesai, dataset 3.272 teks. Baseline TF-IDF dan IndoBERTweet (versi biner) selesai. Laporan progress dan presentasi dibuat. |
 | 17 Nov | Revisi setelah konsultasi dosen: audit filter manual, batch 28 (39 teks baru), review 3 lapis + Fleiss' kappa, target biner dihapus, augmentasi positif, tambah model IndoBERT, XLM-R, embedding, BiLSTM. |
 | 22 Nov | Review 3 lapis selesai (kappa 0,286), dataset final 3.329 teks (84 positif). Notebook 05 dan laporan revisi dibuat. Learning curve belum jenuh, jadi disiapkan pelabelan terarah (300 teks). |
-| 23 Nov | Pelabelan AI terarah selesai. XLM-R selesai (terbaik 0,580). |
+| 23 Nov | Pelabelan AI terarah selesai. XLM-R run pertama selesai. |
 | 24 Nov | Review tim untuk data terarah digabung (kappa 0,260, 35 positif dari 300, 32 dipakai sebagai augmentasi latih). Paper format UAS disusun ulang. |
 
 ## Hasil utama (macro-F1, 3 kelas, rata-rata fold)
@@ -63,9 +63,9 @@ dengan skrip di `scraping/`, dan semua tahap setelahnya (`02_csv` dst.) sudah ad
 | Ensemble IndoBERT + IndoBERTweet, jalur B + terarah | 0,628 |
 | IndoBERT teks+judul, jalur B + terarah (model tunggal terbaik) | 0,616 |
 | TF-IDF + LogReg, jalur B + terarah | 0,603 |
-| XLM-R terbaik | 0,580 |
+| XLM-R terbaik (run kedua, 24 Nov) | 0,584 |
 
-Temuan lain: jalur B membantu di 9 dari 9 model, parafrase back-translation hanya membantu 1 dari 9 (XLM-R), threshold
+Temuan lain: jalur B membantu di 8 dari 9 konfigurasi (kecuali XLM-R), parafrase back-translation hanya membantu 1 dari 9 (XLM-R), threshold
 tuning tidak menambah skor, dan data terarah justru menurunkan model embedding beku. Selisih antar model terbaik masih
 di dalam simpangan baku antar fold. Detail angka ada di `notebooks/05_perbandingan_analisis_kesalahan.ipynb` dan
 `data/09_perbandingan/`.
