@@ -163,25 +163,29 @@ for p in d.paragraphs:
 
 # 1. Abstract dan keywords
 ABSTRAK = {
-    "Background:": "Public reaction to Raffi Ahmad after the 29 October 2026 \"paid students\" declaration is spread "
-    "across thousands of comments on four social media platforms. Classifying stance toward him is difficult because "
-    "supportive comments are rare (2.5%) and are often written in an angry tone directed at his critics.",
-    "Objective:": "This study builds and compares models that classify netizens' stance toward Raffi Ahmad (negative, "
-    "neutral, positive), and tests whether post titles and positive-class augmentation improve the classification.",
-    "Methods:": "We collected 7,020 texts from X, Instagram, YouTube, and TikTok (22 October to 14 November 2026) and "
-    "passed them through eight filtering gates whose flagged candidates were checked manually. Three LLM annotators "
-    "labeled 3,525 sampled texts, and every non-unanimous text was relabeled by three human annotators (Fleiss' kappa "
-    "0.286), resulting in 3,329 texts. Nine models were compared using grouped stratified 5-fold cross-validation with "
-    "two inputs (comment only and comment with post title) and three train-only augmentation sources.",
-    "Results:": "Fine-tuned IndoBERT with comment and title input plus augmentation from real positive comments achieved "
-    "the best single-model macro-F1 of 0.616 (positive-class F1 0.352), while an IndoBERT and IndoBERTweet ensemble "
-    "reached 0.628. Adding the post title gave the most consistent improvement. Real positive comments improved all "
-    "nine configurations, whereas back-translation improved only one of nine. Only 2.5% of comments supported Raffi, "
-    "and the negative share rose from 63.2% to 69.3% after his clarification.",
-    "Conclusion:": "Post context and real positive examples matter more than the choice of model. Supportive comments "
-    "written in an angry tone remain the main source of error.",
-    "Keywords:": "stance classification; Indonesian sentiment analysis; IndoBERT; data augmentation; LLM-assisted "
-    "annotation",
+    "Background:": "Reaksi warganet terhadap Raffi Ahmad setelah deklarasi \"mahasiswa bayaran\" pada 29 Oktober 2026 "
+    "tersebar di ribuan komentar di empat platform media sosial. Sikap terhadap Raffi sulit diklasifikasikan secara "
+    "otomatis karena komentar yang membelanya sangat sedikit (2,5%) dan sering ditulis dengan nada marah kepada "
+    "pengkritiknya.",
+    "Objective:": "Penelitian ini membangun dan membandingkan model untuk mengklasifikasikan sikap warganet terhadap "
+    "Raffi Ahmad (negatif, netral, positif), serta menguji apakah judul unggahan dan augmentasi kelas positif dapat "
+    "memperbaiki hasil klasifikasi.",
+    "Methods:": "Sebanyak 7.020 teks dikumpulkan dari X, Instagram, YouTube, dan TikTok (22 Oktober sampai 14 November "
+    "2026), lalu disaring melalui delapan gerbang filter yang kandidatnya diperiksa manual. Sampel 3.525 teks dilabeli "
+    "tiga LLM, dan setiap teks yang tidak disepakati bulat dinilai ulang oleh tiga orang (Fleiss' kappa 0,286), "
+    "sehingga diperoleh 3.329 teks. Sembilan model dibandingkan dengan grouped stratified 5-fold cross-validation, "
+    "dua jenis input (komentar saja dan komentar dengan judul unggahan), serta tiga sumber augmentasi yang hanya "
+    "ditambahkan ke data latih.",
+    "Results:": "Fine-tuning IndoBERT dengan input komentar dan judul serta augmentasi dari komentar positif asli "
+    "mendapat macro-F1 tertinggi untuk model tunggal, yaitu 0,616 (F1 positif 0,352), sedangkan ensemble IndoBERT dan "
+    "IndoBERTweet mencapai 0,628. Judul unggahan memberi kenaikan yang paling konsisten. Komentar positif asli "
+    "menaikkan skor di sembilan dari sembilan konfigurasi, sedangkan back-translation hanya membantu satu dari "
+    "sembilan. Hanya 2,5% komentar yang membela Raffi, dan porsi komentar negatif naik dari 63,2% menjadi 69,3% "
+    "setelah klarifikasinya.",
+    "Conclusion:": "Konteks unggahan dan contoh positif asli lebih berpengaruh daripada pilihan model. Komentar "
+    "pembelaan yang ditulis dengan nada marah masih menjadi sumber kesalahan utama.",
+    "Keywords:": "klasifikasi sikap; analisis sentimen bahasa Indonesia; IndoBERT; augmentasi data; pelabelan dengan "
+    "LLM",
 }
 for label, teks in ABSTRAK.items():
     p = cari(label)
@@ -317,30 +321,56 @@ hapus(lama)
 # 5 sampai 7. Pelabelan, 871 dan 881, suara terbanyak, kappa, jalur A dan B
 lama = cari("Setiap teks diberi label sikap terhadap Raffi")
 s = Penyisip(lama)
-s.isi("Sampel yang dilabeli berisi 4.050 teks: 3.525 teks jalur A dan 525 teks jalur B. Setiap teks diberi label "
-      "sikap terhadap Raffi, yaitu negatif, netral, positif, atau tidak relevan. Tiga LLM (Claude Opus, Sonnet, dan "
-      "Haiku) melabeli secara terpisah dan tidak bisa melihat jawaban satu sama lain. Ada 3.169 teks yang disepakati "
-      "bulat oleh ketiganya (2.750 jalur A dan 419 jalur B), dan labelnya langsung dipakai. Sisanya 881 teks (775 "
-      "jalur A dan 106 jalur B) masuk review manusia.")
-s.isi("Satu kartu review berisi satu teks, jadi 881 kartu sama dengan 881 teks berbeda. Setiap kartu dinilai tepat "
-      "tiga orang dari lima anggota kelompok, sehingga totalnya 2.643 penilaian. Label akhir adalah label yang "
-      "dipilih minimal dua dari tiga orang, dan ini berlaku di 852 kartu. Kalau ketiga orang memilih tiga label "
-      "berbeda (29 kartu), label diputuskan lewat diskusi tim. Di versi awal, antrean review berisi 871 kartu (767 "
-      "jalur A dan 104 jalur B) yang masing-masing dinilai satu orang. Setelah revisi filter, 39 teks baru ikut "
-      "dilabeli dan 10 di antaranya tidak disepakati bulat, jadi antreannya menjadi 881 kartu. Semua angka review di "
-      "laporan ini memakai 881 kartu.")
-s.isi("Fleiss' kappa dihitung dari 881 kartu itu dengan empat kategori. Untuk setiap kartu dihitung proporsi pasangan "
-      "penilai yang sepakat, lalu dirata-rata menjadi kesepakatan teramati Po = 0,569. Kesepakatan kebetulan "
-      "Pe = 0,396 dihitung dari proporsi setiap kategori di semua penilaian. Nilai kappa adalah (Po - Pe) / (1 - Pe) "
-      "= 0,286, masuk kategori cukup (fair). Fleiss' kappa tidak mensyaratkan tiga orang yang sama di setiap kartu, "
-      "cukup jumlah penilai per kartu sama, jadi kombinasi tiga dari lima orang boleh berbeda antar kartu. Angkanya "
-      "rendah karena kartu yang direview memang teks yang membuat tiga LLM tidak sepakat. Kappa per kategori paling "
-      "rendah di netral (0,219) dan paling tinggi di positif (0,581).")
-s.isi("Dataset final hanya berisi jalur A. Dari 3.525 teks jalur A, 14 teks dikeluarkan karena terindikasi buzzer saat "
-      "review dan 182 teks dibuang karena tidak relevan, sehingga tersisa 3.329 teks: 2.206 negatif (66,3%), 1.039 "
-      "netral (31,2%), dan 84 positif (2,5%). Jalur B dilabeli dengan alur yang sama tetapi terpisah dari dataset "
-      "utama. Jalur B tidak masuk data uji maupun statistik sikap warganet, dan hanya 42 komentar positifnya yang "
-      "dipakai sebagai augmentasi di data latih.")
+s.isi([("Pelabelan oleh tiga LLM. ", True, None),
+       ("Sampel yang dilabeli berisi 4.050 teks, yaitu 3.525 teks jalur A dan 525 teks jalur B. Setiap teks diberi "
+        "label sikap terhadap Raffi: negatif, netral, positif, atau tidak relevan. Aturannya kami tulis di codebook. "
+        "Aturan terpentingnya adalah cek sasaran: label negatif atau positif hanya diberikan kalau yang disikapi "
+        "memang Raffi, yaitu dirinya, jabatannya, RANS, atau klarifikasinya. Komentar yang hanya mengejek mahasiswa "
+        "bayaran atau pihak lain dilabeli netral. Tiga LLM (Claude Opus, Sonnet, dan Haiku) melabeli batch yang sama "
+        "secara terpisah dan tidak bisa melihat jawaban satu sama lain. Judul unggahan ditulis di atas setiap "
+        "kelompok komentar, karena banyak komentar seperti \"14M\" atau \"pantes aja\" baru jelas maknanya kalau "
+        "unggahannya diketahui. Ada 3.169 teks yang disepakati bulat oleh ketiga LLM (2.750 jalur A dan 419 jalur B), "
+        "dan labelnya langsung dipakai. Sisanya 881 teks (775 jalur A dan 106 jalur B) tidak disepakati bulat atau "
+        "ditandai buzzer oleh minimal satu LLM, sehingga masuk review manusia.", None, None)])
+s.isi([("Review manusia versi awal. ", True, None),
+       ("Di versi awal tanggal 16 November, antrean review berisi 871 kartu (767 jalur A dan 104 jalur B), dan "
+        "setiap kartu hanya dinilai satu orang. Kartu dibagi bergiliran ke lima anggota kelompok, sekitar 168 kartu "
+        "per orang. Ada juga 30 kartu kalibrasi yang dinilai kelima orang untuk mengukur kesepakatan, dan dari kartu "
+        "itu didapat Fleiss' kappa 0,393. Setiap orang menerima satu halaman HTML yang bisa dibuka offline di "
+        "browser. Halaman itu menampilkan teks, judul unggahan, tautan ke sumbernya, suara ketiga LLM beserta "
+        "catatannya, dan panduan singkat dari codebook. Setelah selesai, hasilnya diekspor ke CSV lalu digabung. "
+        "Masalahnya, label sebagian besar kartu bergantung pada satu orang yang kebetulan mendapat kartu itu, dan "
+        "kappa hanya dihitung dari 30 kartu.", None, None)])
+s.isi([("Review tiga orang. ", True, None),
+       ("Setelah konsultasi tanggal 17 November, dosen meminta setiap teks yang belum disepakati dinilai tiga orang. "
+        "Revisi filter juga menambah 39 teks baru yang dilabeli sebagai batch 28, dan 10 di antaranya tidak "
+        "disepakati bulat, jadi antreannya menjadi 881 kartu. Satu kartu berisi satu teks, jadi 881 kartu sama dengan "
+        "881 teks berbeda. Setiap kartu punya tiga slot penilai. Slot pertama diisi hasil review versi awal supaya "
+        "pekerjaan lama tidak terbuang. Untuk 30 kartu kalibrasi yang dulu dinilai lima orang, kami mengambil tiga "
+        "penilai secara acak (seed 42), supaya semua kartu punya jumlah penilai yang sama. Dari 2.643 slot, 909 sudah "
+        "terisi dari review lama. Sisanya 1.734 slot dibagi rata ke lima orang dalam berkas tugas masing-masing, "
+        "dengan aturan satu orang tidak pernah mendapat kartu yang sama dua kali.", None, None)])
+s.isi("Setelah putaran pertama, masih ada 72 kartu yang kurang penilai. Kekurangannya, yaitu 84 penilaian, diisi lewat "
+      "halaman HTML tambahan oleh anggota yang belum pernah menilai kartu itu. Di halaman yang sama, 25 kartu yang "
+      "ditandai buzzer juga dicek ulang. Label akhir adalah label yang dipilih minimal dua dari tiga orang, dan ini "
+      "berlaku di 852 kartu. Kalau ketiga orang memilih tiga label berbeda (29 kartu), label diputuskan lewat "
+      "diskusi tim. Dari hasil diskusi itu, dua kartu yang dilabeli positif kami koreksi menjadi negatif, karena "
+      "isinya ternyata memuji orang yang meneriaki Raffi dan musisi yang ikut boikot. Semua angka review di laporan "
+      "ini memakai 881 kartu dari review tiga orang, bukan 871 kartu versi awal.")
+s.isi([("Kesepakatan penilai. ", True, None),
+       ("Fleiss' kappa dihitung dari 881 kartu dengan empat kategori. Untuk setiap kartu dihitung proporsi pasangan "
+        "penilai yang sepakat, lalu dirata-rata menjadi kesepakatan teramati Po = 0,569. Kesepakatan kebetulan "
+        "Pe = 0,396 dihitung dari proporsi setiap kategori di semua penilaian. Nilai kappa adalah (Po - Pe) / (1 - Pe) "
+        "= 0,286, masuk kategori cukup (fair). Fleiss' kappa tidak mensyaratkan tiga orang yang sama di setiap kartu, "
+        "cukup jumlah penilai per kartu sama, jadi kombinasi tiga dari lima orang boleh berbeda antar kartu. Angkanya "
+        "rendah karena kartu yang direview memang teks yang membuat tiga LLM tidak sepakat. Kappa paling rendah di "
+        "kategori netral (0,219) dan paling tinggi di positif (0,581). Kartu jalur B lebih mudah disepakati (0,484) "
+        "daripada jalur A (0,257), karena komentar di akun Raffi biasanya langsung ditujukan ke Raffi.", None, None)])
+s.isi([("Dataset final. ", True, None),
+       ("Dataset final hanya berisi jalur A. Dari 3.525 teks jalur A, 14 teks dikeluarkan karena terindikasi buzzer "
+        "saat review dan 182 teks dibuang karena tidak relevan, sehingga tersisa 3.329 teks: 2.206 negatif (66,3%), "
+        "1.039 netral (31,2%), dan 84 positif (2,5%). Jalur B dilabeli dengan alur yang sama tetapi disimpan terpisah "
+        "dari dataset utama. Cara jalur B dipakai dijelaskan di subbab Augmentasi kelas positif.", None, None)])
 hapus(lama)
 
 # 9 dan 10. Preprocessing BERT dan contoh judul
@@ -369,19 +399,52 @@ s.isi("Panjang maksimal input adalah 128 token untuk teks saja dan 256 token unt
 hapus(lama)
 
 # 6 dan 8. Augmentasi hanya positif di fold latih, seri di pelabelan terarah
-s = Penyisip(cari("Augmentasi hanya ditambahkan ke fold latih"))
-s.isi("Semua data augmentasi berlabel positif. Jumlahnya 327 baris: 42 komentar jalur B, 253 parafrase, dan 32 teks "
-      "dari pelabelan terarah. Data ini hanya ditambahkan ke fold latih. Parafrase dari teks yang sedang berada di "
-      "fold uji juga dikeluarkan dari data latih fold itu, supaya model tidak pernah melihat versi lain dari teks yang "
-      "sedang diuji. Fold uji selalu berisi data asli tanpa tambahan.")
-s.isi("Pelabelan terarah memakai aturan suara terbanyak yang sama. Sebanyak 73 kartu yang tidak disepakati bulat tiga "
-      "LLM dinilai tiga orang (Fleiss' kappa 0,260). Ada 7 kartu yang seri, artinya ketiga orang memilih tiga label "
-      "berbeda. Berbeda dengan data utama, ketujuh kartu ini tidak kami diskusikan, tetapi diputus dengan mayoritas "
-      "tiga LLM. Ada tiga alasan. Pertama, data terarah hanya dipakai sebagai tambahan data latih, tidak pernah masuk "
-      "data uji atau statistik sikap warganet, jadi labelnya tidak memengaruhi angka evaluasi secara langsung. Kedua, "
-      "setiap kartu sudah punya mayoritas dua dari tiga LLM yang dibuat terpisah dari penilaian manusia, jadi ada "
-      "pendapat ketiga yang independen. Ketiga, dari tujuh kartu itu hanya satu yang akhirnya berlabel positif, "
-      "sehingga paling banyak satu dari 32 teks augmentasi bergantung pada aturan ini.")
+lama = cari("Augmentasi hanya ditambahkan ke fold latih")
+s = Penyisip(lama)
+s.isi("Dataset final hanya punya 84 teks positif, jadi setiap fold latih hanya berisi sekitar 67 teks positif. Di "
+      "versi awal kami hanya memakai class weight, dan F1 positif berhenti di 0,338. Karena itu, di versi akhir kami "
+      "menambah contoh positif dari tiga sumber yang dicoba bertahap: jalur B, parafrase, lalu pelabelan terarah. "
+      "Semua tambahan berlabel positif dan hanya masuk fold latih. Fold uji selalu berisi data asli jalur A tanpa "
+      "tambahan, jadi angka evaluasi tetap mengukur kemampuan model di percakapan publik yang sebenarnya.")
+s.isi([("Jalur B. ", True, None),
+       ("Sumber pertama adalah komentar di 8 unggahan dua akun Instagram Raffi sendiri (@raffinagita1717 dan "
+        "@ukp_mudaseni_raffiahmad). Komentar ini sudah kami scraping sejak awal, tetapi di versi awal sengaja tidak "
+        "dipakai untuk melatih model, hanya sebagai pembanding. Alasannya, yang berkomentar di akun Raffi kebanyakan "
+        "pengikutnya atau orang yang sengaja datang untuk menyerangnya, jadi isinya tidak mewakili percakapan publik. "
+        "Setelah konsultasi dengan dosen, kami memakai komentar positif dari jalur B untuk menambah data latih, "
+        "karena di sana pembelaan terhadap Raffi lebih mudah ditemukan. Dari 571 komentar mentah, 525 lolos filter "
+        "dan dilabeli dengan alur yang sama dengan jalur A (tiga LLM, lalu tiga orang untuk teks yang tidak "
+        "disepakati). Setelah teks tidak relevan dan buzzer dibuang, tersisa 514 teks dengan 78,0% negatif dan 8,2% "
+        "positif (42 teks). Porsi positif ini lebih dari tiga kali jalur A, walaupun jumlahnya tetap kecil. Yang kami "
+        "ambil hanya 42 teks positif itu, karena kelas negatif dan netral sudah cukup banyak di data utama. Kalau "
+        "seluruh jalur B dimasukkan, proporsi kelas di data latih justru bergeser ke negatif. Kami juga memeriksa "
+        "bahwa tidak ada akun atau teks jalur B yang sama dengan data utama, dan hasilnya tidak ada yang perlu "
+        "dibuang. Jalur B tidak pernah masuk fold uji maupun statistik sikap warganet.", None, None)])
+s.isi([("Parafrase. ", True, None),
+       ("Sumber kedua adalah parafrase dari teks positif yang sudah ada. Teks diterjemahkan dari bahasa Indonesia ke "
+        "bahasa Inggris lalu kembali ke bahasa Indonesia memakai OPUS-MT di GPU Kaggle (back-translation). Hasilnya "
+        "253 parafrase dari 103 teks positif (67 dari jalur A dan 36 dari jalur B). Parafrase dari teks yang sedang "
+        "berada di fold uji ikut dikeluarkan dari data latih fold itu, supaya model tidak pernah melihat versi lain "
+        "dari teks yang sedang diuji.", None, None)])
+s.isi([("Pelabelan terarah. ", True, None),
+       ("Sumber ketiga kami tambahkan pada 22 November, setelah learning curve kelas positif menunjukkan model masih "
+        "kekurangan contoh positif asli. Melabeli semua 2.623 teks cadangan terlalu mahal, jadi kami memakai model "
+        "TF-IDF untuk mengurutkan teks cadangan berdasarkan skor positif. Lalu 250 teks teratas dan 50 teks acak "
+        "sebagai pembanding dilabeli dengan alur yang sama. Annotator tidak diberi tahu skor atau cara teks itu "
+        "dipilih. Sebanyak 73 kartu yang tidak disepakati bulat tiga LLM dinilai tiga orang (Fleiss' kappa 0,260). "
+        "Hasilnya 35 teks positif, dan setelah teks buzzer dan teks dari akun yang sudah ada di dataset utama dibuang, tersisa 32 "
+        "teks positif baru.", None, None)])
+s.isi("Ada 7 kartu terarah yang seri, artinya ketiga orang memilih tiga label berbeda. Berbeda dengan data utama, "
+      "ketujuh kartu ini tidak kami diskusikan, tetapi diputus dengan mayoritas tiga LLM. Ada tiga alasan. Pertama, "
+      "data terarah hanya dipakai sebagai tambahan data latih, tidak pernah masuk data uji atau statistik sikap "
+      "warganet, jadi labelnya tidak memengaruhi angka evaluasi secara langsung. Kedua, setiap kartu sudah punya "
+      "mayoritas dua dari tiga LLM yang dibuat terpisah dari penilaian manusia, jadi ada pendapat ketiga yang "
+      "independen. Ketiga, dari tujuh kartu itu hanya satu yang akhirnya berlabel positif, sehingga paling banyak "
+      "satu dari 32 teks augmentasi bergantung pada aturan ini.")
+s.isi("Secara total ada 327 baris augmentasi: 42 komentar jalur B, 253 parafrase, dan 32 teks terarah. Setiap sumber "
+      "diuji terpisah dan digabung, lalu dibandingkan dengan kondisi tanpa augmentasi pada model, input, dan fold "
+      "yang sama (Tabel 6).")
+hapus(lama)
 
 # Tabel 4 (versi awal dan akhir): baris review manusia
 for t in d.tables:
@@ -431,7 +494,8 @@ isi(p, p.text.replace(
     "Tujuh kartu terarah yang seri juga diputus dengan mayoritas 3 LLM, bukan lewat diskusi tim.",
     "Tujuh kartu terarah yang seri juga diputus dengan mayoritas 3 LLM, bukan lewat diskusi tim, walaupun dampaknya "
     "paling banyak satu teks augmentasi. Lima balasan X yang tweet induknya tidak ter-scrape ikut terbuang di gerbang "
-    "relevansi, dan penandaan buzzer hanya menunjukkan indikasi, bukan bukti bahwa akunnya dibayar."))
+    "relevansi, dan penandaan buzzer hanya menunjukkan indikasi, bukan bukti bahwa akunnya dibayar. Penilai manusia juga "
+    "bisa melihat suara ketiga LLM saat menilai, jadi label manusia mungkin ikut terpengaruh label LLM."))
 
 # 11. Referensi: maksimal 5 referensi lama, 4 pengganti terbaru
 SITASI = [
