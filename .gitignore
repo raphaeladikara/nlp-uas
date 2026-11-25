@@ -1,0 +1,16 @@
+# Rahasia (API key Apify/YouTube ada di ../.env, di luar folder ini)
+.env
+.env.*
+kaggle.json
+
+# Data mentah hasil scraping: besar (108 MB) dan berisi profil akun publik.
+# Bisa dibuat ulang dengan skrip di scraping/. Log scraping tetap disimpan.
+data/01_raw/*.json
+
+# File sementara
+__pycache__/
+.ipynb_checkpoints/
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
