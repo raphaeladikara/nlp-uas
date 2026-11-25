@@ -1,0 +1,161 @@
+72 run
+GAGAL raffi_isu 2026-10-22 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL raffi_ahmad 2026-10-24 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL raffi_isu 2026-10-24 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL rafi_typo 2026-10-24 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL raffi_ahmad 2026-10-25 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL raffi_isu 2026-10-25 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL rafi_typo 2026-10-25 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+2026-10-23 raffi_ahmad  ->   5 ($0.000)
+2026-10-23 rafi_typo    ->   1 ($0.000)
+2026-10-23 raffi_isu    ->   1 ($0.000)
+2026-10-22 rafi_typo    ->   2 ($0.000)
+2026-10-22 raffi_ahmad  ->   8 ($0.000)
+GAGAL rafi_typo 2026-10-27 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+2026-10-26 raffi_ahmad  ->   9 ($0.000)
+GAGAL raffi_isu 2026-10-28 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+2026-10-26 raffi_isu    ->   1 ($0.000)
+2026-10-26 rafi_typo    ->   6 ($0.000)
+2026-10-27 raffi_isu    ->   4 ($0.000)
+2026-10-27 raffi_ahmad  ->  25 ($0.000)
+GAGAL raffi_ahmad 2026-10-30 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL raffi_isu 2026-10-30 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+2026-10-28 rafi_typo    ->  40 ($0.000)
+2026-10-28 raffi_ahmad  ->  85 ($0.021)
+2026-10-29 rafi_typo    ->  40 ($0.000)
+2026-10-30 rafi_typo    ->  40 ($0.000)
+2026-10-29 raffi_ahmad  ->  59 ($0.015)
+2026-10-29 raffi_isu    ->  97 ($0.024)
+2026-10-31 rafi_typo    ->  40 ($0.005)
+2026-10-31 raffi_ahmad  ->  83 ($0.010)
+GAGAL raffi_isu 2026-11-02 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL rafi_typo 2026-11-02 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+2026-11-01 rafi_typo    ->  40 ($0.000)
+2026-11-01 raffi_ahmad  ->  99 ($0.025)
+2026-10-31 raffi_isu    ->  82 ($0.021)
+2026-11-01 raffi_isu    ->  64 ($0.016)
+2026-11-02 raffi_ahmad  ->  79 ($0.020)
+2026-11-03 rafi_typo    ->  26 ($0.000)
+2026-11-03 raffi_ahmad  ->  60 ($0.015)
+2026-11-04 raffi_isu    ->  35 ($0.000)
+2026-11-03 raffi_isu    ->  60 ($0.015)
+2026-11-04 rafi_typo    ->  14 ($0.000)
+2026-11-05 raffi_isu    ->  19 ($0.005)
+2026-11-04 raffi_ahmad  ->  89 ($0.022)
+2026-11-05 rafi_typo    ->  24 ($0.000)
+2026-11-06 raffi_isu    ->  17 ($0.000)
+2026-11-05 raffi_ahmad  ->  65 ($0.016)
+GAGAL raffi_ahmad 2026-11-08 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL raffi_isu 2026-11-08 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL rafi_typo 2026-11-08 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+2026-11-06 rafi_typo    ->  39 ($0.000)
+2026-11-06 raffi_ahmad  -> 109 ($0.027)
+2026-11-07 raffi_isu    ->  48 ($0.000)
+2026-11-07 rafi_typo    ->  40 ($0.000)
+2026-11-07 raffi_ahmad  -> 114 ($0.029)
+2026-11-09 rafi_typo    ->  40 ($0.000)
+GAGAL raffi_ahmad 2026-11-11 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL raffi_isu 2026-11-11 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+2026-11-09 raffi_ahmad  -> 120 ($0.030)
+2026-11-10 rafi_typo    ->  40 ($0.005)
+2026-11-10 raffi_ahmad  -> 120 ($0.030)
+2026-11-11 rafi_typo    ->  40 ($0.000)
+2026-11-09 raffi_isu    -> 120 ($0.030)
+2026-11-12 rafi_typo    ->  40 ($0.000)
+2026-11-10 raffi_isu    -> 120 ($0.030)
+GAGAL raffi_ahmad 2026-11-14 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL raffi_isu 2026-11-14 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+GAGAL rafi_typo 2026-11-14 {
+  "error": {
+    "type": "concurrent-runs-limit-exceeded",
+    "message": "By launching this job you will exceed your 
+2026-11-12 raffi_isu    ->  86 ($0.022)
+2026-11-13 rafi_typo    ->  40 ($0.000)
+2026-11-13 raffi_ahmad  -> 120 ($0.025)
+2026-11-12 raffi_ahmad  -> 120 ($0.030)
+2026-11-13 raffi_isu    ->  88 ($0.022)
+total baris 2763
+21 run
+2026-10-24 raffi_isu    ->   1 ($0.000)
+2026-10-24 raffi_ahmad  ->   4 ($0.000)
+2026-10-22 raffi_isu    ->   2 ($0.000)
+2026-10-25 raffi_ahmad  ->   8 ($0.000)
+2026-10-24 rafi_typo    ->   3 ($0.000)
+2026-10-25 raffi_isu    ->   2 ($0.000)
+2026-10-25 rafi_typo    ->   4 ($0.000)
+2026-10-27 rafi_typo    ->  40 ($0.000)
+2026-10-28 raffi_isu    ->  82 ($0.021)
+2026-10-30 raffi_ahmad  ->  81 ($0.010)
+2026-11-02 raffi_isu    ->  20 ($0.000)
+2026-10-30 raffi_isu    ->  99 ($0.010)
+2026-11-02 rafi_typo    ->  39 ($0.000)
+2026-11-08 raffi_ahmad  -> 120 ($0.020)
+2026-11-08 rafi_typo    ->  40 ($0.000)
+2026-11-08 raffi_isu    -> 120 ($0.030)
+2026-11-14 raffi_ahmad  ->   0 ($0.000)
+2026-11-11 raffi_isu    -> 120 ($0.030)
+2026-11-11 raffi_ahmad  -> 120 ($0.025)
+2026-11-14 rafi_typo    ->  18 ($0.000)
+2026-11-14 raffi_isu    ->  25 ($0.006)
+total baris 3712
+X_DONE

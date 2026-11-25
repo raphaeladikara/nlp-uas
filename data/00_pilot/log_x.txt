@@ -1,0 +1,4 @@
+'raffi ahmad since:2026-10-26 until:2026-10-27'                        -> 7 tweet ($0.000, SUCCEEDED)
+'raffi ahmad since:2026-10-30 until:2026-10-31'                        -> 30 tweet ($0.000, SUCCEEDED)
+'raffi mahasiswa bayaran OR raffi mahasewa since:2026-10-30 until:2026-10-31' -> 30 tweet ($0.000, SUCCEEDED)
+'raffi ahmad since:2026-11-10 until:2026-11-11'                        -> 30 tweet ($0.000, SUCCEEDED)

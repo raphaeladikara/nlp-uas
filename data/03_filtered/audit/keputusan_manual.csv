@@ -1,0 +1,120 @@
+id,gerbang,keputusan,alasan
+IG_18103743104380668,2,pertahankan,pemilik unggahan (kreator) menilai isi klarifikasi Raffi; ini opini tentang Raffi
+IG_18106514381201584,2,buang,membetulkan nama pemilik akun; tidak menyikapi topik
+IG_18123906991986154,2,buang,sapaan ke akun lain (pujian untuk komika); tidak menyikapi topik
+IG_17985232770126355,2,buang,ucapan semangat untuk film akun lain; tidak menyikapi topik
+IG_17957550417257457,2,buang,ucapan terima kasih dan info kanal kritik; tidak menyikapi topik
+IG_17909326086589017,2,buang,pujian untuk saudara pemilik akun; tidak menyikapi topik
+IG_18447917920125712,2,buang,sapaan ke akun lain; tidak menyikapi topik
+IG_18101993993661595,2,buang,ucapan terima kasih; tidak menyikapi topik
+IG_18010841972779083,2,buang,"hanya 'EXACTLY', isi yang disetujui ada di komentar induk yang tidak ter-scrape"
+IG_18168076729433247,2,buang,membetulkan nama pemilik akun; tidak menyikapi topik
+IG_17979885318133596,2,buang,ucapan terima kasih; tidak menyikapi topik
+IG_18346100560261293,2,pertahankan,menanggapi soal uang negara yang diterima Raffi; opini tentang topik
+IG_18029562866697023,2,buang,"hanya 'Cinggg', tidak ada isi yang bisa dinilai"
+IG_18128198144485312,2,buang,hanya emoji api setelah mention
+IG_18380737024242124,2,pertahankan,membenarkan fakta gurita bisnis Raffi; opini tentang topik
+IG_17900806494609723,2,pertahankan,menyetujui sindiran soal keserakahan di unggahan gurita bisnis Raffi
+IG_18245822701315675,2,pertahankan,sindiran soal kursi komisaris di bisnis Raffi
+IG_18089371421294403,2,pertahankan,menuduh Raffi berbohong; opini tentang Raffi
+IG_17975220252150156,2,pertahankan,membandingkan pengalaman mengurus NIB dengan banyaknya perusahaan Raffi
+IG_18101992913656766,2,buang,hanya emoji api setelah mention
+IG_17909754399334449,2,pertahankan,"sindiran 'mesin turbo' untuk cepatnya bisnis Raffi bertambah"
+IG_18003431427059708,2,pertahankan,sindiran soal banyaknya akta perusahaan Raffi
+IG_18209113036329728,2,pertahankan,menilai bisnis Raffi sebagai hasil pembodohan struktural
+IG_18149412220549852,2,pertahankan,menyetujui pendapat pembaca soal bisnis Raffi
+IG_17900085807674433,2,pertahankan,menilai bisnis Raffi sebagai hasil pembodohan struktural
+IG_18135893827671301,2,buang,promosi jasa dengan ajakan cek link di bio
+YT_UgzVboli_HWDYaPZ4Ql4AaABAg,2,buang,admin channel membetulkan tanggal di videonya
+YT_UgxeCY8v__nQ_itaoSF4AaABAg,2,buang,admin channel mengajak penonton berkomentar; isinya pengulangan narasi video
+X_2115593246642741482,4a,buang,bahasa Inggris dan membahas pernikahan; tidak menyebut Raffi
+X_2114551850267709563,4a,buang,bahasa Inggris dan membahas Rafi Ahmad Kidwai (politikus India); orang lain
+X_2116006900399837577,4a,pertahankan,mengutip tweet Indonesia tentang Raffi; sasaran sama walau ditulis dalam bahasa Inggris
+X_2117104052043715058,4a,pertahankan,campuran Indonesia-Inggris tentang Raffi
+X_2117077862440476673,4a,pertahankan,campuran Indonesia-Inggris tentang Raffi
+X_2117793453975482698,4a,pertahankan,warganet Indonesia membahas kebijakan Indonesia dan menyebut Raffi; relevansi diputuskan annotator
+X_2119089435384115428,4a,pertahankan,bahasa Indonesia; kode bahasa X salah
+X_2119444900374864227,4a,buang,bahasa Inggris dan membahas CRPF India; tidak menyebut Raffi
+X_2119940179045872082,4a,pertahankan,bahasa Indonesia; kode bahasa X salah
+X_2120469145603174681,4a,pertahankan,bahasa Indonesia; kode bahasa X salah
+X_2120454230066786547,4a,pertahankan,campuran Indonesia-Inggris tentang Raffi
+X_2120424192990695601,4a,pertahankan,bahasa Indonesia; kode bahasa X salah
+X_2120900023299010724,4a,pertahankan,hanya nama Raffi; relevansi diputuskan annotator
+X_2120782192544739806,4a,pertahankan,hanya nama Raffi; relevansi diputuskan annotator
+X_2120696889574379632,4a,pertahankan,campuran Indonesia-Inggris tentang Raffi
+X_2121314079935807724,4a,pertahankan,membandingkan IShowSpeed dengan Raffi; kode bahasa X salah
+X_2120165915480518840,4a,pertahankan,bahasa Jawa tentang Raffi; kode bahasa X salah
+X_2116412954648383582,4b,pertahankan,"kata 'giveaway' bagian dari opini tentang Raffi dan Willie Salim, bukan promosi"
+X_2116384795848827351,4b,pertahankan,"kata 'gacor' dipakai menyindir bisnis Raffi, bukan judol"
+X_2116698361437081600,4b,pertahankan,"kata 'gacor' dipakai menyindir Raffi, bukan judol"
+X_2116768849139737066,4b,pertahankan,"kata 'giveaway' bagian dari cerita parodi tentang Raffi, bukan promosi"
+X_2116480248930001049,4b,pertahankan,"kata 'gacor' dipakai menuduh Raffi, bukan judol"
+X_2119139435300388881,4b,pertahankan,"kata 'gacor' untuk film, isinya membandingkan dengan Raffi"
+X_2116060770383626503,4b,pertahankan,"kata 'giveaway' bagian dari opini tentang Raffi dan Willie Salim"
+IG_17875528209596943,4b,pertahankan,"kata 'giveaway' dipakai menyindir Raffi"
+IG_18112979588227184,4b,pertahankan,"kata 'slot' berarti slot promosi, isinya kritik kontrak influencer"
+YT_UgyaU96JxOsRQw1OZkt4AaABAg,4b,pertahankan,"kata 'gacor' dipakai menyindir pemerintah, bukan judol"
+X_2121526601427165208,5,buang,"hanya angka '10' sebagai balasan, tweet induk tidak ter-scrape"
+X_2117856522004996188,5,buang,ganti foto profil
+X_2118931259082830268,5,buang,iklan jual koin kuno
+X_2119655975481413728,5,buang,membahas pajak langganan video; tidak menyebut Raffi
+X_2119655716768399818,5,buang,balasan pendek tanpa sasaran yang jelas
+X_2119655315897799035,5,buang,ajakan follow back
+X_2119654802380775732,5,buang,membahas jabatan untuk pemain bola; tidak menyebut Raffi
+X_2119653603610923086,5,buang,membahas biaya pendidikan; tidak menyebut Raffi atau kasus
+X_2119651738563285407,5,buang,obrolan pribadi
+X_2119652169733550224,5,buang,obrolan lokasi
+X_2119649420824506510,5,buang,obrolan pribadi soal UTS
+X_2119650868786327810,5,buang,bahasa Telugu
+X_2119648034011353491,5,buang,membahas jalan dan stadion Surabaya
+X_2119642079727145088,5,buang,membahas KRL dan Persebaya
+X_2119640527482335473,5,buang,membahas oposisi dan Prabowo; tidak menyebut Raffi
+X_2120767788524691476,5,buang,membahas mark-up anggaran kementerian tanpa menyebut Raffi; tweet induk tidak ter-scrape jadi sasaran tidak bisa dipastikan
+X_2120743112888975703,5,buang,balasan pendek tanpa sasaran yang jelas
+X_2120736665455276136,5,buang,iklan jual koin kuno
+X_2120732974140559432,5,buang,puisi pribadi
+X_2120732888425787508,5,buang,puisi pribadi
+X_2120732825775444305,5,buang,puisi pribadi
+X_2120732595034235006,5,buang,puisi pribadi
+X_2120732432957907356,5,buang,puisi pribadi
+X_2121115832986354053,5,buang,menanyakan berita penyelidikan KPK tanpa menyebut siapa; link dan tweet induk tidak ter-scrape
+X_2121559785506251077,5,buang,balasan pendek tanpa sasaran yang jelas
+X_2121556097488314396,5,buang,obrolan makanan
+X_2121555624815366599,5,buang,cerita pribadi soal olahraga
+X_2121545070004547959,5,buang,sindiran tontonan tanpa menyebut siapa; tweet induk tidak ter-scrape
+X_2121544540788330574,5,buang,obrolan fans JKT48
+X_2121535974832533615,5,buang,balasan pendek tanpa sasaran yang jelas
+X_2121526557332435037,5,buang,obrolan cuaca
+X_2121519071795839012,5,buang,obrolan pribadi
+X_2121506695792976125,5,buang,obrolan fans JKT48
+X_2121505660865044934,5,buang,balasan tertawa tanpa isi
+X_2121497978573873615,5,buang,obrolan pribadi
+X_2115981872706777212,5,buang,berbagi link berita tanpa isi; link tidak ter-scrape
+X_2120031258407510153,5,pertahankan,mengajak menumbangkan 'gurita bisnis' yang di periode ini merujuk ke bisnis Raffi (sama dengan unggahan IG Gurita bisnis Raffi Ahmad)
+X_2121050037463797872,5,buang,berita mundurnya Gibran; tidak menyebut Raffi
+X_2121104152176824363,5,buang,iklan jual koin kuno
+X_2121104150834643104,5,buang,pamer barang baru
+X_2121102065443488255,5,buang,bahasa Telugu
+X_2121092162704355794,5,buang,membahas dukungan ke Jokowi dan Gibran; tidak menyebut Raffi
+X_2121089572125962364,5,buang,membahas KRL Surabaya
+X_2121086488054235217,5,buang,debat soal Jokowi; tidak menyebut Raffi
+X_2121084914489753632,5,buang,balasan pendek tanpa sasaran yang jelas
+X_2121080362038386891,5,buang,membahas Nadin dan hari ayah
+X_2121135649088766463,5,buang,membahas visi politik dan Prabowo; tidak menyebut Raffi
+X_2121135275535716789,5,buang,obrolan pribadi
+X_2121132180957217225,5,buang,tidak bermakna
+X_2121125105841619368,5,buang,obrolan ibadah
+X_2121124472015212819,5,buang,narasi kampanye pemerintah tanpa menyebut Raffi
+X_2121123637499474332,5,buang,konten masak
+X_2121123284855238889,5,buang,narasi kampanye pemerintah tanpa menyebut Raffi
+X_2121122379225284833,5,buang,narasi kampanye pemerintah tanpa menyebut Raffi
+X_2121122253857607759,5,buang,narasi kampanye pemerintah tanpa menyebut Raffi
+X_2121120683518579170,5,buang,obrolan pribadi
+X_2121119645956767769,5,buang,obrolan zona waktu
+X_2121117823116402902,5,buang,komentar soal tontonan lain
+X_2121115842435833887,5,buang,menyindir Prabowo dan ChatGPT; tidak menyebut Raffi
+X_2121554774675870149,5,buang,balasan pendek tanpa sasaran yang jelas
+X_2121553834631950376,5,buang,teks terpotong tanpa isi
+X_2114596088460288385,4a,buang,bahasa Urdu; tidak membahas Raffi
+X_2121547758993825887,4a,buang,bahasa Hindi; tidak membahas Raffi
+X_2120467162729165183,4a,buang,bahasa Urdu; tidak membahas Raffi

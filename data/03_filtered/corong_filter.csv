@@ -1,0 +1,11 @@
+﻿tahap,x,instagram,youtube,tiktok,total
+0. mentah (setelah buang ID kembar),2197,1989,2000,834,7020
+1. rentang tanggal,2197,1989,2000,834,7020
+2. pemilik unggahan,2197,1975,1998,834,7004
+3. tanpa isi,2197,1832,1992,833,6854
+4. bahasa & spam,2191,1832,1992,833,6848
+5. relevansi X,2131,1832,1992,833,6788
+6. duplikat,2088,1807,1987,827,6709
+7. buzzer,2056,1804,1986,827,6673
+8. batas per sumber,2056,1804,1986,827,6673
+9. sampel untuk dilabeli,1314,1434,801,501,4050

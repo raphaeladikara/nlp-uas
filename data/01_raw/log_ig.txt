@@ -1,0 +1,48 @@
+keyword 'raffi ahmad'                          -> 8 post ($0.021)
+keyword 'raffi ahmad mahasiswa bayaran'        -> 7 post ($0.016)
+keyword 'mahasewa'                             -> 8 post ($0.021)
+keyword 'raffi ahmad bundaran hi'              -> 8 post ($0.021)
+keyword 'raffi ahmad klarifikasi'              -> 8 post ($0.021)
+keyword 'deklarasi sumpah pemuda mahasiswa'    -> 8 post ($0.021)
+keyword 'raffi ahmad 14 miliar'                -> 8 post ($0.021)
+keyword 'raffi ahmad icw'                      -> 7 post ($0.016)
+keyword 'rans carnival boikot'                 -> 8 post ($0.021)
+hashtag -> 115 post ($0.244)
+akun raffi -> 55 post ($0.149)
+A DfEbNa5Pllh kompascom 44445 2026-10-29 Polda Metro Jaya menggelar acara bertajuk “Deklarasi Sumpah 
+A DfhwiKUhk9Y soeara.indonesia 33543 2026-11-09 Indonesia Corruption Watch (ICW) menyoroti pengadaan jasa in
+A DfHtni4SCwP andovidalopez 19892 2026-10-30 Dear Raffi Ahmad
+A DfhkXTJCYL0 kabinetrakyatri 13182 2026-11-09 EKSPRESI SAYANG RAKYAT KE AA RAFFI AHMAD Social experiment d
+A DfFFMvtPAY0 kontrapolitik 12683 2026-10-29 Demo mahasiswa ditindak atas nama “sterilisasi”, tapi esokny
+A DfieSGRORAz kasihtahuai 12027 2026-11-09 Rakyat disuruh hemat, pegawai sampai patungan galon. Tapi bu
+A DfHMGCWj_65 isseinugroho 11819 2026-10-30 RAKYAT !!!! MUAK BANGET sama Willie Salim & Raffi Ahmad #fyp
+A DfH8ZaBhPTI kohdennies 7280 2026-10-30 Eh Raffi Ahmad. Lu ngapain kmrn di Bundaran HI?
+A DfENUbEhbvb liputanwargajakarta 7019 2026-10-29 Sebanyak 100 mahasiswa mengikuti Deklarasi Sumpah Pemuda Mah
+A DfhU5R_k5LL ceritaselamanya 6956 2026-11-09 Rp14.7 BILLION in public funds for influencer services? 👀 In
+A DfLNZHXT6aE gerpolek.id 4148 2026-10-31 Minta maaf karena acaranya kena cancel culture dan berpengar
+A DfLut1Ejv8W julia_4j 3485 2026-11-01 Gurita bisnis Raffi Ahmad sudah ditulis dengan sangat detail
+A DfJHnGnEobp volix.media 3335 2026-10-31 Raffi Ahmad dan Willie Salim klarifikasi soal kehadiran mere
+A Dfjw6WiDruz isseinugroho 3259 2026-11-10 Raffi Ahmad Cair 14 Miliar #fyp #fypage #fypviral #indonesia
+A DfG3p2Ckteg idnvoice 2590 2026-10-30 Deklarasi Sumpah Pemuda di Bundaran HI yang turut dihadiri R
+A Dfh4bcWI52O kisahdalamgambar 2162 2026-11-09 UANG RAKYAT Rp14,69 MILIAR UNTUK PROMOSI PEMERINTAH. SEBERAP
+A DfRlUo4mIIZ tribunnews 1570 2026-11-03 Ibunda presenter Raffi Ahmad, Amy Qanita mendadak menuliskan
+A DfH2Y3GttAP nandangsutisnachannel 1521 2026-10-30 Ironi Sumpah Pemuda! Di tengah acara yang dihadiri Raffi Ahm
+A DfHYGS5E120 pubivox 1519 2026-10-30 YouTuber gaming Windah Basudara menyindir keterlibatan Willi
+A DfV6JH1mDWT tribun_video 1469 2026-11-05 Bosnya Kena Boikot, Asisten Raffi Ahmad Nangis, Siap Jalani 
+A DfLj9BfyRsI hanifmuh_ 1090 2026-11-01 rame di Threads, musisi sama UMKM satu per satu mundur dari 
+A DflcEMqn1Zy luarbioskop 959 2026-11-11 PT Rans Entertainment Indonesia Tbk (RANS) akhirnya memberik
+jalur A: 1822 komentar ($2.824, SUCCEEDED)
+B DfH5Jj9pbAu ukp_mudaseni_raffiahmad 120106 2026-10-30 Assalamualaikum Wr Wb, Selamat malam, izinkan saya untuk mel
+B DfKwRY2zcl9 ukp_mudaseni_raffiahmad 82716 2026-10-31 🙏🏻🇮🇩
+B DfNX0YRk4xr raffinagita1717 28168 2026-11-01 Ya Allah, aku titipkan suamiku dalam penjagaan-Mu. Lelaki ya
+B DfSMF8JIM0Y raffinagita1717 15858 2026-11-03 Ajja ... Makasih yaa pelukannyaa buat Papa ... ❤️
+B Dfo4UQbmdbm raffinagita1717 13301 2026-11-12 Hari ini, ada rasa yang sulit saya ungkapkan .... Tidak semu
+B DeyEwT9mdzY raffinagita1717 3060 2026-10-22 Menghadiri Sidang Kabinet Paripurna dua tahun pemerintahan P
+B DfFUyMSo5Qe raffinagita1717 3032 2026-10-29 Latihan ballet ❤️❤️
+B DfFQ5bgmU7A raffinagita1717 2762 2026-10-29 🧑🏻‍🩰cute
+jalur B: 351 komentar ($0.535, SUCCEEDED)
+APIFY_API5: 834 akun -> 834 profil ($2.166, SUCCEEDED)
+APIFY_API6: 835 akun -> 835 profil ($2.168, SUCCEEDED)
+IG_DONE
+APIFY_API5: 116 akun -> 116 profil ($0.302, SUCCEEDED)
+APIFY_API6: 117 akun -> 117 profil ($0.304, SUCCEEDED)

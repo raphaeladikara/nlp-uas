@@ -1,0 +1,13 @@
+keyword 'raffi ahmad mahasiswa bayaran'     -> 7 post ($0.018)
+keyword 'raffi ahmad bundaran hi'           -> 8 post ($0.021)
+keyword 'raffi ahmad klarifikasi'           -> 8 post ($0.021)
+akun raffi -> 12 post ($0.032)
+  pilih DfKwRY2zcl9 ukp_mudaseni_raffiahmad 82715 2026-10-31T18:06:22.000Z Traceback (most recent call last):
+  File "C:\Users\Raphael Angelo\Documents\Kuliah\Semester 5\NLP\UAS\scraping\pilot.py", line 134, in <module>
+    {"x": x, "ig": ig, "yt": yt, "tt": tt}[sys.argv[1]]()
+  File "C:\Users\Raphael Angelo\Documents\Kuliah\Semester 5\NLP\UAS\scraping\pilot.py", line 77, in ig
+    print("  pilih", p["shortCode"], p.get("ownerUsername"), p.get("commentsCount"), p.get("timestamp"),
+  File "C:\Users\Raphael Angelo\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-3: character maps to <undefined>
