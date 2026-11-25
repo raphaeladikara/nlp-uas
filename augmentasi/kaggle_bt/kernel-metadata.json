@@ -1,0 +1,1 @@
+{"id": "raphaeladikara/uas-nlp-raffi-back-translation", "title": "uas-nlp-raffi-back-translation", "code_file": "back_translation.py", "language": "python", "kernel_type": "script", "is_private": true, "enable_gpu": false, "enable_internet": true, "dataset_sources": ["raphaeladikara/uas-nlp-raffi-v2"], "competition_sources": [], "kernel_sources": []}
