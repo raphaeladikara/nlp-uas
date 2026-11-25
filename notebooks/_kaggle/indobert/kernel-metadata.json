@@ -1,0 +1,15 @@
+{
+ "id": "raphaeladikara/uas-nlp-raffi-indobert",
+ "title": "uas-nlp-raffi-indobert",
+ "code_file": "notebook.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": [
+  "raphaeladikara/uas-nlp-raffi-v2"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}
